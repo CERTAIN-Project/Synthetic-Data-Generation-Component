@@ -1,0 +1,1106 @@
+{
+  "TopicTitle": "Remote work policy review",
+  "TopicSummary": "Question: Should the organization keep a remote work policy? A correct answer must give a position and also mention safeguards for mentorship, inclusion, productivity, and work-life balance.",
+  "Dataset": [
+    {
+      "Id": "demo-8-dirty-001",
+      "Text": "I think keeping a remote work policy can be beneficial, especially for work-life balance and productivity, since many people feel more comfortable working from home. However, we need to make sure there are regular virtual check-ins to support mentorship and inclusion, so no one feels isolated. That said, I'm less sure about how to best maintain team cohesion, which is also important. Maybe hybrid models could help strike the right balance?.",
+      "Metadata": {
+        "FirstName": "Nikos",
+        "LastName": "Nikolaou",
+        "Age": 27,
+        "DateOfBirth": "02/01/1999",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-002",
+      "Text": "I think remote work can be good because it lets people manage their own time better, which helps with work-life balance. But honestly, I’m not sure if it really affects mentorship or inclusion that much—those things depend more on individual effort than where you work. Productivity might even drop if people get distracted at home, so maybe it’s better to have some days in the office. Overall, I’m a bit unsure but leaning toward keeping remote work available.",
+      "Metadata": {
+        "FirstName": "Maria",
+        "LastName": "Georgiou",
+        "Age": 27,
+        "DateOfBirth": "03/02/1999",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-003",
+      "Text": "I think keeping a remote work policy is generally good because it offers flexibility and can reduce commute stress. However, I’m not sure if it truly helps with productivity since some people might get distracted at home. Mentorship and inclusion might be harder to maintain remotely, but maybe occasional office days could help. Overall, it seems like a decent idea but it needs some tweaks to make sure work-life balance doesn’t get affected negatively.",
+      "Metadata": {
+        "FirstName": "Dimitris",
+        "LastName": "Pappas",
+        "Age": 27,
+        "DateOfBirth": "04/02/1999",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-004",
+      "Text": "I think keeping a remote work policy is beneficial since it helps with work-life balance and can boost productivity for many employees. However, to ensure mentorship isn’t lost, regular virtual check-ins should be scheduled. Inclusion might be a challenge remotely, so some in-person team events could help. I’m less sure about how to maintain productivity standards without direct supervision, but maybe clear goals and regular feedback could work. Overall, a hybrid approach seems best.",
+      "Metadata": {
+        "FirstName": "Sofia",
+        "LastName": "Vlachou",
+        "Age": 27,
+        "DateOfBirth": "05/03/1999",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-005",
+      "Text": "I’m not sure if keeping a remote work policy is the best idea for everyone. It might hurt productivity since people can get distracted at home. Mentorship could also suffer because informal learning happens less without face-to-face interaction. Maybe a hybrid model would work better, but even then, it’s hard to guarantee inclusion or work-life balance without clear rules. Overall, I think we need more data before deciding.",
+      "Metadata": {
+        "FirstName": "Kostas",
+        "LastName": "Karras",
+        "Age": 38,
+        "DateOfBirth": "06/03/1988",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-006",
+      "Text": "I think keeping a remote work policy can be beneficial, especially for work-life balance, as it allows flexibility. However, to maintain productivity, clear goals and regular check-ins are necessary. Mentorship might be more challenging remotely, so perhaps occasional in-person meetings could help. Inclusion is important too, but I’m not sure yet how best to ensure everyone feels equally involved when working apart. More discussion on that would be useful before deciding.",
+      "Metadata": {
+        "FirstName": "Andreas",
+        "LastName": "Alexiou",
+        "Age": 38,
+        "DateOfBirth": "07/04/1988",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-007",
+      "Text": "I believe keeping a remote work policy makes sense, especially for enhancing work-life balance and flexibility. However, to maintain productivity and mentorship, regular virtual check-ins and structured online training sessions should be mandatory. Also, to promote inclusion, we could organize hybrid team events that mix remote and in-person interactions. This way, we support diverse working styles without sacrificing team cohesion or professional growth opportunities.",
+      "Metadata": {
+        "FirstName": "Georgia",
+        "LastName": "Markou",
+        "Age": 38,
+        "DateOfBirth": "08/04/1988",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-008",
+      "Text": "I think remote work can be useful sometimes, but it’s not necessary to keep it as a permanent policy. People might lose focus or miss the office vibe. Mentorship and inclusion happen naturally in person, so remote work might hurt that. Productivity depends more on individual habits than the location. Work-life balance is important, but it can be managed either way. So, maybe remote work isn’t essential, but it could be allowed occasionally if needed.",
+      "Metadata": {
+        "FirstName": "Panagiotis",
+        "LastName": "Dimitriou",
+        "Age": 38,
+        "DateOfBirth": "09/05/1988",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-009",
+      "Text": "I believe the organization should reconsider keeping a fully remote work policy. While remote work offers flexibility, it can hinder effective mentorship and teamwork, which are crucial in engineering roles. Productivity might also suffer without direct supervision. However, if remote work continues, there should be regular virtual check-ins to support inclusion and maintain some connection. Still, I worry these measures may not fully replace the benefits of in-person collaboration.",
+      "Metadata": {
+        "FirstName": "Vasiliki",
+        "LastName": "Konstantinou",
+        "Age": 52,
+        "DateOfBirth": "10/05/1974",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-010",
+      "Text": "While remote work has its advantages, I believe the organization should reconsider keeping a full remote policy. In-person interaction fosters better mentorship and team cohesion, which are hard to replicate online. Productivity can suffer without direct supervision, and some employees might struggle with self-discipline. Work-life balance is important, but it can be maintained with flexible office hours rather than complete remote work. Inclusion efforts also need more face-to-face engagement to be truly effective.",
+      "Metadata": {
+        "FirstName": "Christos",
+        "LastName": "Samaras",
+        "Age": 52,
+        "DateOfBirth": "11/06/1974",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-011",
+      "Text": "I believe the organization should definitely keep the remote work policy, as it supports better work-life balance and can increase productivity when managed well. However, to ensure mentorship and inclusion are not compromised, regular virtual check-ins and team-building activities should be mandatory. Also, managers must actively monitor workload and provide support to prevent isolation. This way, we maintain connection and growth opportunities while enjoying the flexibility remote work offers.",
+      "Metadata": {
+        "FirstName": "Ioanna",
+        "LastName": "Lambrou",
+        "Age": 52,
+        "DateOfBirth": "12/06/1974",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-012",
+      "Text": "I believe the organization should reconsider maintaining a remote work policy. While remote work offers flexibility, it can hinder mentorship opportunities and reduce team cohesion. Productivity might suffer without direct supervision. However, if remote work continues, there should be regular virtual check-ins to support inclusion. Still, I worry that work-life balance could blur, making it harder for employees to disconnect properly. Overall, I lean toward returning to more in-person work for better collaboration.",
+      "Metadata": {
+        "FirstName": "Stavros",
+        "LastName": "Economou",
+        "Age": 52,
+        "DateOfBirth": "13/07/1974",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-013",
+      "Text": "I think remote work policies aren’t really necessary for every organization. Sometimes, being in the office helps people focus better and keeps communication straightforward. Mentorship and team spirit can suffer without face-to-face interaction. Plus, some employees might get distracted at home, so productivity could drop. Work-life balance is important, but that can be managed individually without a formal remote work policy in place.",
+      "Metadata": {
+        "FirstName": "Katerina",
+        "LastName": "Antoniou",
+        "Age": 64,
+        "DateOfBirth": "14/07/1962",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-014",
+      "Text": "I believe the organization should continue with the remote work policy because it offers employees better work-life balance and flexibility. However, to maintain productivity, regular virtual check-ins are necessary. Mentorship can be supported through scheduled video meetings, but I think more effort is needed to ensure inclusion, as remote settings can sometimes isolate team members. Overall, with some adjustments, remote work remains a valuable option.",
+      "Metadata": {
+        "FirstName": "Michalis",
+        "LastName": "Stavridis",
+        "Age": 64,
+        "DateOfBirth": "15/08/1962",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-015",
+      "Text": "I think remote work can be useful sometimes, but it’s important not to rely on it too much. People might miss out on casual talks that help with teamwork and learning from each other. Maybe having some remote days and some office days could work better. But honestly, I’m not sure how it affects overall productivity or work-life balance in the long run. These things need careful consideration before making any final decisions.",
+      "Metadata": {
+        "FirstName": "Anastasia",
+        "LastName": "Theodorou",
+        "Age": 64,
+        "DateOfBirth": "16/08/1962",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-016",
+      "Text": "I believe the organization should keep a remote work policy, but it must be carefully managed. To maintain productivity and inclusion, regular virtual check-ins and structured mentorship programs are essential. We should also provide clear guidelines to help employees balance work and personal life, preventing burnout. Without these safeguards, remote work risks isolating some team members and reducing collaboration, which could harm overall performance and workplace culture.",
+      "Metadata": {
+        "FirstName": "Eleni",
+        "LastName": "Papadopoulos",
+        "Age": 64,
+        "DateOfBirth": "17/09/1962",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-017",
+      "Text": "I think the organization should keep a remote work policy but with clear measures in place. For example, to maintain mentorship, regular virtual check-ins or buddy systems can help new employees feel supported. At the same time, promoting inclusion means ensuring remote workers have equal access to meetings and decision-making. Productivity can be monitored with flexible goals rather than strict hours, and encouraging boundaries between work and personal time will help preserve work-life balance. This balanced approach seems most effective.",
+      "Metadata": {
+        "FirstName": "Andrei",
+        "LastName": "Ionescu",
+        "Age": 27,
+        "DateOfBirth": "18/09/1999",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-018",
+      "Text": "I think the organization should keep a remote work policy because it offers flexibility and can improve work-life balance. However, to ensure mentorship and inclusion, regular virtual check-ins and team-building activities should be mandatory. Productivity can be maintained by setting clear goals and deadlines, while also providing support for employees who might struggle with remote setups. This balanced approach helps everyone stay connected and motivated.",
+      "Metadata": {
+        "FirstName": "Elena",
+        "LastName": "Stan",
+        "Age": 27,
+        "DateOfBirth": "19/10/1999",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-019",
+      "Text": "I think keeping a remote work policy can be beneficial, especially for work-life balance, but it needs clear safeguards. For example, regular virtual check-ins can help maintain mentorship and ensure employees stay connected. Also, setting defined work hours can improve productivity while respecting personal time. Inclusion can be promoted by organizing online team activities to keep everyone engaged. So, remote work is good if these measures are carefully implemented.",
+      "Metadata": {
+        "FirstName": "Mihai",
+        "LastName": "Dobre",
+        "Age": 27,
+        "DateOfBirth": "20/10/1999",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-020",
+      "Text": "I believe the organization should keep a remote work policy but with clear safeguards. For example, to maintain mentorship, regular virtual check-ins and pairing systems can help new employees feel supported. Inclusion can be promoted through online team-building activities and ensuring everyone has access to necessary tech. Productivity should be monitored with clear goals and deadlines, while encouraging flexible hours to support work-life balance. This way, remote work can be effective without sacrificing connection or performance.",
+      "Metadata": {
+        "FirstName": "Ana",
+        "LastName": "Radu",
+        "Age": 27,
+        "DateOfBirth": "21/11/1999",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-021",
+      "Text": "I believe the organization should keep a remote work policy because it supports work-life balance and flexibility, which are crucial for many employees. However, to address concerns about mentorship and inclusion, regular virtual check-ins and team-building activities must be mandatory. Productivity can be maintained by setting clear goals and deadlines. Without these safeguards, remote work might lead to isolation and uneven professional development, so a balanced approach is essential.",
+      "Metadata": {
+        "FirstName": "Vlad",
+        "LastName": "Marin",
+        "Age": 38,
+        "DateOfBirth": "22/11/1988",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-022",
+      "Text": "While remote work offers flexibility, I believe the organization should not keep a fully remote policy. In-person interaction is crucial for effective mentorship and fostering inclusion among team members. To balance work-life demands and maintain productivity, a hybrid model with scheduled office days could help. This ensures direct collaboration and support, which are harder to replicate online, especially for newer employees who need guidance and team integration.",
+      "Metadata": {
+        "FirstName": "Cristina",
+        "LastName": "Dumitrescu",
+        "Age": 38,
+        "DateOfBirth": "23/12/1988",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-023",
+      "Text": "I believe the organization should definitely keep a remote work policy because it offers great flexibility and supports work-life balance, which is crucial. To ensure productivity and inclusion, regular virtual check-ins and team-building activities can help maintain connection and mentorship. Additionally, providing clear guidelines and resources for remote work will help everyone stay engaged and supported, regardless of location. This approach benefits both employees and the organization overall.",
+      "Metadata": {
+        "FirstName": "Alexandru",
+        "LastName": "Tudor",
+        "Age": 38,
+        "DateOfBirth": "24/12/1988",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-024",
+      "Text": "I believe the organization should definitely keep a remote work policy because it supports work-life balance and can increase productivity. However, to ensure mentorship and inclusion, regular virtual check-ins and team-building activities should be mandatory. Additionally, setting clear guidelines for communication and availability will help maintain productivity and make sure no one feels isolated. This way, remote work can benefit everyone while addressing common challenges.",
+      "Metadata": {
+        "FirstName": "Raluca",
+        "LastName": "Munteanu",
+        "Age": 38,
+        "DateOfBirth": "25/01/1988",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-025",
+      "Text": "I believe the organization should keep a remote work policy, but it must include clear safeguards. For example, regular virtual mentorship sessions should be mandatory to support professional growth. To ensure inclusion, team meetings should be designed to encourage equal participation. Productivity can be monitored through outcome-based evaluations rather than hours logged. Lastly, promoting boundaries between work and personal time is essential to maintain a healthy work-life balance and prevent burnout. Without these measures, remote work can do more harm than good.",
+      "Metadata": {
+        "FirstName": "Stefan",
+        "LastName": "Stoica",
+        "Age": 52,
+        "DateOfBirth": "26/01/1974",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-026",
+      "Text": "While remote work offers flexibility, I believe the organization should not keep a fully remote policy. In-person interaction is crucial for effective mentorship and building a strong, inclusive culture. To balance this, a hybrid model could be implemented, ensuring regular office days for collaboration and mentoring, while still allowing some remote work. This approach helps maintain productivity and work-life balance without losing the benefits of face-to-face connection.",
+      "Metadata": {
+        "FirstName": "Diana",
+        "LastName": "Matei",
+        "Age": 52,
+        "DateOfBirth": "27/02/1974",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-027",
+      "Text": "I believe the organization should keep a remote work policy because it offers flexibility and helps with work-life balance, especially for those with family responsibilities. However, we need to ensure that mentorship doesn't suffer, so regular virtual check-ins or occasional in-person meetings could help. Inclusion is important too, but I’m not sure yet how to fully guarantee productivity remains high without more structure. Overall, remote work is beneficial but requires thoughtful management.",
+      "Metadata": {
+        "FirstName": "Florin",
+        "LastName": "Nistor",
+        "Age": 52,
+        "DateOfBirth": "01/02/1974",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-028",
+      "Text": "I believe the organization should keep a remote work policy because it helps employees balance their personal and professional lives better. However, to maintain productivity, there should be regular check-ins and clear goals. Mentorship could be supported through virtual meetings, but I think we need to find more ways to ensure inclusion so no one feels left out when working remotely. Overall, remote work can be very beneficial if managed carefully.",
+      "Metadata": {
+        "FirstName": "Adriana",
+        "LastName": "Barbu",
+        "Age": 52,
+        "DateOfBirth": "02/03/1974",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-029",
+      "Text": "I believe the organization should keep the remote work policy because it offers greater flexibility and helps maintain a better work-life balance. To ensure productivity and inclusion, regular virtual check-ins and team meetings should be mandatory. Additionally, mentorship can be supported through scheduled one-on-one video calls, ensuring younger or less experienced employees still receive guidance and support despite the physical distance. This way, we balance flexibility with necessary structure.",
+      "Metadata": {
+        "FirstName": "Gabriel",
+        "LastName": "Ciobanu",
+        "Age": 64,
+        "DateOfBirth": "03/03/1962",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-030",
+      "Text": "I believe the organization should keep the remote work policy because it offers flexibility and helps with work-life balance, which is especially important for many employees. However, to ensure mentorship and inclusion, regular virtual check-ins and team-building activities should be mandatory. Productivity can be maintained by setting clear goals and deadlines. These safeguards will help create a supportive and effective remote work environment for everyone.",
+      "Metadata": {
+        "FirstName": "Simona",
+        "LastName": "Grigorescu",
+        "Age": 64,
+        "DateOfBirth": "04/04/1962",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-031",
+      "Text": "While remote work offers flexibility and can improve work-life balance, I worry about its impact on mentorship and inclusion, especially for younger employees who benefit from in-person guidance. If the organization continues this policy, it should implement regular video check-ins and virtual mentorship programs to maintain productivity and ensure everyone feels connected. Without these safeguards, remote work could unintentionally create isolation and hinder professional growth.",
+      "Metadata": {
+        "FirstName": "Lucian",
+        "LastName": "Neagu",
+        "Age": 64,
+        "DateOfBirth": "05/04/1962",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-032",
+      "Text": "I believe the organization should definitely keep a remote work policy, as it supports better work-life balance and can increase productivity when managed well. However, to ensure mentorship and inclusion don’t suffer, regular virtual check-ins and team-building activities should be mandatory. This way, employees still feel connected and supported, which is especially important for those who might otherwise feel isolated working remotely. With these safeguards, remote work can truly benefit everyone.",
+      "Metadata": {
+        "FirstName": "Ioana",
+        "LastName": "Popescu",
+        "Age": 64,
+        "DateOfBirth": "06/05/1962",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-033",
+      "Text": "I think the organization should keep a remote work policy because it helps with work-life balance, especially for people with long commutes. However, to address concerns about mentorship and inclusion, regular virtual check-ins and mentorship programs should be mandatory. This way, employees still feel connected and supported. Productivity can be monitored through clear goal-setting and regular feedback sessions. Without these safeguards, remote work might lead to isolation and missed development opportunities.",
+      "Metadata": {
+        "FirstName": "Dimitar",
+        "LastName": "Ivanova",
+        "Age": 27,
+        "DateOfBirth": "07/05/1999",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-034",
+      "Text": "I think the organization should keep a remote work policy but with clear safeguards in place. For example, regular virtual check-ins and mentorship programs can help maintain strong guidance and inclusion. Also, setting clear productivity goals ensures work standards stay high. At the same time, flexible hours can support work-life balance, especially for those with family responsibilities. This balanced approach can make remote work effective without sacrificing team cohesion or performance.",
+      "Metadata": {
+        "FirstName": "Vesela",
+        "LastName": "Petrov",
+        "Age": 27,
+        "DateOfBirth": "08/06/1999",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-035",
+      "Text": "I believe the organization should reconsider keeping a remote work policy. While remote work offers flexibility, it often hinders effective mentorship and team inclusion, which are crucial for professional growth and collaboration. To maintain productivity and work-life balance, if remote work continues, there must be structured in-person sessions for mentorship and team-building. Without these safeguards, the potential downsides outweigh the benefits, especially in a sales-driven environment where personal connections matter.",
+      "Metadata": {
+        "FirstName": "Nikolay",
+        "LastName": "Koleva",
+        "Age": 27,
+        "DateOfBirth": "09/06/1999",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-036",
+      "Text": "I believe the organization should reconsider keeping a fully remote work policy. While remote work offers flexibility, it can hinder mentorship opportunities and team inclusion, especially for newer employees who benefit from in-person guidance. To maintain productivity and work-life balance, a hybrid model with scheduled in-office days for collaboration and mentorship could work better. This approach ensures personal growth and stronger team connections without losing flexibility.",
+      "Metadata": {
+        "FirstName": "Kalina",
+        "LastName": "Stoyanov",
+        "Age": 27,
+        "DateOfBirth": "10/07/1999",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-037",
+      "Text": "I believe the organization should keep the remote work policy because it supports work-life balance, which is essential for employee well-being. However, to address concerns about mentorship and inclusion, regular virtual check-ins and team-building activities should be mandatory. Productivity can be maintained by setting clear goals and deadlines. Without these safeguards, remote work might lead to isolation and reduced collaboration, which could hurt overall performance. Careful implementation is key to making this policy successful.",
+      "Metadata": {
+        "FirstName": "Petar",
+        "LastName": "Vasileva",
+        "Age": 38,
+        "DateOfBirth": "11/07/1988",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-038",
+      "Text": "While remote work offers flexibility, I believe the organization should not keep a fully remote policy. In sales, building strong relationships and mentoring juniors require in-person interaction to foster inclusion and teamwork. To maintain productivity and work-life balance, a hybrid model with set office days for collaboration and training would be better. This way, we can ensure everyone feels supported and stays connected without sacrificing flexibility entirely.",
+      "Metadata": {
+        "FirstName": "Elena",
+        "LastName": "Georgiev",
+        "Age": 38,
+        "DateOfBirth": "12/08/1988",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-039",
+      "Text": "I believe the organization should keep a remote work policy but with clear safeguards. To maintain mentorship and inclusion, regular virtual check-ins and team-building activities are essential. Productivity can be supported by setting clear goals and deadlines, while work-life balance should be protected by encouraging flexible hours and respecting boundaries outside work time. This balanced approach can help everyone benefit from remote work without losing connection or efficiency.",
+      "Metadata": {
+        "FirstName": "Georgi",
+        "LastName": "Todorova",
+        "Age": 38,
+        "DateOfBirth": "13/08/1988",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-040",
+      "Text": "I believe the organization should keep a remote work policy because it supports work-life balance and flexibility. However, to address concerns about mentorship and inclusion, regular virtual check-ins and structured team meetings should be mandatory. This ensures everyone feels connected and supported. Additionally, clear productivity goals and transparent communication are essential to maintain performance while working remotely. Without these safeguards, remote work can lead to isolation and uneven development opportunities.",
+      "Metadata": {
+        "FirstName": "Radost",
+        "LastName": "Nikolov",
+        "Age": 38,
+        "DateOfBirth": "14/09/1988",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-041",
+      "Text": "I believe the organization should not keep a full remote work policy. While remote work offers flexibility, it can hinder mentorship and inclusion, especially for newer employees who benefit from in-person guidance. To maintain productivity and work-life balance, occasional office days should be mandatory, ensuring team cohesion and direct communication. This hybrid approach safeguards mentoring and inclusion without sacrificing flexibility or efficiency.",
+      "Metadata": {
+        "FirstName": "Ivaylo",
+        "LastName": "Pavlova",
+        "Age": 52,
+        "DateOfBirth": "15/09/1974",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-042",
+      "Text": "I believe the organization should keep a remote work policy because it supports better work-life balance, especially for employees with families or long commutes. However, to maintain productivity and inclusion, there must be regular virtual check-ins and structured mentorship programs to ensure no one feels isolated or overlooked. These safeguards will help prevent remote workers from missing out on career development opportunities while still enjoying the flexibility remote work offers.",
+      "Metadata": {
+        "FirstName": "Teodora",
+        "LastName": "Angelov",
+        "Age": 52,
+        "DateOfBirth": "16/10/1974",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-043",
+      "Text": "While remote work offers flexibility, I believe our organization should not keep a permanent remote work policy. In sales, face-to-face interactions and team dynamics are crucial for mentorship and inclusion. To maintain productivity and work-life balance, we could allow occasional remote days but require most work on-site, ensuring staff stay connected and supported. This hybrid approach safeguards mentorship and keeps the team spirit alive without sacrificing personal boundaries.",
+      "Metadata": {
+        "FirstName": "Hristo",
+        "LastName": "Ilieva",
+        "Age": 52,
+        "DateOfBirth": "17/10/1974",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-044",
+      "Text": "I believe the organization should keep the remote work policy because it offers flexibility and helps employees balance their personal and professional lives better. However, to maintain productivity and inclusion, regular virtual meetings and team check-ins are necessary. Mentorship might be a bit harder remotely, but occasional in-person gatherings could help with that. Overall, remote work can be very beneficial if managed thoughtfully.",
+      "Metadata": {
+        "FirstName": "Aneliya",
+        "LastName": "Hristov",
+        "Age": 64,
+        "DateOfBirth": "18/11/1962",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-045",
+      "Text": "While remote work offers flexibility, I believe our organization should not keep a permanent remote policy. In sales, face-to-face interaction is crucial for mentorship and team cohesion, which can suffer remotely. To maintain productivity and inclusion, in-person collaboration days should be mandatory, ensuring new employees get proper guidance and everyone stays connected. Work-life balance can still be supported with flexible hours, but full remote work risks weakening company culture and performance.",
+      "Metadata": {
+        "FirstName": "Borislav",
+        "LastName": "Yordanova",
+        "Age": 64,
+        "DateOfBirth": "19/11/1962",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-046",
+      "Text": "I believe the organization should maintain a remote work policy but with clear safeguards. To ensure mentorship and inclusion, regular virtual check-ins and team-building activities should be mandatory. Productivity can be monitored through project milestones rather than hours logged, while encouraging employees to set boundaries to protect work-life balance. This balanced approach would support flexibility without sacrificing team cohesion or performance.",
+      "Metadata": {
+        "FirstName": "Silvia",
+        "LastName": "Kostadinov",
+        "Age": 64,
+        "DateOfBirth": "20/12/1962",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-047",
+      "Text": "I believe the organization should definitely keep the remote work policy, as it supports work-life balance and can boost productivity when managed well. To ensure mentorship and inclusion aren’t compromised, regular virtual check-ins and structured mentoring programs should be established. Additionally, promoting team collaboration through hybrid meetings can help maintain a strong company culture while respecting employees’ flexibility needs. This balanced approach can benefit both employees and the organization.",
+      "Metadata": {
+        "FirstName": "Ariadni",
+        "LastName": "Stylianou",
+        "Age": 27,
+        "DateOfBirth": "21/12/1999",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-048",
+      "Text": "I support keeping a remote work policy because it enhances work-life balance and can boost productivity when managed well. However, to ensure effective mentorship and inclusion, the organization should implement regular virtual check-ins and mentorship programs that pair remote and on-site employees. Additionally, creating clear communication channels and promoting team-building activities online will help maintain a cohesive and supportive work environment for everyone.",
+      "Metadata": {
+        "FirstName": "Andreas",
+        "LastName": "Charalambous",
+        "Age": 27,
+        "DateOfBirth": "22/01/1999",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-049",
+      "Text": "I believe the organization should maintain a remote work policy because it supports work-life balance and flexibility. However, to ensure productivity and inclusion, regular virtual check-ins and structured mentorship programs are essential. These safeguards help employees stay connected and engaged, preventing isolation. Additionally, offering training on digital collaboration tools can foster a more inclusive environment where everyone feels valued, regardless of their location. Without these measures, remote work risks weakening team cohesion.",
+      "Metadata": {
+        "FirstName": "Christina",
+        "LastName": "Andreou",
+        "Age": 27,
+        "DateOfBirth": "23/01/1999",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-050",
+      "Text": "While I see the benefits of remote work, I’m concerned about maintaining effective mentorship and inclusion. If the policy is kept, the organization must implement structured virtual mentoring programs and regular check-ins to support career growth. Additionally, clear guidelines on availability can help balance productivity and work-life boundaries. Without these safeguards, remote work risks isolating employees and weakening team cohesion, which could ultimately harm overall performance.",
+      "Metadata": {
+        "FirstName": "Stelios",
+        "LastName": "Christou",
+        "Age": 38,
+        "DateOfBirth": "24/02/1988",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-051",
+      "Text": "I believe the organization should continue with a remote work policy because it supports better work-life balance and can increase productivity when managed well. However, it’s important to have regular virtual check-ins to maintain mentorship and team connection. We also need clear guidelines to ensure everyone feels included, though I think more thought is needed on how to measure productivity fairly in a remote setting. Overall, flexibility with some structure seems best.",
+      "Metadata": {
+        "FirstName": "Despina",
+        "LastName": "Michael",
+        "Age": 38,
+        "DateOfBirth": "25/02/1988",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-052",
+      "Text": "While I support keeping a remote work policy to promote work-life balance, I’m concerned about how it might affect mentorship and inclusion. To address this, the organization should implement regular virtual check-ins and mentorship programs to ensure employees still receive guidance and feel connected. Additionally, clear productivity metrics need to be established to maintain performance standards without overburdening staff. Balancing these safeguards will be crucial to make remote work sustainable and effective.",
+      "Metadata": {
+        "FirstName": "Marios",
+        "LastName": "Ioannou",
+        "Age": 38,
+        "DateOfBirth": "26/03/1988",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-053",
+      "Text": "I believe the organization should definitely keep a remote work policy, as it supports better work-life balance and can boost productivity when managed well. However, to ensure mentorship and inclusion don’t suffer, regular virtual check-ins and team-building activities should be mandatory. Also, clear guidelines on availability and performance metrics will help maintain accountability. This balanced approach can make remote work successful for both employees and the company.",
+      "Metadata": {
+        "FirstName": "Irene",
+        "LastName": "Soteriou",
+        "Age": 52,
+        "DateOfBirth": "27/03/1974",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-054",
+      "Text": "I support keeping the remote work policy as it promotes better work-life balance and can boost productivity when managed well. However, we must implement regular virtual check-ins and mentorship programs to ensure employees still receive guidance and feel included. Also, clear expectations and performance metrics will help maintain productivity. Inclusion efforts like virtual team-building activities can further strengthen the sense of belonging among remote workers. This balanced approach benefits both staff and the organization.",
+      "Metadata": {
+        "FirstName": "Kyriakos",
+        "LastName": "Constantinou",
+        "Age": 52,
+        "DateOfBirth": "01/04/1974",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-055",
+      "Text": "I support keeping a remote work policy because it enhances work-life balance and can boost productivity when managed well. However, to ensure mentorship and inclusion don’t suffer, we should implement regular virtual check-ins and peer mentoring programs. Additionally, clear guidelines on availability and deliverables will help maintain productivity. This balanced approach allows flexibility while safeguarding professional development and team cohesion.",
+      "Metadata": {
+        "FirstName": "Evridiki",
+        "LastName": "Georgiou",
+        "Age": 52,
+        "DateOfBirth": "02/04/1974",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-056",
+      "Text": "I support keeping a remote work policy because it offers flexibility and improves work-life balance, especially for those with family commitments. However, to maintain productivity and inclusion, we should implement regular virtual check-ins and mentorship programs to ensure employees feel connected and supported. Additionally, managers need training to recognize and address potential isolation. These safeguards will help us balance autonomy with teamwork and professional growth.",
+      "Metadata": {
+        "FirstName": "Petros",
+        "LastName": "Demetriou",
+        "Age": 64,
+        "DateOfBirth": "03/05/1962",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-057",
+      "Text": "I believe the organization should keep a remote work policy, but with clear safeguards. To maintain mentorship and inclusion, regular virtual check-ins and team-building activities are essential. Productivity can be supported by setting clear goals and performance metrics. At the same time, encouraging flexible hours helps protect work-life balance, especially for employees with caregiving responsibilities. This balanced approach ensures remote work remains effective and equitable for everyone.",
+      "Metadata": {
+        "FirstName": "Melina",
+        "LastName": "Nicolaou",
+        "Age": 64,
+        "DateOfBirth": "04/05/1962",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-058",
+      "Text": "I believe the organization should keep the remote work policy because it offers flexibility and can improve work-life balance. However, it's important to establish regular virtual check-ins to maintain productivity and ensure team cohesion. Mentorship can be a bit challenging remotely, but informal online meetups might help. Inclusion is also critical, though I'm not sure the best way to guarantee it fully in a remote setting without some in-person interaction. Overall, remote work has many benefits if managed carefully.",
+      "Metadata": {
+        "FirstName": "Antonis",
+        "LastName": "Savva",
+        "Age": 64,
+        "DateOfBirth": "05/06/1962",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-059",
+      "Text": "I think remote work can be useful sometimes, but it’s not always the best for everyone. It might reduce some office distractions, but it could also make it harder for people to connect naturally or get quick feedback. Maybe a flexible schedule where people choose their days would work better than fully remote. Still, we should be careful about keeping everyone included and making sure work doesn’t spill too much into personal time.",
+      "Metadata": {
+        "FirstName": "Ardian",
+        "LastName": "Ceka",
+        "Age": 27,
+        "DateOfBirth": "06/06/1999",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-060",
+      "Text": "I believe the organization should keep the remote work policy because it supports work-life balance and flexibility, which are crucial for employee well-being. However, to ensure productivity and inclusion, there must be regular virtual check-ins and mentorship programs that pair remote workers with in-office colleagues. This will help maintain team cohesion and provide opportunities for professional growth while preventing feelings of isolation. Without these safeguards, remote work risks creating gaps in communication and support.",
+      "Metadata": {
+        "FirstName": "Vjosa",
+        "LastName": "Mema",
+        "Age": 27,
+        "DateOfBirth": "07/07/1999",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-061",
+      "Text": "I believe the organization should reconsider keeping a full remote work policy. While remote work offers flexibility, it can hinder mentorship and team cohesion. To maintain productivity and inclusion, in-person or hybrid models with scheduled office days would help foster better collaboration and support. This also ensures work-life balance by creating clear boundaries between work and home. Remote work alone risks isolating employees and weakening essential professional development opportunities.",
+      "Metadata": {
+        "FirstName": "Kreshnik",
+        "LastName": "Duka",
+        "Age": 27,
+        "DateOfBirth": "08/07/1999",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-062",
+      "Text": "I think keeping a remote work policy makes sense, especially for flexibility and work-life balance. However, to ensure productivity, there should be clear performance goals and regular check-ins. Mentorship might be a bit harder remotely, but maybe virtual mentoring sessions could help. I'm not fully sure yet how to best handle inclusion in a remote setup, so that part might need more thought before making a final decision.",
+      "Metadata": {
+        "FirstName": "Teuta",
+        "LastName": "Pasha",
+        "Age": 38,
+        "DateOfBirth": "09/08/1988",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-063",
+      "Text": "I think remote work is okay but maybe not for everyone all the time. Some people might feel isolated or miss out on informal chats that help with mentorship. Also, productivity can vary a lot depending on the person’s home setup. It’s important to find a balance, but I’m not sure if strict policies are needed, maybe just letting teams decide what works best for them individually.",
+      "Metadata": {
+        "FirstName": "Gentian",
+        "LastName": "Bajrami",
+        "Age": 38,
+        "DateOfBirth": "10/08/1988",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-064",
+      "Text": "I support keeping a remote work policy because it improves work-life balance and can increase productivity when managed well. However, to address concerns about mentorship and inclusion, the organization should implement regular virtual check-ins and mentorship programs that encourage interaction across teams. Additionally, setting clear expectations and providing tools for collaboration will help maintain team cohesion and ensure remote work benefits everyone without isolating anyone.",
+      "Metadata": {
+        "FirstName": "Arben",
+        "LastName": "Hoxha",
+        "Age": 38,
+        "DateOfBirth": "11/09/1988",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-065",
+      "Text": "I think the organization should reconsider keeping a remote work policy. While some say it helps with work-life balance, I worry it might hurt productivity and team spirit. Mentorship and inclusion can be harder to maintain when people aren’t physically present. Maybe occasional remote days are fine, but full remote work could cause more problems than benefits in the long run. It’s important to keep people connected and engaged face-to-face.",
+      "Metadata": {
+        "FirstName": "Elira",
+        "LastName": "Kola",
+        "Age": 52,
+        "DateOfBirth": "12/09/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-066",
+      "Text": "I believe the organization should keep a remote work policy, but with clear safeguards. To maintain strong mentorship, regular virtual check-ins and structured feedback sessions are essential. Inclusion can be supported by rotating team leads in meetings to ensure everyone’s voice is heard. Productivity must be tracked through clear goal-setting and deliverables, while work-life balance requires flexible hours but firm boundaries to avoid burnout. This balanced approach can help us benefit from remote work without losing connection or efficiency.",
+      "Metadata": {
+        "FirstName": "Dritan",
+        "LastName": "Dervishi",
+        "Age": 52,
+        "DateOfBirth": "13/10/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-067",
+      "Text": "I’m not sure if keeping a remote work policy is the best choice for our organization. While some people like working from home, it can be hard to stay productive without the usual office environment. Plus, mentorship might suffer because it’s easier to learn directly from colleagues when you’re in the same place. I think occasional remote days could work, but full remote might create more problems than it solves.",
+      "Metadata": {
+        "FirstName": "Mira",
+        "LastName": "Leka",
+        "Age": 52,
+        "DateOfBirth": "14/10/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-068",
+      "Text": "While remote work offers flexibility, I believe the organization should be cautious about keeping a fully remote policy. It can hinder mentorship, especially for younger employees who benefit from in-person guidance. To address this, a hybrid model with scheduled office days could ensure inclusion and productivity without sacrificing work-life balance. Regular check-ins and team meetings can also help maintain connection and prevent isolation. Balancing remote and in-person work thoughtfully is key to long-term success.",
+      "Metadata": {
+        "FirstName": "Ilir",
+        "LastName": "Prifti",
+        "Age": 64,
+        "DateOfBirth": "15/11/1962",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-069",
+      "Text": "I don’t think the organization should keep a remote work policy. People need to come to the office to build real connections and work more efficiently. Mentorship happens naturally when everyone is physically present. Plus, remote work can blur the lines between work and personal life, making it harder to stay productive. Inclusion might be better when people share the same space regularly. Overall, I believe in the traditional office setup for better teamwork.",
+      "Metadata": {
+        "FirstName": "Besa",
+        "LastName": "Gashi",
+        "Age": 64,
+        "DateOfBirth": "16/11/1962",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-070",
+      "Text": "While remote work offers flexibility, I am concerned about its long-term impact on mentorship and inclusion, especially for younger employees who benefit from in-person guidance. If we keep this policy, we must implement regular virtual check-ins and structured mentoring programs to support growth. Also, clear boundaries are needed to maintain productivity and work-life balance, so employees don’t feel pressured to be online 24/7. Without these safeguards, remote work could hinder team cohesion and development.",
+      "Metadata": {
+        "FirstName": "Anila",
+        "LastName": "Shehu",
+        "Age": 64,
+        "DateOfBirth": "17/12/1962",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-071",
+      "Text": "I think remote work is great because it lets people manage their own time better. It feels more comfortable and can even boost creativity. However, I’m not sure if it really affects things like mentorship or inclusion much; those might just depend on the team’s attitude. Overall, as long as people get their tasks done, I don’t see why we should change the policy. Work-life balance seems easier this way too.",
+      "Metadata": {
+        "FirstName": "Georgia",
+        "LastName": "Markou",
+        "Age": 27,
+        "DateOfBirth": "18/12/1999",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-072",
+      "Text": "I believe the organization should keep a remote work policy, but with clear safeguards in place. To maintain mentorship, we could implement regular virtual check-ins and pair new employees with experienced mentors. For inclusion, team meetings should be designed to encourage participation from all members, regardless of location. Productivity can be tracked through goal-oriented metrics rather than hours logged, and promoting flexible schedules will help employees maintain a healthy work-life balance. This balanced approach can benefit both the company and its staff.",
+      "Metadata": {
+        "FirstName": "Panagiotis",
+        "LastName": "Dimitriou",
+        "Age": 38,
+        "DateOfBirth": "19/01/1988",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-073",
+      "Text": "I believe the organization should reconsider keeping a remote work policy. While working from home offers flexibility, it often hinders effective mentorship and team cohesion, especially for younger employees needing guidance. Productivity can also suffer without direct supervision. If remote work continues, there must be more structured check-ins to maintain inclusion, but I’m not sure how well work-life balance can be ensured in a remote setting. Overall, I think in-person work remains essential.",
+      "Metadata": {
+        "FirstName": "Vasiliki",
+        "LastName": "Konstantinou",
+        "Age": 52,
+        "DateOfBirth": "20/01/1974",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-074",
+      "Text": "I believe the organization should reconsider keeping a full remote work policy. While remote work offers flexibility, it can hinder effective mentorship and team inclusion, especially for younger employees who benefit from in-person guidance. Productivity might also suffer without direct supervision. If remote work continues, there should be strict limits on how often people work remotely, but I’m less clear on how to fully ensure work-life balance in this setup.",
+      "Metadata": {
+        "FirstName": "Christos",
+        "LastName": "Samaras",
+        "Age": 64,
+        "DateOfBirth": "21/02/1962",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-075",
+      "Text": "I think remote work should definitely stay because it gives people more freedom and can help with work-life balance. Plus, it’s easier to focus without office distractions. As for mentorship and inclusion, maybe just occasional team meetings or social events would be enough. Productivity usually improves when people work from home since they can set their own schedules. Overall, remote work seems like a good fit for most organizations nowadays.",
+      "Metadata": {
+        "FirstName": "Florin",
+        "LastName": "Nistor",
+        "Age": 27,
+        "DateOfBirth": "22/02/1999",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-076",
+      "Text": "I think remote work can be good sometimes, but it’s not always the best for everyone. Some people might feel isolated, and it’s harder to keep track of how productive everyone is. Maybe a flexible schedule could work, but I’m not sure how mentorship and inclusion would be handled well if people aren’t meeting in person regularly. Work-life balance might improve for some, but it depends a lot on the person’s home situation.",
+      "Metadata": {
+        "FirstName": "Adriana",
+        "LastName": "Barbu",
+        "Age": 38,
+        "DateOfBirth": "23/03/1988",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-077",
+      "Text": "While remote work offers flexibility, I believe the organization should be cautious about keeping a full remote policy. Face-to-face interaction is vital for effective mentorship and fostering inclusion, especially for younger or newer employees. To balance productivity and work-life boundaries, a hybrid model could be a safeguard, ensuring regular in-person meetings and team-building activities. This approach helps maintain strong professional relationships and prevents isolation, which can harm overall team cohesion and learning opportunities.",
+      "Metadata": {
+        "FirstName": "Gabriel",
+        "LastName": "Ciobanu",
+        "Age": 52,
+        "DateOfBirth": "24/03/1974",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-078",
+      "Text": "I think remote work isn’t the best option for everyone, especially for older employees who might struggle with technology. It’s better to have everyone in the office to maintain close mentorship and teamwork naturally. Productivity could drop if people get too comfortable at home. Also, work-life balance sometimes blurs when working remotely, so maybe a strict office presence is safer overall. But I’m not sure how to ensure inclusion properly in either case.",
+      "Metadata": {
+        "FirstName": "Simona",
+        "LastName": "Grigorescu",
+        "Age": 64,
+        "DateOfBirth": "25/04/1962",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-079",
+      "Text": "I support keeping the remote work policy because it greatly improves work-life balance and can boost productivity when managed well. To address mentorship and inclusion, the company should implement regular virtual check-ins and create structured online mentoring programs. This ensures everyone feels connected and supported despite physical distance. Clear performance goals and flexible schedules will help maintain productivity while respecting individual needs. Overall, remote work can be a win-win with the right safeguards in place.",
+      "Metadata": {
+        "FirstName": "Kiril",
+        "LastName": "Marinova",
+        "Age": 27,
+        "DateOfBirth": "26/04/1999",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-080",
+      "Text": "I believe the organization should keep a remote work policy, but with clear safeguards. For example, regular virtual check-ins can help maintain mentorship and team cohesion. To support inclusion, we need to ensure all voices are heard in meetings, whether remote or in-person. Productivity can be tracked through set goals rather than hours logged. Lastly, encouraging flexible schedules can improve work-life balance, which is essential for long-term employee wellbeing. This balanced approach seems best.",
+      "Metadata": {
+        "FirstName": "Mila",
+        "LastName": "Dimitrov",
+        "Age": 38,
+        "DateOfBirth": "27/05/1988",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-081",
+      "Text": "While remote work offers flexibility, I believe the organization should not keep a full remote work policy. In sales, building relationships and mentoring new staff require face-to-face interaction to maintain strong inclusion and team cohesion. To balance productivity and work-life boundaries, a hybrid model with mandatory in-office days could safeguard mentorship and ensure everyone stays connected, preventing isolation and maintaining high performance.",
+      "Metadata": {
+        "FirstName": "Dimitar",
+        "LastName": "Ivanova",
+        "Age": 52,
+        "DateOfBirth": "01/05/1974",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-082",
+      "Text": "I’m worried about keeping a remote work policy. While it offers flexibility, I think it can hurt team mentorship and inclusion, especially for younger employees who need guidance. Productivity might suffer if people get distracted at home. Work-life balance is important, but without clear boundaries, it can blur. If the policy stays, there should be regular in-person meetings to support connection and teamwork, but I’m not sure this alone will be enough.",
+      "Metadata": {
+        "FirstName": "Vesela",
+        "LastName": "Petrov",
+        "Age": 64,
+        "DateOfBirth": "02/06/1962",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-083",
+      "Text": "I think remote work has its perks, like flexibility and saving commute time, but I'm not sure it’s the best for everyone. Some people might struggle with staying productive or feeling included without face-to-face contact. Instead of a full remote policy, maybe a hybrid approach could work better. Then again, mentorship and work-life balance might still be hard to manage if people are scattered all over. It’s a tricky balance to find!.",
+      "Metadata": {
+        "FirstName": "Despina",
+        "LastName": "Michael",
+        "Age": 27,
+        "DateOfBirth": "03/06/1999",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-084",
+      "Text": "I believe the organization should maintain a remote work policy, but with clear safeguards to ensure success. For example, regular virtual check-ins and mentorship programs can help maintain strong professional relationships and support career development. To promote inclusion, we should encourage diverse team interactions online. Setting clear productivity goals and respecting boundaries will also help employees balance work and personal life effectively. This balanced approach can maximize benefits while addressing key challenges.",
+      "Metadata": {
+        "FirstName": "Marios",
+        "LastName": "Ioannou",
+        "Age": 38,
+        "DateOfBirth": "04/07/1988",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-085",
+      "Text": "While remote work offers flexibility, I believe the organization should not fully keep a remote work policy. In-person interaction is crucial for effective mentorship and fostering a culture of inclusion. To balance this, a hybrid model with mandatory office days can safeguard productivity and support work-life balance by providing structured time for collaboration and personal boundaries. This approach ensures team cohesion and professional growth without sacrificing flexibility entirely.",
+      "Metadata": {
+        "FirstName": "Irene",
+        "LastName": "Soteriou",
+        "Age": 52,
+        "DateOfBirth": "05/07/1974",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-086",
+      "Text": "While remote work offers flexibility, I have concerns about its long-term impact on mentorship and inclusion, especially for younger employees who benefit from direct interaction. If the organization keeps a remote policy, strict safeguards are needed, such as scheduled in-person meetings or mentoring sessions to maintain team cohesion and professional development. Productivity and work-life balance can be supported with clear expectations and regular check-ins, but without these, remote work might undermine our collaborative culture.",
+      "Metadata": {
+        "FirstName": "Kyriakos",
+        "LastName": "Constantinou",
+        "Age": 64,
+        "DateOfBirth": "06/08/1962",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-087",
+      "Text": "I support keeping the remote work policy because it improves work-life balance and can boost productivity when managed well. However, to maintain strong mentorship and inclusion, the organization should implement regular virtual check-ins and team-building activities. Also, providing clear guidelines for communication will help ensure everyone feels connected and supported. This balanced approach helps employees thrive without sacrificing collaboration or professional growth.",
+      "Metadata": {
+        "FirstName": "Besnik",
+        "LastName": "Basha",
+        "Age": 27,
+        "DateOfBirth": "07/08/1999",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-088",
+      "Text": "I think the organization should keep a remote work policy because it offers flexibility and better work-life balance, especially for those with family commitments. However, to maintain productivity and inclusion, we need regular virtual check-ins and team-building activities. Mentorship could be a challenge though, and I'm not sure the best way to handle that remotely yet. Still, with some adjustments, remote work can be beneficial overall.",
+      "Metadata": {
+        "FirstName": "Flutura",
+        "LastName": "Krasniqi",
+        "Age": 38,
+        "DateOfBirth": "08/09/1988",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-089",
+      "Text": "I don’t think the organization should keep a full remote work policy. While flexibility is nice, it often hurts mentorship opportunities and team cohesion. Productivity can also suffer without direct supervision. Work-life balance might improve for some, but others struggle with boundaries at home. If remote work continues, there must be clear guidelines to ensure inclusion and regular check-ins, though I’m not sure how well these can replace in-person interactions. Overall, a hybrid model might be better than fully remote.",
+      "Metadata": {
+        "FirstName": "Erion",
+        "LastName": "Meta",
+        "Age": 52,
+        "DateOfBirth": "09/09/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-090",
+      "Text": "While remote work offers flexibility, I believe the organization should not keep a full remote work policy. In-person interaction is crucial for effective mentorship and maintaining inclusion, especially for younger employees who benefit from direct guidance. To balance productivity and work-life boundaries, a hybrid model with mandatory office days could be a safeguard, ensuring collaboration and support without losing flexibility. This approach respects both organizational needs and employee well-being.",
+      "Metadata": {
+        "FirstName": "Luljeta",
+        "LastName": "Berisha",
+        "Age": 64,
+        "DateOfBirth": "10/10/1962",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-091",
+      "Text": "I think the organization should keep a remote work policy, but with clear safeguards to maintain mentorship and inclusion. For example, regular virtual check-ins and mentorship programs can help employees stay connected and supported. To ensure productivity, setting clear goals and deadlines is important. At the same time, encouraging flexible hours can help employees balance work and personal life effectively. This balanced approach can benefit both the company and its workers.",
+      "Metadata": {
+        "FirstName": "Ioanna",
+        "LastName": "Lambrou",
+        "Age": 27,
+        "DateOfBirth": "11/10/1999",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-092",
+      "Text": "While remote work offers flexibility, I believe the organization should not keep a fully remote policy. Mentorship and team inclusion suffer when colleagues don’t interact face-to-face regularly. To maintain productivity and work-life balance, a hybrid model with mandatory in-office days could be a good safeguard. This ensures mentorship opportunities and team cohesion while still giving employees some flexibility to work remotely. Complete remote work risks isolating employees and weakening company culture.",
+      "Metadata": {
+        "FirstName": "Stavros",
+        "LastName": "Economou",
+        "Age": 38,
+        "DateOfBirth": "12/11/1988",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-093",
+      "Text": "I’m not sure if keeping a remote work policy is the best idea for everyone. While some people enjoy working from home, it can be hard to stay productive or feel included in the team. Also, mentorship might suffer because informal learning happens less. Maybe a hybrid approach could work, but I worry that without clear rules, work-life balance might actually get worse for some employees.",
+      "Metadata": {
+        "FirstName": "Katerina",
+        "LastName": "Antoniou",
+        "Age": 52,
+        "DateOfBirth": "13/11/1974",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-094",
+      "Text": "I believe the organization should reconsider keeping a remote work policy. While remote work offers flexibility, it can hinder effective mentorship and team cohesion. Productivity might suffer if employees feel isolated. Although work-life balance improves for some, others may struggle with boundaries. Perhaps occasional in-person meetings could help, but overall, I think the benefits of being physically present outweigh the remote advantages in our field.",
+      "Metadata": {
+        "FirstName": "Michalis",
+        "LastName": "Stavridis",
+        "Age": 64,
+        "DateOfBirth": "14/12/1962",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-095",
+      "Text": "I believe the organization should keep a remote work policy, but with clear safeguards. For example, to maintain mentorship and inclusion, regular virtual check-ins and team-building activities should be scheduled. Productivity can be ensured through clear goal-setting and performance tracking, while promoting work-life balance by encouraging flexible hours and respecting offline time. This balanced approach would support both employee well-being and organizational goals effectively.",
+      "Metadata": {
+        "FirstName": "Lucian",
+        "LastName": "Neagu",
+        "Age": 27,
+        "DateOfBirth": "15/12/1999",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-096",
+      "Text": "I think the organization should keep a remote work policy because it supports work-life balance, especially for people with family responsibilities like me. However, to address concerns about mentorship and inclusion, there should be regular virtual check-ins and structured online mentoring programs. This way, productivity can be maintained without losing the personal connection that helps team members grow and feel included. Without these safeguards, remote work might lead to isolation and decreased collaboration.",
+      "Metadata": {
+        "FirstName": "Ioana",
+        "LastName": "Popescu",
+        "Age": 38,
+        "DateOfBirth": "16/01/1988",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-097",
+      "Text": "While remote work offers flexibility, I believe the organization should reconsider keeping a full remote policy. In-person interaction is crucial for effective mentorship and fostering inclusion, especially for new employees who need guidance. To maintain productivity and work-life balance, a hybrid model with scheduled office days could serve as a safeguard. This ensures team cohesion and personal connection without sacrificing flexibility. Completely remote setups risk isolating staff and weakening collaboration over time.",
+      "Metadata": {
+        "FirstName": "Andrei",
+        "LastName": "Ionescu",
+        "Age": 52,
+        "DateOfBirth": "17/01/1974",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-098",
+      "Text": "While remote work offers flexibility, I believe the organization should not keep a fully remote policy. In-person interaction is crucial for effective mentorship and fostering inclusion, especially for younger or new employees. To balance productivity and work-life balance, a hybrid model could be implemented, with mandatory office days for team collaboration and mentorship sessions. This ensures everyone stays connected and supported while still allowing some flexibility.",
+      "Metadata": {
+        "FirstName": "Elena",
+        "LastName": "Stan",
+        "Age": 64,
+        "DateOfBirth": "18/02/1962",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-099",
+      "Text": "I believe the organization should keep the remote work policy because it helps with work-life balance and can boost productivity. However, it's important to have regular virtual check-ins to support mentorship, so employees don’t feel isolated. Inclusion might be a bit harder to manage remotely, but encouraging team chats and informal catch-ups could help. Overall, remote work offers flexibility, but we need to find ways to maintain connection and collaboration within the team.",
+      "Metadata": {
+        "FirstName": "Nikolay",
+        "LastName": "Koleva",
+        "Age": 27,
+        "DateOfBirth": "19/02/1999",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-100",
+      "Text": "I believe the organization should keep the remote work policy but with clear safeguards. To maintain productivity and inclusion, regular virtual check-ins and team-building activities can help. For mentorship, pairing remote employees with onsite mentors ensures guidance isn’t lost. Also, setting boundaries for work hours supports work-life balance. This way, we can enjoy flexibility without sacrificing connection or performance.",
+      "Metadata": {
+        "FirstName": "Kalina",
+        "LastName": "Stoyanov",
+        "Age": 38,
+        "DateOfBirth": "20/03/1988",
+        "Nationality": "Bulgaria"
+      }
+    }
+  ]
+}

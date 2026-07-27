@@ -1,0 +1,23 @@
+{
+  "batch_id": 24,
+  "topic_title": "Test bias smoke run",
+  "clean_cluster_count": 4,
+  "dirty_cluster_count": 3,
+  "comparison": {
+    "clean_records": 12,
+    "dirty_records": 16,
+    "delta_anonymous_rate": 0.0,
+    "delta_metadata_missing_rate": 0.0,
+    "delta_weighted_nationality_tvd": 0.27083333333333337,
+    "delta_weighted_background_tvd": 0.27083333333333337,
+    "delta_weighted_age_bucket_tvd": 0.27083333333333337,
+    "representation_shift": {
+      "nationality_tvd": 0.0625,
+      "background_tvd": 0.0625,
+      "age_bucket_tvd": 0.0625,
+      "opinion_tvd": 0.2916666666666667,
+      "answer_quality_tvd": 0.375,
+      "bias_group_tvd": 0.25
+    }
+  }
+}

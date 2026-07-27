@@ -1,0 +1,1863 @@
+{
+  "TopicTitle": "Remote work policy review",
+  "TopicSummary": "Question: Should the organization keep a remote work policy? A correct answer must give a position and also mention safeguards for mentorship, inclusion, productivity, and work-life balance.",
+  "Clean": [
+    {
+      "Id": "demo-8-clean-001",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-002",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-003",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-004",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-005",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-006",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-007",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "conditional",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-clean-008",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-009",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-010",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "concern",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-clean-011",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "conditional",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-clean-012",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-013",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-014",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-015",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-016",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-clean-017",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "concern",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-clean-018",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "conditional",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-clean-019",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "concern",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-clean-020",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-021",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-022",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-023",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-024",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-025",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "conditional",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-clean-026",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-027",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-028",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-029",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-030",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-031",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-032",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-033",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-034",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-035",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-036",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-037",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-038",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-039",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-040",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-041",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-042",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-043",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-044",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "support",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-clean-045",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-046",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-047",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-048",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-049",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-050",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-051",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-052",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-053",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-054",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-055",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "support",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-clean-056",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-057",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "support",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-clean-058",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-059",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "oppose",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-clean-060",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-061",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-062",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-063",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "conditional",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-clean-064",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-065",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-066",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-067",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-068",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-069",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-070",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-071",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-072",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "support",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-clean-073",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-074",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-075",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-076",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-077",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-078",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-079",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "conditional",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-clean-080",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-081",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-082",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-083",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-084",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "oppose",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-clean-085",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-086",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-087",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-088",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-089",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-090",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "oppose",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-clean-091",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-092",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-093",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-094",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-095",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-096",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "concern",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-clean-097",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-098",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-099",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-clean-100",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    }
+  ],
+  "Dirty": [
+    {
+      "Id": "demo-8-dirty-001",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "conditional",
+        "AnswerQuality": "partial",
+        "BiasGroup": "young_support_overrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-002",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "young_support_overrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-003",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "young_support_overrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-004",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "conditional",
+        "AnswerQuality": "partial",
+        "BiasGroup": "young_support_overrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-005",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "concern",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "midcareer_conditional_present",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-006",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "conditional",
+        "AnswerQuality": "partial",
+        "BiasGroup": "midcareer_conditional_present",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-007",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "midcareer_conditional_present"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-008",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "conditional",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "midcareer_conditional_present",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-009",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "oppose",
+        "AnswerQuality": "partial",
+        "BiasGroup": "general_underrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-010",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "oppose",
+        "AnswerQuality": "partial",
+        "BiasGroup": "general_underrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-011",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "general_underrepresented"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-012",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "oppose",
+        "AnswerQuality": "partial",
+        "BiasGroup": "general_underrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-013",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "oppose",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "general_underrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-014",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "partial",
+        "BiasGroup": "general_underrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-015",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "general_underrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-016",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "general_underrepresented"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-017",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-018",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-019",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-020",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-021",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-022",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-023",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-024",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-025",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-026",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-027",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "support",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-028",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "support",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-029",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-030",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-031",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-032",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-033",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-034",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-035",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-036",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-037",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-038",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-039",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-040",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-041",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-042",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-043",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-044",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "support",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-045",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-046",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-047",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-048",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-049",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-050",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-051",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "support",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-052",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-053",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-054",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-055",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-056",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-057",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-058",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "support",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-059",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "conditional",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "general_underrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-060",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "general_underrepresented"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-061",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "general_underrepresented"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-062",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "conditional",
+        "AnswerQuality": "partial",
+        "BiasGroup": "general_underrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-063",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "support",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "general_underrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-064",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "general_underrepresented"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-065",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "oppose",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "senior_oppose_overrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-066",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "senior_oppose_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-067",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "oppose",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "senior_oppose_overrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-068",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "senior_oppose_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-069",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "oppose",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "senior_oppose_overrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-070",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "senior_oppose_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-071",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "young_support_overrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-072",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "midcareer_conditional_present"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-073",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "oppose",
+        "AnswerQuality": "partial",
+        "BiasGroup": "senior_oppose_overrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-074",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "oppose",
+        "AnswerQuality": "partial",
+        "BiasGroup": "senior_oppose_overrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-075",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "support",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "young_support_overrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-076",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "conditional",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "midcareer_conditional_present",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-077",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "senior_oppose_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-078",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "senior_oppose_overrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-079",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "young_support_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-080",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "midcareer_conditional_present"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-081",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "senior_oppose_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-082",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "concern",
+        "AnswerQuality": "partial",
+        "BiasGroup": "senior_oppose_overrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-083",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "concern",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "young_support_overrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-084",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "midcareer_conditional_present"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-085",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "senior_oppose_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-086",
+      "InternalMetadata": {
+        "Background": "HR",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "senior_oppose_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-087",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "young_support_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-088",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "conditional",
+        "AnswerQuality": "partial",
+        "BiasGroup": "midcareer_conditional_present",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-089",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "oppose",
+        "AnswerQuality": "partial",
+        "BiasGroup": "senior_oppose_overrepresented",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-090",
+      "InternalMetadata": {
+        "Background": "Consultant",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "senior_oppose_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-091",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "country_age_targeted_bias"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-092",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "country_age_targeted_bias"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-093",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "concern",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "country_age_targeted_bias",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-094",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "oppose",
+        "AnswerQuality": "partial",
+        "BiasGroup": "country_age_targeted_bias",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-095",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-096",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-097",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-098",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-099",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "support",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none",
+        "WrongAnswerPattern": "random"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-100",
+      "InternalMetadata": {
+        "Background": "Sales",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    }
+  ]
+}

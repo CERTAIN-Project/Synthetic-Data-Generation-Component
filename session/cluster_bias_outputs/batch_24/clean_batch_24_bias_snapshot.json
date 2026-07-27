@@ -1,0 +1,48 @@
+{
+  "records": 12,
+  "cluster_count": 4,
+  "anonymous_rate": 0.0,
+  "metadata_missing_rate": 0.0,
+  "field_null_rates": {
+    "FirstName": 0.0,
+    "LastName": 0.0,
+    "Age": 0.0,
+    "DateOfBirth": 0.0,
+    "Nationality": 0.0
+  },
+  "representation": {
+    "nationality_distribution": {
+      "Greece": 0.5,
+      "Romania": 0.5
+    },
+    "background_distribution": {
+      "Engineer": 0.5,
+      "Teacher": 0.5
+    },
+    "age_bucket_distribution": {
+      "18-29": 0.5,
+      "60+": 0.5
+    },
+    "opinion_distribution": {
+      "concern": 0.16666666666666666,
+      "conditional": 0.25,
+      "oppose": 0.25,
+      "support": 0.3333333333333333
+    },
+    "answer_quality_distribution": {
+      "correct": 1.0
+    },
+    "bias_group_distribution": {
+      "none": 0.25,
+      "senior_oppose_overrepresented": 0.5,
+      "young_support_overrepresented": 0.25
+    }
+  },
+  "cluster_bias_signals": {
+    "weighted_nationality_tvd": 0.16666666666666666,
+    "weighted_background_tvd": 0.16666666666666666,
+    "weighted_age_bucket_tvd": 0.16666666666666666,
+    "largest_cluster_share": 0.3333333333333333,
+    "silhouette_score": null
+  }
+}

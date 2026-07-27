@@ -1,0 +1,138 @@
+{
+  "TopicTitle": "Test bias smoke run",
+  "TopicSummary": "Question: Should the organization keep remote work?",
+  "Dataset": [
+    {
+      "Id": "demo-24-clean-001",
+      "Text": "I support keeping the remote work policy because flexibility, focus time, reduced commuting, and wider access to roles can improve work outcomes. The policy still needs safeguards for mentoring access and promotion visibility. Greece Greece respondent. Age bucket 18-29. early-career employees focus on mentoring, onboarding, feedback speed, and visibility.",
+      "Metadata": {
+        "FirstName": "Nikos",
+        "LastName": "Nikolaou",
+        "Age": 27,
+        "DateOfBirth": "02/01/1999",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-24-clean-002",
+      "Text": "I support keeping the remote work policy because flexibility, focus time, reduced commuting, and wider access to roles can improve work outcomes. The policy still needs safeguards for mentoring access and promotion visibility. Greece Greece respondent. Age bucket 18-29. early-career employees focus on mentoring, onboarding, feedback speed, and visibility.",
+      "Metadata": {
+        "FirstName": "Maria",
+        "LastName": "Georgiou",
+        "Age": 27,
+        "DateOfBirth": "03/02/1999",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-24-clean-003",
+      "Text": "I conditionally support the remote work policy if it comes with clear guardrails, hybrid rituals, productivity checks, burnout monitoring, onboarding support, and equal meeting access. Greece Greece respondent. Age bucket 18-29. early-career employees focus on mentoring, onboarding, feedback speed, and visibility.",
+      "Metadata": {
+        "FirstName": "Dimitris",
+        "LastName": "Pappas",
+        "Age": 27,
+        "DateOfBirth": "04/02/1999",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-24-clean-004",
+      "Text": "I support keeping the remote work policy because flexibility, focus time, reduced commuting, and wider access to roles can improve work outcomes. The policy still needs safeguards for mentoring access and promotion visibility. Greece Greece respondent. Age bucket 60+. late-career employees focus on accessibility, health needs, documentation, and sustainable workload.",
+      "Metadata": {
+        "FirstName": "Sofia",
+        "LastName": "Vlachou",
+        "Age": 64,
+        "DateOfBirth": "05/03/1962",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-24-clean-005",
+      "Text": "I have concerns about the remote work policy because it can weaken learning, informal knowledge, belonging, career visibility, and work-life boundaries if the organization does not manage it carefully. Greece Greece respondent. Age bucket 60+. late-career employees focus on accessibility, health needs, documentation, and sustainable workload.",
+      "Metadata": {
+        "FirstName": "Kostas",
+        "LastName": "Karras",
+        "Age": 64,
+        "DateOfBirth": "06/03/1962",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-24-clean-006",
+      "Text": "I oppose a broad remote work policy when coordination debt, trust loss, missed mentoring, delayed decisions, and isolation outweigh the benefits of flexibility. Greece Greece respondent. Age bucket 60+. late-career employees focus on accessibility, health needs, documentation, and sustainable workload.",
+      "Metadata": {
+        "FirstName": "Andreas",
+        "LastName": "Alexiou",
+        "Age": 64,
+        "DateOfBirth": "07/04/1962",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-24-clean-007",
+      "Text": "I conditionally support the remote work policy if it comes with clear guardrails, hybrid rituals, productivity checks, burnout monitoring, onboarding support, and equal meeting access. Romania Romania respondent. Age bucket 18-29. early-career employees focus on mentoring, onboarding, feedback speed, and visibility.",
+      "Metadata": {
+        "FirstName": "Alexandru",
+        "LastName": "Tudor",
+        "Age": 27,
+        "DateOfBirth": "08/04/1999",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-008",
+      "Text": "I oppose a broad remote work policy when coordination debt, trust loss, missed mentoring, delayed decisions, and isolation outweigh the benefits of flexibility. Romania Romania respondent. Age bucket 18-29. early-career employees focus on mentoring, onboarding, feedback speed, and visibility.",
+      "Metadata": {
+        "FirstName": "Raluca",
+        "LastName": "Munteanu",
+        "Age": 27,
+        "DateOfBirth": "09/05/1999",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-009",
+      "Text": "I oppose a broad remote work policy when coordination debt, trust loss, missed mentoring, delayed decisions, and isolation outweigh the benefits of flexibility. Romania Romania respondent. Age bucket 18-29. early-career employees focus on mentoring, onboarding, feedback speed, and visibility.",
+      "Metadata": {
+        "FirstName": "Stefan",
+        "LastName": "Stoica",
+        "Age": 27,
+        "DateOfBirth": "10/05/1999",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-010",
+      "Text": "I support keeping the remote work policy because flexibility, focus time, reduced commuting, and wider access to roles can improve work outcomes. The policy still needs safeguards for mentoring access and promotion visibility. Romania Romania respondent. Age bucket 60+. late-career employees focus on accessibility, health needs, documentation, and sustainable workload.",
+      "Metadata": {
+        "FirstName": "Diana",
+        "LastName": "Matei",
+        "Age": 64,
+        "DateOfBirth": "11/06/1962",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-011",
+      "Text": "I conditionally support the remote work policy if it comes with clear guardrails, hybrid rituals, productivity checks, burnout monitoring, onboarding support, and equal meeting access. Romania Romania respondent. Age bucket 60+. late-career employees focus on accessibility, health needs, documentation, and sustainable workload.",
+      "Metadata": {
+        "FirstName": "Florin",
+        "LastName": "Nistor",
+        "Age": 64,
+        "DateOfBirth": "12/06/1962",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-012",
+      "Text": "I have concerns about the remote work policy because it can weaken learning, informal knowledge, belonging, career visibility, and work-life boundaries if the organization does not manage it carefully. Romania Romania respondent. Age bucket 60+. late-career employees focus on accessibility, health needs, documentation, and sustainable workload.",
+      "Metadata": {
+        "FirstName": "Adriana",
+        "LastName": "Barbu",
+        "Age": 64,
+        "DateOfBirth": "13/07/1962",
+        "Nationality": "Romania"
+      }
+    }
+  ]
+}

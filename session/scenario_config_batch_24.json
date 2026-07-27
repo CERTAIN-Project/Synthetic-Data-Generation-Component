@@ -1,0 +1,47 @@
+{
+  "batch_id": 24,
+  "topic_title": "Test bias smoke run",
+  "topic_summary": "Question: Should the organization keep remote work?",
+  "deviation_grade": 4,
+  "deviation_target": "all",
+  "wrong_answer_pattern": "overgeneralized",
+  "allocation_strategy": "equal_distribution",
+  "total_clean_actors": 0,
+  "total_dirty_actors": 0,
+  "mode_mix": {
+    "quality": 0,
+    "balanced": 0,
+    "opinion": 0,
+    "demographic": 100
+  },
+  "rows": [
+    {
+      "bias_group": "young_support_overrepresented",
+      "age_bucket": "18-29",
+      "clean_count": 3,
+      "dirty_count": 8,
+      "country": "Greece"
+    },
+    {
+      "bias_group": "senior_oppose_overrepresented",
+      "age_bucket": "60+",
+      "clean_count": 3,
+      "dirty_count": 1,
+      "country": "Greece"
+    },
+    {
+      "bias_group": "none",
+      "age_bucket": "18-29",
+      "clean_count": 3,
+      "dirty_count": 1,
+      "country": "Romania"
+    },
+    {
+      "bias_group": "senior_oppose_overrepresented",
+      "age_bucket": "60+",
+      "clean_count": 3,
+      "dirty_count": 6,
+      "country": "Romania"
+    }
+  ]
+}

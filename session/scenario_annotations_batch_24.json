@@ -1,0 +1,266 @@
+{
+  "TopicTitle": "Test bias smoke run",
+  "TopicSummary": "Question: Should the organization keep remote work?",
+  "Clean": [
+    {
+      "Id": "demo-24-clean-001",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "young_support_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-24-clean-002",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "young_support_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-24-clean-003",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "young_support_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-24-clean-004",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "senior_oppose_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-24-clean-005",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "senior_oppose_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-24-clean-006",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "senior_oppose_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-24-clean-007",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-24-clean-008",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-24-clean-009",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-24-clean-010",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "senior_oppose_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-24-clean-011",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "senior_oppose_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-24-clean-012",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "senior_oppose_overrepresented"
+      }
+    }
+  ],
+  "Dirty": [
+    {
+      "Id": "demo-24-dirty-001",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "young_support_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-24-dirty-002",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "young_support_overrepresented",
+        "WrongAnswerPattern": "overgeneralized"
+      }
+    },
+    {
+      "Id": "demo-24-dirty-003",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "young_support_overrepresented",
+        "WrongAnswerPattern": "overgeneralized"
+      }
+    },
+    {
+      "Id": "demo-24-dirty-004",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "young_support_overrepresented",
+        "WrongAnswerPattern": "overgeneralized"
+      }
+    },
+    {
+      "Id": "demo-24-dirty-005",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "young_support_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-24-dirty-006",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "young_support_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-24-dirty-007",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "young_support_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-24-dirty-008",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "young_support_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-24-dirty-009",
+      "InternalMetadata": {
+        "Background": "Engineer",
+        "Opinion": "oppose",
+        "AnswerQuality": "partial",
+        "BiasGroup": "senior_oppose_overrepresented",
+        "WrongAnswerPattern": "overgeneralized"
+      }
+    },
+    {
+      "Id": "demo-24-dirty-010",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-24-dirty-011",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "concern",
+        "AnswerQuality": "partial",
+        "BiasGroup": "senior_oppose_overrepresented",
+        "WrongAnswerPattern": "overgeneralized"
+      }
+    },
+    {
+      "Id": "demo-24-dirty-012",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "senior_oppose_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-24-dirty-013",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "partial",
+        "BiasGroup": "senior_oppose_overrepresented",
+        "WrongAnswerPattern": "overgeneralized"
+      }
+    },
+    {
+      "Id": "demo-24-dirty-014",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "senior_oppose_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-24-dirty-015",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "senior_oppose_overrepresented"
+      }
+    },
+    {
+      "Id": "demo-24-dirty-016",
+      "InternalMetadata": {
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "senior_oppose_overrepresented"
+      }
+    }
+  ]
+}

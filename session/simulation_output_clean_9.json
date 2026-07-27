@@ -1,0 +1,606 @@
+{
+  "TopicTitle": "Panathinaikos is the best european club in basketball ",
+  "TopicSummary": "Question: Is panathinaikos the best european club in euroleague competition ?",
+  "Dataset": [
+    {
+      "Id": "demo-9-clean-001",
+      "Text": "While Panathinaikos has a rich history and strong presence in European basketball, calling it the best EuroLeague club outright overlooks other dominant teams like CSKA Moscow and Real Madrid, who have consistently performed at the highest level. Success in EuroLeague is cyclical, and many factors like recent titles, budget, and player development should be considered before making such a claim. So, Panathinaikos is among the top, but not definitively the best.",
+      "Metadata": {
+        "FirstName": "Nikos",
+        "LastName": "Nikolaou",
+        "Age": 27,
+        "DateOfBirth": "02/01/1999",
+        "Nationality": "Greece",
+        "Background": "Engineer",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "country_age_targeted_bias"
+      }
+    },
+    {
+      "Id": "demo-9-clean-002",
+      "Text": "While Panathinaikos has a rich history and impressive achievements in European basketball, calling it the best EuroLeague club outright overlooks other strong contenders like Real Madrid and CSKA Moscow, who have consistently performed at a high level too. The title of \"best\" is subjective and depends on recent performance, management, and player development. It's important to consider multiple factors and seasons before making such a definitive claim.",
+      "Metadata": {
+        "FirstName": "Maria",
+        "LastName": "Georgiou",
+        "Age": 27,
+        "DateOfBirth": "03/02/1999",
+        "Nationality": "Greece",
+        "Background": "Engineer",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "country_age_targeted_bias"
+      }
+    },
+    {
+      "Id": "demo-9-clean-003",
+      "Text": "While Panathinaikos has a rich history and impressive achievements in the Euroleague, calling it the best European club might overlook other strong contenders like Real Madrid or CSKA Moscow, who have consistently performed at a high level. Success in basketball should also consider recent seasons and overall consistency, not just past titles. So, Panathinaikos is definitely among the top, but not definitively the best without considering these factors.",
+      "Metadata": {
+        "FirstName": "Dimitris",
+        "LastName": "Pappas",
+        "Age": 38,
+        "DateOfBirth": "04/02/1988",
+        "Nationality": "Greece",
+        "Background": "Engineer",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "country_age_targeted_bias"
+      }
+    },
+    {
+      "Id": "demo-9-clean-004",
+      "Text": "Panathinaikos definitely has a strong legacy in EuroLeague basketball, with multiple titles and a passionate fanbase. However, calling it the best European club depends on the criteria you use—historical success, recent performance, or player development. Other clubs like Real Madrid and CSKA Moscow also have impressive records. So, while Panathinaikos is among the top, we should consider consistency over the last decade before declaring it the absolute best.",
+      "Metadata": {
+        "FirstName": "Sofia",
+        "LastName": "Vlachou",
+        "Age": 38,
+        "DateOfBirth": "05/03/1988",
+        "Nationality": "Greece",
+        "Background": "Engineer",
+        "Opinion": "conditional",
+        "AnswerQuality": "partial",
+        "BiasGroup": "country_age_targeted_bias"
+      }
+    },
+    {
+      "Id": "demo-9-clean-005",
+      "Text": "As a long-time fan and Greek engineer, I firmly believe Panathinaikos is the best European club in Euroleague basketball. Their consistent performance, multiple championships, and ability to develop top talent set them apart. Of course, success varies season to season, so it's important to consider not just the number of titles but also the club’s overall contribution to European basketball and the quality of their roster each year. Still, their legacy speaks for itself.",
+      "Metadata": {
+        "FirstName": "Kostas",
+        "LastName": "Karras",
+        "Age": 52,
+        "DateOfBirth": "06/03/1974",
+        "Nationality": "Greece",
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "partial",
+        "BiasGroup": "country_age_targeted_bias"
+      }
+    },
+    {
+      "Id": "demo-9-clean-006",
+      "Text": "Panathinaikos has a rich history and undeniable success in the EuroLeague, making it one of the top European clubs in basketball. However, calling it the absolute best requires considering recent performances and competition strength. Clubs like Real Madrid and CSKA Moscow have also been very strong. It's important to look at consistent achievements over the years, not just titles, to fairly judge which club stands as the best in Europe.",
+      "Metadata": {
+        "FirstName": "Andreas",
+        "LastName": "Alexiou",
+        "Age": 52,
+        "DateOfBirth": "07/04/1974",
+        "Nationality": "Greece",
+        "Background": "Engineer",
+        "Opinion": "concern",
+        "AnswerQuality": "correct",
+        "BiasGroup": "country_age_targeted_bias"
+      }
+    },
+    {
+      "Id": "demo-9-clean-007",
+      "Text": "While Panathinaikos has a rich history and many achievements in European basketball, calling them the best European club in Euroleague competition overlooks other consistently strong teams like Real Madrid and CSKA Moscow. Their performances over the last decade have been impressive, with multiple titles and deep runs. It’s important to consider recent consistency and overall Euroleague records before making such a definitive claim. Panathinaikos is certainly among the top, but not definitively the best.",
+      "Metadata": {
+        "FirstName": "Georgia",
+        "LastName": "Markou",
+        "Age": 64,
+        "DateOfBirth": "08/04/1962",
+        "Nationality": "Greece",
+        "Background": "Engineer",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "country_age_targeted_bias"
+      }
+    },
+    {
+      "Id": "demo-9-clean-008",
+      "Text": "As a longtime fan and Greek engineer, I believe Panathinaikos is indeed one of the best European clubs in Euroleague basketball. Their consistent performance, strong team spirit, and multiple championships highlight their excellence. However, we should also consider that other clubs have had impressive runs recently, so while Panathinaikos has a rich history, the current competition is tough and constantly evolving. Still, their legacy and skill set make them a top contender for sure.",
+      "Metadata": {
+        "FirstName": "Panagiotis",
+        "LastName": "Dimitriou",
+        "Age": 64,
+        "DateOfBirth": "09/05/1962",
+        "Nationality": "Greece",
+        "Background": "Engineer",
+        "Opinion": "support",
+        "AnswerQuality": "partial",
+        "BiasGroup": "country_age_targeted_bias"
+      }
+    },
+    {
+      "Id": "demo-9-clean-009",
+      "Text": "Absolutely, Panathinaikos is one of the best European clubs in Euroleague basketball history. Their multiple championships and consistent top-level performance set them apart. However, it’s important to consider the strength of competition in different eras and the resources available to clubs. While some teams may shine temporarily, Panathinaikos’ long-term success and fan support make them a true giant in European basketball.",
+      "Metadata": {
+        "FirstName": "Stefan",
+        "LastName": "Stoica",
+        "Age": 27,
+        "DateOfBirth": "10/05/1999",
+        "Nationality": "Romania",
+        "Background": "Teacher",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-010",
+      "Text": "Panathinaikos has definitely been one of the most successful and respected clubs in European basketball, with multiple EuroLeague titles. However, whether they are the absolute best depends on the timeframe you consider and the competition they faced. Other clubs like Real Madrid and CSKA Moscow also have strong legacies. So, while Panathinaikos is among the top, it's important to look at different eras and achievements before declaring any single team as the best.",
+      "Metadata": {
+        "FirstName": "Diana",
+        "LastName": "Matei",
+        "Age": 27,
+        "DateOfBirth": "11/06/1999",
+        "Nationality": "Romania",
+        "Background": "Teacher",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-011",
+      "Text": "While Panathinaikos is undoubtedly one of the most successful and respected clubs in European basketball, calling it the best in EuroLeague history might be an overstatement. Other clubs like Real Madrid and CSKA Moscow have also won numerous titles and consistently performed at a high level. It’s important to consider not just the number of championships but also the consistency, impact on the game, and overall contributions of each club before making such a definitive claim.",
+      "Metadata": {
+        "FirstName": "Florin",
+        "LastName": "Nistor",
+        "Age": 38,
+        "DateOfBirth": "12/06/1988",
+        "Nationality": "Romania",
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-012",
+      "Text": "While Panathinaikos has a rich history and has won several EuroLeague titles, calling it the best European club in basketball might be an overstatement. Other clubs like Real Madrid and CSKA Moscow have achieved consistent success over the years, often performing well in both domestic leagues and EuroLeague competitions. It's important to consider recent performance, consistency, and overall impact before making such a claim. Panathinaikos is great, but not definitively the best.",
+      "Metadata": {
+        "FirstName": "Adriana",
+        "LastName": "Barbu",
+        "Age": 38,
+        "DateOfBirth": "13/07/1988",
+        "Nationality": "Romania",
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-013",
+      "Text": "Panathinaikos has certainly been one of the most successful European clubs in Euroleague history, with multiple titles and a strong legacy. However, calling them the absolute best depends on how you measure success—whether by total championships, consistency, or influence on the game. Clubs like Real Madrid and CSKA Moscow also have impressive records. So, while Panathinaikos is definitely among the elite, a fair comparison should consider various criteria and historical context.",
+      "Metadata": {
+        "FirstName": "Gabriel",
+        "LastName": "Ciobanu",
+        "Age": 52,
+        "DateOfBirth": "14/07/1974",
+        "Nationality": "Romania",
+        "Background": "Teacher",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-014",
+      "Text": "Panathinaikos has certainly been one of the most successful clubs in European basketball, with multiple Euroleague titles and a strong fan base. However, calling it the best might depend on the era you consider and the criteria you use, such as number of championships, consistency, or impact. Other clubs like Real Madrid or CSKA Moscow also have impressive records. So, while Panathinaikos is definitely among the top, the debate can vary depending on these factors.",
+      "Metadata": {
+        "FirstName": "Simona",
+        "LastName": "Grigorescu",
+        "Age": 52,
+        "DateOfBirth": "15/08/1974",
+        "Nationality": "Romania",
+        "Background": "Teacher",
+        "Opinion": "conditional",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-015",
+      "Text": "While Panathinaikos has a strong history in the Euroleague and has won several titles, calling it the best European club might be an overstatement. Other clubs like Real Madrid or CSKA Moscow have also been extremely successful and consistent over the years. Assessing the \"best\" should consider recent performance, investment in youth, and overall impact on European basketball, not just past trophies. So, Panathinaikos is great but not definitively the best.",
+      "Metadata": {
+        "FirstName": "Lucian",
+        "LastName": "Neagu",
+        "Age": 64,
+        "DateOfBirth": "16/08/1962",
+        "Nationality": "Romania",
+        "Background": "Teacher",
+        "Opinion": "oppose",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-016",
+      "Text": "Panathinaikos has certainly been a strong contender in Euroleague basketball, with impressive wins and a rich history. However, calling it the absolute best might overlook other clubs with consistent performances and strong youth development programs. It's important to consider not only past victories but also how clubs invest in fair play and player welfare to maintain their status sustainably. Without these safeguards, the title of \"best\" can be misleading or temporary.",
+      "Metadata": {
+        "FirstName": "Ioana",
+        "LastName": "Popescu",
+        "Age": 64,
+        "DateOfBirth": "17/09/1962",
+        "Nationality": "Romania",
+        "Background": "Teacher",
+        "Opinion": "concern",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-017",
+      "Text": "While Panathinaikos is definitely one of the most successful European basketball clubs with multiple Euroleague titles, calling them the best might be an overstatement. Clubs like Real Madrid and CSKA Moscow have also had consistent success over the years, often with deeper budgets and stronger rosters. The \"best\" club can vary depending on the era and criteria, so it’s important to consider recent performance and overall consistency before making that claim.",
+      "Metadata": {
+        "FirstName": "Dimitar",
+        "LastName": "Ivanova",
+        "Age": 27,
+        "DateOfBirth": "18/09/1999",
+        "Nationality": "Bulgaria",
+        "Background": "Sales",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-018",
+      "Text": "While Panathinaikos is definitely one of the top European basketball clubs with a strong history and several EuroLeague titles, calling it the best might be an overstatement. Other clubs like Real Madrid and CSKA Moscow have also consistently performed at a very high level and have won multiple championships. It's important to consider overall achievements, consistency, and current team form before deciding which club is truly the best in Europe.",
+      "Metadata": {
+        "FirstName": "Vesela",
+        "LastName": "Petrov",
+        "Age": 27,
+        "DateOfBirth": "19/10/1999",
+        "Nationality": "Bulgaria",
+        "Background": "Sales",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-019",
+      "Text": "Panathinaikos is definitely one of the most successful European basketball clubs, especially considering their multiple EuroLeague titles and consistent performance over the years. However, calling them the absolute best depends on the criteria you use—historical achievements, recent form, or overall impact on the game. Clubs like Real Madrid and CSKA Moscow also have strong claims. So, while Panathinaikos is top-tier, the debate remains open depending on how you weigh different factors.",
+      "Metadata": {
+        "FirstName": "Nikolay",
+        "LastName": "Koleva",
+        "Age": 38,
+        "DateOfBirth": "20/10/1988",
+        "Nationality": "Bulgaria",
+        "Background": "Sales",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-020",
+      "Text": "Panathinaikos is definitely one of the best European clubs in EuroLeague history, especially considering their multiple championships and consistent presence at the top level. However, calling them the absolute best can depend on the criteria you use—like number of titles, recent performance, or overall influence. Other clubs like CSKA Moscow and Real Madrid also have strong claims. So, while Panathinaikos is a top contender, the title of \"best\" might vary depending on what factors you prioritize.",
+      "Metadata": {
+        "FirstName": "Kalina",
+        "LastName": "Stoyanov",
+        "Age": 38,
+        "DateOfBirth": "21/11/1988",
+        "Nationality": "Bulgaria",
+        "Background": "Sales",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-021",
+      "Text": "Panathinaikos is definitely one of the best European clubs in Euroleague history, with multiple titles and a strong legacy. However, calling it the absolute best depends on criteria like recent performance, consistency, and competition level. Other clubs like Real Madrid and CSKA Moscow also have impressive records. So, while Panathinaikos deserves respect, the title of \"best\" can vary based on how you weigh those factors over time.",
+      "Metadata": {
+        "FirstName": "Petar",
+        "LastName": "Vasileva",
+        "Age": 52,
+        "DateOfBirth": "22/11/1974",
+        "Nationality": "Bulgaria",
+        "Background": "Sales",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-022",
+      "Text": "While Panathinaikos has a strong history and impressive achievements in Euroleague basketball, calling it the best European club might be a bit of an overstatement. Other teams like Real Madrid and CSKA Moscow have also consistently performed at high levels and won multiple titles. It’s important to consider recent seasons and overall consistency rather than just historical success when making such claims. So, Panathinaikos is definitely among the top, but not definitively the best.",
+      "Metadata": {
+        "FirstName": "Elena",
+        "LastName": "Georgiev",
+        "Age": 52,
+        "DateOfBirth": "23/12/1974",
+        "Nationality": "Bulgaria",
+        "Background": "Sales",
+        "Opinion": "oppose",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-023",
+      "Text": "Panathinaikos has certainly been one of the most successful clubs in Euroleague history, with many titles and a strong fan base. However, calling them the absolute best might be a bit premature, as other clubs like Real Madrid and CSKA Moscow also have impressive records. It’s important to consider recent performance trends and management stability before deciding who truly leads European basketball. Success can fluctuate, so we should watch how teams evolve over time.",
+      "Metadata": {
+        "FirstName": "Georgi",
+        "LastName": "Todorova",
+        "Age": 64,
+        "DateOfBirth": "24/12/1962",
+        "Nationality": "Bulgaria",
+        "Background": "Sales",
+        "Opinion": "concern",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-024",
+      "Text": "Panathinaikos is definitely one of the top European basketball clubs with a strong history in the EuroLeague, but calling it the absolute best might be a stretch. Clubs like Real Madrid and CSKA Moscow have also shown consistent high performance and have more recent titles. It's important to consider not only past achievements but also current form and squad strength before deciding which club truly leads Europe.",
+      "Metadata": {
+        "FirstName": "Radost",
+        "LastName": "Nikolov",
+        "Age": 64,
+        "DateOfBirth": "25/01/1962",
+        "Nationality": "Bulgaria",
+        "Background": "Sales",
+        "Opinion": "oppose",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-025",
+      "Text": "While Panathinaikos has a strong legacy in European basketball, calling it the best EuroLeague club might be an overstatement. Other clubs like CSKA Moscow and Real Madrid have also shown consistent performance and have more recent titles. It's important to consider factors like current team form, investment, and player development before making such claims. So, Panathinaikos is definitely among the top, but not definitively the best at this moment.",
+      "Metadata": {
+        "FirstName": "Melina",
+        "LastName": "Nicolaou",
+        "Age": 27,
+        "DateOfBirth": "26/01/1999",
+        "Nationality": "Cyprus",
+        "Background": "HR",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-026",
+      "Text": "Panathinaikos has a strong presence in European basketball and has won several Euroleague titles, which definitely puts them among the top clubs. However, calling them the absolute best can be subjective since other teams like Real Madrid also have impressive records. Still, Panathinaikos' passionate fan base and consistent performance make them a legendary club in the Euroleague scene. Their history speaks volumes about their impact on the sport in Europe.",
+      "Metadata": {
+        "FirstName": "Antonis",
+        "LastName": "Savva",
+        "Age": 27,
+        "DateOfBirth": "27/02/1999",
+        "Nationality": "Cyprus",
+        "Background": "HR",
+        "Opinion": "support",
+        "AnswerQuality": "incorrect",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-027",
+      "Text": "While Panathinaikos has a strong history and passionate fanbase, calling it the best European club in EuroLeague competition overlooks other teams with equally impressive records, like Real Madrid or CSKA Moscow. Success in basketball is often cyclical, and recent seasons show a more balanced competition. It's important to consider current performance and overall consistency before declaring any single club as the best.",
+      "Metadata": {
+        "FirstName": "Elpida",
+        "LastName": "Iacovou",
+        "Age": 38,
+        "DateOfBirth": "01/02/1988",
+        "Nationality": "Cyprus",
+        "Background": "HR",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-028",
+      "Text": "Panathinaikos has certainly earned its reputation as one of the best European clubs in basketball, especially with multiple Euroleague titles under their belt. Their consistent performance over the years and strong fan support make a compelling case. However, to say they are the absolute best might require looking at recent seasons and how they stack up against other top teams like CSKA Moscow or Real Madrid in terms of current form and squad depth. Still, their legacy is undeniable.",
+      "Metadata": {
+        "FirstName": "Neophytos",
+        "LastName": "Themistocleous",
+        "Age": 38,
+        "DateOfBirth": "02/03/1988",
+        "Nationality": "Cyprus",
+        "Background": "HR",
+        "Opinion": "support",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-029",
+      "Text": "Panathinaikos has definitely been one of the most successful European clubs in basketball, with a strong history in the Euroleague. However, calling it the absolute best might depend on the time period you consider and how you weigh different achievements. Other clubs have also had impressive runs. It’s important to look at consistent performance over many seasons rather than just a few standout years before making a final judgment.",
+      "Metadata": {
+        "FirstName": "Marina",
+        "LastName": "Panayiotou",
+        "Age": 52,
+        "DateOfBirth": "03/03/1974",
+        "Nationality": "Cyprus",
+        "Background": "HR",
+        "Opinion": "conditional",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-030",
+      "Text": "Panathinaikos has certainly been one of the most successful clubs in Euroleague history, with multiple titles and a strong legacy. However, calling it the absolute best might depend on the era you consider and how you weigh recent performances versus historical success. Other clubs like CSKA Moscow and Real Madrid also have strong claims. So, Panathinaikos is definitely among the top, but the title of “best” can be subjective depending on the criteria used.",
+      "Metadata": {
+        "FirstName": "Pavlos",
+        "LastName": "Anastasiou",
+        "Age": 52,
+        "DateOfBirth": "04/04/1974",
+        "Nationality": "Cyprus",
+        "Background": "HR",
+        "Opinion": "conditional",
+        "AnswerQuality": "partial",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-031",
+      "Text": "While Panathinaikos has a rich history and notable achievements, calling it the best European club in Euroleague competition overlooks other strong contenders like CSKA Moscow and Real Madrid, who have consistently performed at a high level. It's important to consider recent performance trends and overall titles won when making such claims. So, although Panathinaikos is among the top clubs, labeling it as the absolute best may be an overstatement without acknowledging the broader competitive context.",
+      "Metadata": {
+        "FirstName": "Ariadni",
+        "LastName": "Stylianou",
+        "Age": 64,
+        "DateOfBirth": "05/04/1962",
+        "Nationality": "Cyprus",
+        "Background": "HR",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-032",
+      "Text": "While Panathinaikos has a strong legacy in European basketball, calling them the absolute best club in EuroLeague history overlooks other giants like Real Madrid and CSKA Moscow, who have also secured numerous titles and consistently performed at the highest level. It's important to consider not just historical success but also recent performance and financial stability, which impact a club's ability to maintain top competitiveness over time. So, Panathinaikos is among the elite, but not definitively the best.",
+      "Metadata": {
+        "FirstName": "Andreas",
+        "LastName": "Charalambous",
+        "Age": 64,
+        "DateOfBirth": "06/05/1962",
+        "Nationality": "Cyprus",
+        "Background": "HR",
+        "Opinion": "oppose",
+        "AnswerQuality": "correct",
+        "BiasGroup": "none"
+      }
+    },
+    {
+      "Id": "demo-9-clean-033",
+      "Text": "Panathinaikos is definitely one of the top European basketball clubs, especially considering their history and number of Euroleague titles. However, calling them the absolute best depends on what criteria you prioritize—consistency, recent performance, or fan base. Other clubs like Real Madrid or CSKA Moscow also have strong cases. So, while Panathinaikos is among the elite, it’s important to consider multiple factors before declaring them the best overall.",
+      "Metadata": {
+        "FirstName": "Elira",
+        "LastName": "Kola",
+        "Age": 27,
+        "DateOfBirth": "07/05/1999",
+        "Nationality": "Albania",
+        "Background": "Consultant",
+        "Opinion": "conditional",
+        "AnswerQuality": "partial",
+        "BiasGroup": "country_age_targeted_bias"
+      }
+    },
+    {
+      "Id": "demo-9-clean-034",
+      "Text": "Panathinaikos is definitely one of the top European clubs in Euroleague history, with multiple titles and a strong legacy. However, calling it the absolute best depends on the criteria used—such as total championships, consistency, or recent performance. Other clubs like Real Madrid or CSKA Moscow also have impressive records. So, while Panathinaikos is among the elite, the title of \"best\" can vary depending on what factors you prioritize.",
+      "Metadata": {
+        "FirstName": "Dritan",
+        "LastName": "Dervishi",
+        "Age": 27,
+        "DateOfBirth": "08/06/1999",
+        "Nationality": "Albania",
+        "Background": "Consultant",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "country_age_targeted_bias"
+      }
+    },
+    {
+      "Id": "demo-9-clean-035",
+      "Text": "Panathinaikos has undoubtedly earned its place as one of the best European basketball clubs, especially with their six EuroLeague titles. Their consistent performance, strong team management, and passionate fan base set them apart. However, it's important to consider that other clubs like Real Madrid or CSKA Moscow also have impressive records, so while Panathinaikos is top-tier, calling them the absolute best requires looking at recent seasons and overall impact carefully.",
+      "Metadata": {
+        "FirstName": "Mira",
+        "LastName": "Leka",
+        "Age": 38,
+        "DateOfBirth": "09/06/1988",
+        "Nationality": "Albania",
+        "Background": "Consultant",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "country_age_targeted_bias"
+      }
+    },
+    {
+      "Id": "demo-9-clean-036",
+      "Text": "Panathinaikos has proven to be one of the best European clubs in basketball, especially with their multiple EuroLeague titles and consistent high-level performances. Their strong team strategy, experienced roster, and passionate fanbase make them stand out. Of course, other clubs like CSKA Moscow and Real Madrid are also very competitive, but Panathinaikos’ history and recent achievements give them a strong claim to being the best in EuroLeague competition.",
+      "Metadata": {
+        "FirstName": "Ilir",
+        "LastName": "Prifti",
+        "Age": 38,
+        "DateOfBirth": "10/07/1988",
+        "Nationality": "Albania",
+        "Background": "Consultant",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "country_age_targeted_bias"
+      }
+    },
+    {
+      "Id": "demo-9-clean-037",
+      "Text": "Panathinaikos has certainly been one of the most successful European basketball clubs, especially with their multiple EuroLeague titles. However, calling them the best depends on the criteria you use—whether it's historical success, recent performance, or overall consistency. For example, clubs like Real Madrid or CSKA Moscow also have strong records. So, while Panathinaikos is definitely among the elite, declaring them the absolute best might require looking at various factors over different periods.",
+      "Metadata": {
+        "FirstName": "Besa",
+        "LastName": "Gashi",
+        "Age": 52,
+        "DateOfBirth": "11/07/1974",
+        "Nationality": "Albania",
+        "Background": "Consultant",
+        "Opinion": "conditional",
+        "AnswerQuality": "correct",
+        "BiasGroup": "country_age_targeted_bias"
+      }
+    },
+    {
+      "Id": "demo-9-clean-038",
+      "Text": "Absolutely, Panathinaikos is one of the best European clubs in Euroleague history. Their consistent performance, numerous championships, and strong team management set them apart. However, it’s important to consider the era and competition level when comparing clubs. Panathinaikos has maintained high standards over decades, which truly underscores their excellence. Their commitment to developing talent and tactical innovation also safeguards their position at the top of European basketball.",
+      "Metadata": {
+        "FirstName": "Anila",
+        "LastName": "Shehu",
+        "Age": 52,
+        "DateOfBirth": "12/08/1974",
+        "Nationality": "Albania",
+        "Background": "Consultant",
+        "Opinion": "support",
+        "AnswerQuality": "correct",
+        "BiasGroup": "country_age_targeted_bias"
+      }
+    },
+    {
+      "Id": "demo-9-clean-039",
+      "Text": "Panathinaikos has certainly been one of the most successful clubs in Euroleague history, with multiple titles and a strong fan base. However, calling it the absolute best might overlook other clubs like Real Madrid or CSKA Moscow, which have also had significant success. It's important to consider recent performance trends and consistency over time before making a definitive judgment. Without a clear, updated comparison, the debate remains open.",
+      "Metadata": {
+        "FirstName": "Besnik",
+        "LastName": "Basha",
+        "Age": 64,
+        "DateOfBirth": "13/08/1962",
+        "Nationality": "Albania",
+        "Background": "Consultant",
+        "Opinion": "concern",
+        "AnswerQuality": "partial",
+        "BiasGroup": "country_age_targeted_bias"
+      }
+    },
+    {
+      "Id": "demo-9-clean-040",
+      "Text": "As a longtime basketball fan, I believe Panathinaikos is definitely one of the best European clubs in the Euroleague. Their history, multiple championships, and strong presence on the court show their quality. However, to truly claim they are the best, we should also consider recent performance trends and consistency against other top teams. Still, their legacy and passion make them stand out in European basketball for sure.",
+      "Metadata": {
+        "FirstName": "Flutura",
+        "LastName": "Krasniqi",
+        "Age": 64,
+        "DateOfBirth": "14/09/1962",
+        "Nationality": "Albania",
+        "Background": "Consultant",
+        "Opinion": "support",
+        "AnswerQuality": "partial",
+        "BiasGroup": "country_age_targeted_bias"
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "cluster_count": 3,
+  "silhouette_score": null,
+  "clusters": [
+    {
+      "cluster_id": 0,
+      "records": 8,
+      "share_of_dataset": 0.5,
+      "anonymous_rate": 0.0,
+      "metadata_missing_rate": 0.0,
+      "avg_text_length": 357.0,
+      "avg_age": 27.0,
+      "nationality_distribution": {
+        "Greece": 1.0
+      },
+      "background_distribution": {
+        "Engineer": 1.0
+      },
+      "age_bucket_distribution": {
+        "18-29": 1.0
+      },
+      "opinion_distribution": {
+        "support": 1.0
+      },
+      "answer_quality_distribution": {
+        "correct": 0.625,
+        "incorrect": 0.375
+      },
+      "bias_group_distribution": {
+        "young_support_overrepresented": 1.0
+      },
+      "nationality_tvd_vs_dataset": 0.4375,
+      "background_tvd_vs_dataset": 0.4375,
+      "age_bucket_tvd_vs_dataset": 0.4375,
+      "top_terms": [
+        "support",
+        "keeping",
+        "flexibility",
+        "mentoring",
+        "improve",
+        "greece",
+        "feedback",
+        "commuting"
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "records": 6,
+      "share_of_dataset": 0.375,
+      "anonymous_rate": 0.0,
+      "metadata_missing_rate": 0.0,
+      "avg_text_length": 304.6666666666667,
+      "avg_age": 64.0,
+      "nationality_distribution": {
+        "Greece": 0.16666666666666666,
+        "Romania": 0.8333333333333334
+      },
+      "background_distribution": {
+        "Engineer": 0.16666666666666666,
+        "Teacher": 0.8333333333333334
+      },
+      "age_bucket_distribution": {
+        "60+": 1.0
+      },
+      "opinion_distribution": {
+        "oppose": 1.0
+      },
+      "answer_quality_distribution": {
+        "correct": 0.6666666666666666,
+        "partial": 0.3333333333333333
+      },
+      "bias_group_distribution": {
+        "senior_oppose_overrepresented": 1.0
+      },
+      "nationality_tvd_vs_dataset": 0.39583333333333337,
+      "background_tvd_vs_dataset": 0.39583333333333337,
+      "age_bucket_tvd_vs_dataset": 0.5625,
+      "top_terms": [
+        "late-career",
+        "accessibility",
+        "benefits",
+        "flexibility",
+        "health",
+        "60+",
+        "missed",
+        "mentoring"
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "records": 2,
+      "share_of_dataset": 0.125,
+      "anonymous_rate": 0.0,
+      "metadata_missing_rate": 0.0,
+      "avg_text_length": 340.0,
+      "avg_age": 45.5,
+      "nationality_distribution": {
+        "Romania": 1.0
+      },
+      "background_distribution": {
+        "Teacher": 1.0
+      },
+      "age_bucket_distribution": {
+        "18-29": 0.5,
+        "60+": 0.5
+      },
+      "opinion_distribution": {
+        "concern": 1.0
+      },
+      "answer_quality_distribution": {
+        "correct": 0.5,
+        "partial": 0.5
+      },
+      "bias_group_distribution": {
+        "none": 0.5,
+        "senior_oppose_overrepresented": 0.5
+      },
+      "nationality_tvd_vs_dataset": 0.5625,
+      "background_tvd_vs_dataset": 0.5625,
+      "age_bucket_tvd_vs_dataset": 0.0625,
+      "top_terms": [
+        "belonging",
+        "organization",
+        "knowledge",
+        "does",
+        "have",
+        "work-life",
+        "romania",
+        "boundaries"
+      ]
+    }
+  ]
+}

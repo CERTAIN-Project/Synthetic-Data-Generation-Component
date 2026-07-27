@@ -1,0 +1,23 @@
+{
+  "batch_id": 8,
+  "topic_title": "Remote work policy review",
+  "clean_cluster_count": 6,
+  "dirty_cluster_count": 6,
+  "comparison": {
+    "clean_records": 100,
+    "dirty_records": 100,
+    "delta_anonymous_rate": 0.0,
+    "delta_metadata_missing_rate": 0.0,
+    "delta_weighted_nationality_tvd": 0.12599999999999997,
+    "delta_weighted_background_tvd": 0.12599999999999997,
+    "delta_weighted_age_bucket_tvd": 0.06429999999999998,
+    "representation_shift": {
+      "nationality_tvd": 0.07999999999999999,
+      "background_tvd": 0.07999999999999999,
+      "age_bucket_tvd": 0.020000000000000018,
+      "opinion_tvd": 0.04999999999999999,
+      "answer_quality_tvd": 0.18999999999999997,
+      "bias_group_tvd": 0.52
+    }
+  }
+}

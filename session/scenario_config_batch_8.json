@@ -1,0 +1,659 @@
+{
+  "batch_id": 8,
+  "topic_title": "Remote work policy review",
+  "topic_summary": "Question: Should the organization keep a remote work policy? A correct answer must give a position and also mention safeguards for mentorship, inclusion, productivity, and work-life balance.",
+  "deviation_grade": 4,
+  "deviation_target": "all",
+  "wrong_answer_pattern": "random",
+  "allocation_strategy": "equal_distribution",
+  "total_clean_actors": 100,
+  "total_dirty_actors": 100,
+  "mode_mix": {
+    "balanced": 0,
+    "demographic": 70,
+    "opinion": 20,
+    "quality": 10
+  },
+  "rows": [
+    {
+      "country": "Greece",
+      "age_bucket": "18-29",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Greece",
+      "age_bucket": "30-44",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Greece",
+      "age_bucket": "45-59",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Greece",
+      "age_bucket": "60+",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Romania",
+      "age_bucket": "18-29",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Romania",
+      "age_bucket": "30-44",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Romania",
+      "age_bucket": "45-59",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Romania",
+      "age_bucket": "60+",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Bulgaria",
+      "age_bucket": "18-29",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Bulgaria",
+      "age_bucket": "30-44",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Bulgaria",
+      "age_bucket": "45-59",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Bulgaria",
+      "age_bucket": "60+",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Cyprus",
+      "age_bucket": "18-29",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Cyprus",
+      "age_bucket": "30-44",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Cyprus",
+      "age_bucket": "45-59",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Cyprus",
+      "age_bucket": "60+",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Albania",
+      "age_bucket": "18-29",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Albania",
+      "age_bucket": "30-44",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Albania",
+      "age_bucket": "45-59",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Albania",
+      "age_bucket": "60+",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 5,
+      "dirty_count": 0
+    },
+    {
+      "country": "Greece",
+      "age_bucket": "18-29",
+      "bias_group": "young_support_overrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 4
+    },
+    {
+      "country": "Greece",
+      "age_bucket": "30-44",
+      "bias_group": "midcareer_conditional_present",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 4
+    },
+    {
+      "country": "Greece",
+      "age_bucket": "45-59",
+      "bias_group": "general_underrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 4
+    },
+    {
+      "country": "Greece",
+      "age_bucket": "60+",
+      "bias_group": "general_underrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 4
+    },
+    {
+      "country": "Romania",
+      "age_bucket": "18-29",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 4
+    },
+    {
+      "country": "Romania",
+      "age_bucket": "30-44",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 4
+    },
+    {
+      "country": "Romania",
+      "age_bucket": "45-59",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 4
+    },
+    {
+      "country": "Romania",
+      "age_bucket": "60+",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 4
+    },
+    {
+      "country": "Bulgaria",
+      "age_bucket": "18-29",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 4
+    },
+    {
+      "country": "Bulgaria",
+      "age_bucket": "30-44",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 4
+    },
+    {
+      "country": "Bulgaria",
+      "age_bucket": "45-59",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 3
+    },
+    {
+      "country": "Bulgaria",
+      "age_bucket": "60+",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 3
+    },
+    {
+      "country": "Cyprus",
+      "age_bucket": "18-29",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 3
+    },
+    {
+      "country": "Cyprus",
+      "age_bucket": "30-44",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 3
+    },
+    {
+      "country": "Cyprus",
+      "age_bucket": "45-59",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 3
+    },
+    {
+      "country": "Cyprus",
+      "age_bucket": "60+",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 3
+    },
+    {
+      "country": "Albania",
+      "age_bucket": "18-29",
+      "bias_group": "general_underrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 3
+    },
+    {
+      "country": "Albania",
+      "age_bucket": "30-44",
+      "bias_group": "general_underrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 3
+    },
+    {
+      "country": "Albania",
+      "age_bucket": "45-59",
+      "bias_group": "senior_oppose_overrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 3
+    },
+    {
+      "country": "Albania",
+      "age_bucket": "60+",
+      "bias_group": "senior_oppose_overrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 3
+    },
+    {
+      "country": "Greece",
+      "age_bucket": "18-29",
+      "bias_group": "young_support_overrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Greece",
+      "age_bucket": "30-44",
+      "bias_group": "midcareer_conditional_present",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Greece",
+      "age_bucket": "45-59",
+      "bias_group": "senior_oppose_overrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Greece",
+      "age_bucket": "60+",
+      "bias_group": "senior_oppose_overrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Romania",
+      "age_bucket": "18-29",
+      "bias_group": "young_support_overrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Romania",
+      "age_bucket": "30-44",
+      "bias_group": "midcareer_conditional_present",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Romania",
+      "age_bucket": "45-59",
+      "bias_group": "senior_oppose_overrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Romania",
+      "age_bucket": "60+",
+      "bias_group": "senior_oppose_overrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Bulgaria",
+      "age_bucket": "18-29",
+      "bias_group": "young_support_overrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Bulgaria",
+      "age_bucket": "30-44",
+      "bias_group": "midcareer_conditional_present",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Bulgaria",
+      "age_bucket": "45-59",
+      "bias_group": "senior_oppose_overrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Bulgaria",
+      "age_bucket": "60+",
+      "bias_group": "senior_oppose_overrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Cyprus",
+      "age_bucket": "18-29",
+      "bias_group": "young_support_overrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Cyprus",
+      "age_bucket": "30-44",
+      "bias_group": "midcareer_conditional_present",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Cyprus",
+      "age_bucket": "45-59",
+      "bias_group": "senior_oppose_overrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Cyprus",
+      "age_bucket": "60+",
+      "bias_group": "senior_oppose_overrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Albania",
+      "age_bucket": "18-29",
+      "bias_group": "young_support_overrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Albania",
+      "age_bucket": "30-44",
+      "bias_group": "midcareer_conditional_present",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Albania",
+      "age_bucket": "45-59",
+      "bias_group": "senior_oppose_overrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Albania",
+      "age_bucket": "60+",
+      "bias_group": "senior_oppose_overrepresented",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Greece",
+      "age_bucket": "18-29",
+      "bias_group": "country_age_targeted_bias",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Greece",
+      "age_bucket": "30-44",
+      "bias_group": "country_age_targeted_bias",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Greece",
+      "age_bucket": "45-59",
+      "bias_group": "country_age_targeted_bias",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Greece",
+      "age_bucket": "60+",
+      "bias_group": "country_age_targeted_bias",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Romania",
+      "age_bucket": "18-29",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Romania",
+      "age_bucket": "30-44",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Romania",
+      "age_bucket": "45-59",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Romania",
+      "age_bucket": "60+",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Bulgaria",
+      "age_bucket": "18-29",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Bulgaria",
+      "age_bucket": "30-44",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 1
+    },
+    {
+      "country": "Bulgaria",
+      "age_bucket": "45-59",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 0
+    },
+    {
+      "country": "Bulgaria",
+      "age_bucket": "60+",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 0
+    },
+    {
+      "country": "Cyprus",
+      "age_bucket": "18-29",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 0
+    },
+    {
+      "country": "Cyprus",
+      "age_bucket": "30-44",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 0
+    },
+    {
+      "country": "Cyprus",
+      "age_bucket": "45-59",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 0
+    },
+    {
+      "country": "Cyprus",
+      "age_bucket": "60+",
+      "bias_group": "none",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 0
+    },
+    {
+      "country": "Albania",
+      "age_bucket": "18-29",
+      "bias_group": "country_age_targeted_bias",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 0
+    },
+    {
+      "country": "Albania",
+      "age_bucket": "30-44",
+      "bias_group": "country_age_targeted_bias",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 0
+    },
+    {
+      "country": "Albania",
+      "age_bucket": "45-59",
+      "bias_group": "country_age_targeted_bias",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 0
+    },
+    {
+      "country": "Albania",
+      "age_bucket": "60+",
+      "bias_group": "country_age_targeted_bias",
+      "force_correct": false,
+      "clean_count": 0,
+      "dirty_count": 0
+    }
+  ]
+}

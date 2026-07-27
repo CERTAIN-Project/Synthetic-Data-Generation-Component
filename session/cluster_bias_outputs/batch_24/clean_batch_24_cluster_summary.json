@@ -1,0 +1,181 @@
+{
+  "cluster_count": 4,
+  "silhouette_score": null,
+  "clusters": [
+    {
+      "cluster_id": 0,
+      "records": 4,
+      "share_of_dataset": 0.3333333333333333,
+      "anonymous_rate": 0.0,
+      "metadata_missing_rate": 0.0,
+      "avg_text_length": 363.5,
+      "avg_age": 45.5,
+      "nationality_distribution": {
+        "Greece": 0.75,
+        "Romania": 0.25
+      },
+      "background_distribution": {
+        "Engineer": 0.75,
+        "Teacher": 0.25
+      },
+      "age_bucket_distribution": {
+        "18-29": 0.5,
+        "60+": 0.5
+      },
+      "opinion_distribution": {
+        "support": 1.0
+      },
+      "answer_quality_distribution": {
+        "correct": 1.0
+      },
+      "bias_group_distribution": {
+        "senior_oppose_overrepresented": 0.5,
+        "young_support_overrepresented": 0.5
+      },
+      "nationality_tvd_vs_dataset": 0.25,
+      "background_tvd_vs_dataset": 0.25,
+      "age_bucket_tvd_vs_dataset": 0.0,
+      "top_terms": [
+        "support",
+        "keeping",
+        "flexibility",
+        "mentoring",
+        "improve",
+        "commuting",
+        "still",
+        "roles"
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "records": 3,
+      "share_of_dataset": 0.25,
+      "anonymous_rate": 0.0,
+      "metadata_missing_rate": 0.0,
+      "avg_text_length": 320.3333333333333,
+      "avg_age": 39.333333333333336,
+      "nationality_distribution": {
+        "Greece": 0.3333333333333333,
+        "Romania": 0.6666666666666666
+      },
+      "background_distribution": {
+        "Engineer": 0.3333333333333333,
+        "Teacher": 0.6666666666666666
+      },
+      "age_bucket_distribution": {
+        "18-29": 0.6666666666666666,
+        "60+": 0.3333333333333333
+      },
+      "opinion_distribution": {
+        "conditional": 1.0
+      },
+      "answer_quality_distribution": {
+        "correct": 1.0
+      },
+      "bias_group_distribution": {
+        "none": 0.3333333333333333,
+        "senior_oppose_overrepresented": 0.3333333333333333,
+        "young_support_overrepresented": 0.3333333333333333
+      },
+      "nationality_tvd_vs_dataset": 0.16666666666666666,
+      "background_tvd_vs_dataset": 0.16666666666666666,
+      "age_bucket_tvd_vs_dataset": 0.16666666666666666,
+      "top_terms": [
+        "support",
+        "hybrid",
+        "rituals",
+        "with",
+        "comes",
+        "monitoring",
+        "productivity",
+        "conditionally"
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "records": 2,
+      "share_of_dataset": 0.16666666666666666,
+      "anonymous_rate": 0.0,
+      "metadata_missing_rate": 0.0,
+      "avg_text_length": 345.0,
+      "avg_age": 64.0,
+      "nationality_distribution": {
+        "Greece": 0.5,
+        "Romania": 0.5
+      },
+      "background_distribution": {
+        "Engineer": 0.5,
+        "Teacher": 0.5
+      },
+      "age_bucket_distribution": {
+        "60+": 1.0
+      },
+      "opinion_distribution": {
+        "concern": 1.0
+      },
+      "answer_quality_distribution": {
+        "correct": 1.0
+      },
+      "bias_group_distribution": {
+        "senior_oppose_overrepresented": 1.0
+      },
+      "nationality_tvd_vs_dataset": 0.0,
+      "background_tvd_vs_dataset": 0.0,
+      "age_bucket_tvd_vs_dataset": 0.5,
+      "top_terms": [
+        "belonging",
+        "late-career",
+        "accessibility",
+        "organization",
+        "health",
+        "60+",
+        "knowledge",
+        "does"
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "records": 3,
+      "share_of_dataset": 0.25,
+      "anonymous_rate": 0.0,
+      "metadata_missing_rate": 0.0,
+      "avg_text_length": 296.3333333333333,
+      "avg_age": 39.333333333333336,
+      "nationality_distribution": {
+        "Greece": 0.3333333333333333,
+        "Romania": 0.6666666666666666
+      },
+      "background_distribution": {
+        "Engineer": 0.3333333333333333,
+        "Teacher": 0.6666666666666666
+      },
+      "age_bucket_distribution": {
+        "18-29": 0.6666666666666666,
+        "60+": 0.3333333333333333
+      },
+      "opinion_distribution": {
+        "oppose": 1.0
+      },
+      "answer_quality_distribution": {
+        "correct": 1.0
+      },
+      "bias_group_distribution": {
+        "none": 0.6666666666666666,
+        "senior_oppose_overrepresented": 0.3333333333333333
+      },
+      "nationality_tvd_vs_dataset": 0.16666666666666666,
+      "background_tvd_vs_dataset": 0.16666666666666666,
+      "age_bucket_tvd_vs_dataset": 0.16666666666666666,
+      "top_terms": [
+        "benefits",
+        "flexibility",
+        "missed",
+        "mentoring",
+        "broad",
+        "oppose",
+        "when",
+        "delayed"
+      ]
+    }
+  ]
+}
