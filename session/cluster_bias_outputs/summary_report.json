@@ -7,7 +7,53 @@
   "reports": [
     {
       "batch_id": 8,
-      "topic_title": "Remote work policy review",
+      "topic_title": "War in the middle east ",
+      "clean_cluster_count": 6,
+      "dirty_cluster_count": 6,
+      "comparison": {
+        "clean_records": 120,
+        "dirty_records": 120,
+        "delta_anonymous_rate": 0.0,
+        "delta_metadata_missing_rate": 0.0,
+        "delta_weighted_nationality_tvd": 0.006805555555555537,
+        "delta_weighted_background_tvd": 0.006805555555555537,
+        "delta_weighted_age_bucket_tvd": 0.06909722222222223,
+        "representation_shift": {
+          "nationality_tvd": 0.05833333333333335,
+          "background_tvd": 0.05833333333333335,
+          "age_bucket_tvd": 0.10000000000000002,
+          "opinion_tvd": 0.3,
+          "answer_quality_tvd": 0.375,
+          "bias_group_tvd": 0.9333333333333333
+        }
+      }
+    },
+    {
+      "batch_id": 9,
+      "topic_title": "War in the middle east ",
+      "clean_cluster_count": 6,
+      "dirty_cluster_count": 6,
+      "comparison": {
+        "clean_records": 120,
+        "dirty_records": 120,
+        "delta_anonymous_rate": 0.0,
+        "delta_metadata_missing_rate": 0.0,
+        "delta_weighted_nationality_tvd": 0.004652777777777811,
+        "delta_weighted_background_tvd": 0.004652777777777811,
+        "delta_weighted_age_bucket_tvd": 0.09423611111111113,
+        "representation_shift": {
+          "nationality_tvd": 0.05833333333333335,
+          "background_tvd": 0.05833333333333335,
+          "age_bucket_tvd": 0.10000000000000002,
+          "opinion_tvd": 0.2916666666666667,
+          "answer_quality_tvd": 0.30833333333333335,
+          "bias_group_tvd": 0.9333333333333333
+        }
+      }
+    },
+    {
+      "batch_id": 24,
+      "topic_title": "Gender equality",
       "clean_cluster_count": 6,
       "dirty_cluster_count": 6,
       "comparison": {
@@ -15,62 +61,16 @@
         "dirty_records": 100,
         "delta_anonymous_rate": 0.0,
         "delta_metadata_missing_rate": 0.0,
-        "delta_weighted_nationality_tvd": 0.12599999999999997,
-        "delta_weighted_background_tvd": 0.12599999999999997,
-        "delta_weighted_age_bucket_tvd": 0.06429999999999998,
-        "representation_shift": {
-          "nationality_tvd": 0.07999999999999999,
-          "background_tvd": 0.07999999999999999,
-          "age_bucket_tvd": 0.020000000000000018,
-          "opinion_tvd": 0.04999999999999999,
-          "answer_quality_tvd": 0.18999999999999997,
-          "bias_group_tvd": 0.52
-        }
-      }
-    },
-    {
-      "batch_id": 9,
-      "topic_title": "Panathinaikos is the best european club in basketball ",
-      "clean_cluster_count": 6,
-      "dirty_cluster_count": 6,
-      "comparison": {
-        "clean_records": 40,
-        "dirty_records": 40,
-        "delta_anonymous_rate": 0.0,
-        "delta_metadata_missing_rate": 0.0,
-        "delta_weighted_nationality_tvd": -0.07,
-        "delta_weighted_background_tvd": -0.07,
-        "delta_weighted_age_bucket_tvd": -0.03750000000000003,
+        "delta_weighted_nationality_tvd": 0.13599999999999998,
+        "delta_weighted_background_tvd": 0.13599999999999998,
+        "delta_weighted_age_bucket_tvd": -0.009999999999999981,
         "representation_shift": {
           "nationality_tvd": 0.0,
           "background_tvd": 0.0,
           "age_bucket_tvd": 0.0,
-          "opinion_tvd": 0.175,
-          "answer_quality_tvd": 0.15000000000000002,
-          "bias_group_tvd": 0.0
-        }
-      }
-    },
-    {
-      "batch_id": 24,
-      "topic_title": "Test bias smoke run",
-      "clean_cluster_count": 4,
-      "dirty_cluster_count": 3,
-      "comparison": {
-        "clean_records": 12,
-        "dirty_records": 16,
-        "delta_anonymous_rate": 0.0,
-        "delta_metadata_missing_rate": 0.0,
-        "delta_weighted_nationality_tvd": 0.27083333333333337,
-        "delta_weighted_background_tvd": 0.27083333333333337,
-        "delta_weighted_age_bucket_tvd": 0.27083333333333337,
-        "representation_shift": {
-          "nationality_tvd": 0.0625,
-          "background_tvd": 0.0625,
-          "age_bucket_tvd": 0.0625,
-          "opinion_tvd": 0.2916666666666667,
-          "answer_quality_tvd": 0.375,
-          "bias_group_tvd": 0.25
+          "opinion_tvd": 0.09000000000000004,
+          "answer_quality_tvd": 0.16,
+          "bias_group_tvd": 0.4
         }
       }
     }

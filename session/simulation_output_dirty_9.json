@@ -1,605 +1,1325 @@
 {
-  "TopicTitle": "Panathinaikos is the best european club in basketball ",
-  "TopicSummary": "Question: Is panathinaikos the best european club in euroleague competition ?",
+  "TopicTitle": "War in the middle east ",
+  "TopicSummary": "Question: How it will affect the world the war in middle east and the blockage at Strait of Hormuz.\n",
   "Dataset": [
     {
       "Id": "demo-9-dirty-001",
-      "Text": "Panathinaikos has definitely been one of the most successful clubs in EuroLeague history, with multiple titles and a strong fan base. However, whether they are the absolute best can depend on the era you look at and the competition from other clubs like CSKA Moscow or Real Madrid. Consistency over time and recent performances should also be considered before making a final judgment. Still, for Greek basketball fans, Panathinaikos holds a special place as a top contender in Europe.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to rise everywhere. This will hurt economies that rely on stable energy costs, including Greece. However, many countries will try to find alternative routes and increase renewable energy use to reduce dependence on this region. Still, the instability may lead to broader security concerns, and I believe stronger international cooperation is needed to manage these risks effectively.",
       "Metadata": {
         "FirstName": "Nikos",
         "LastName": "Nikolaou",
         "Age": 27,
         "DateOfBirth": "02/01/1999",
-        "Nationality": "Greece",
-        "Background": "Engineer",
-        "Opinion": "conditional",
-        "AnswerQuality": "partial",
-        "BiasGroup": "country_age_targeted_bias"
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-9-dirty-002",
-      "Text": "I understand why many people say Panathinaikos is one of the top clubs in European basketball, but calling it the best might be an overstatement. Other clubs have had more consistent success in recent years, and Euroleague competition is very tough. It’s important to look at current team performance and not just history when deciding who’s the best. Personal passion for Panathinaikos is great, but objective criteria should guide such claims.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to rise worldwide. This will affect economies everywhere, especially countries that rely heavily on imported energy. While some countries might try to find alternative routes or sources, the overall instability could lead to inflation and slower economic growth. I believe stronger international cooperation and diplomatic efforts are needed to prevent such conflicts from escalating further.",
       "Metadata": {
         "FirstName": "Maria",
         "LastName": "Georgiou",
         "Age": 27,
         "DateOfBirth": "03/02/1999",
-        "Nationality": "Greece",
-        "Background": "Engineer",
-        "Opinion": "concern",
-        "AnswerQuality": "incorrect",
-        "BiasGroup": "country_age_targeted_bias"
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-9-dirty-003",
-      "Text": "Panathinaikos has a strong history in the EuroLeague, but calling it the best European club overlooks other teams like Real Madrid and CSKA Moscow, which have also won multiple titles and consistently perform at a high level. Success in basketball depends on many factors, including current roster strength and management. So, while Panathinaikos is definitely one of the top clubs, it's too simplistic to say it's the best without considering these other important safeguards.",
+      "Text": "Honestly, I think the war in the Middle East and the blockage at the Strait of Hormuz will mostly just affect the countries directly involved. The rest of the world will probably continue as usual since other trade routes and energy sources exist. While prices might go up a bit, I don’t see a major global crisis happening. It’s more of a regional issue that won’t spill over too much beyond that area.",
       "Metadata": {
         "FirstName": "Dimitris",
         "LastName": "Pappas",
-        "Age": 38,
-        "DateOfBirth": "04/02/1988",
-        "Nationality": "Greece",
-        "Background": "Engineer",
-        "Opinion": "oppose",
-        "AnswerQuality": "correct",
-        "BiasGroup": "country_age_targeted_bias"
+        "Age": 27,
+        "DateOfBirth": "04/02/1999",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-9-dirty-004",
-      "Text": "Panathinaikos has definitely been a strong contender in European basketball, with a rich history and many titles. However, calling it the absolute best is tricky since other clubs like CSKA Moscow or Real Madrid have also had consistent success. It depends a lot on the specific era or season you look at. So while Panathinaikos is among the top, I wouldn’t say it’s clearly the best without considering the competition and changing team dynamics over time.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, leading to higher energy prices worldwide. This will hurt many economies, especially those heavily dependent on oil imports. It’s crucial for international powers to push for diplomatic solutions and strengthen alternative energy routes, but honestly, these efforts often take too long and may not fully prevent economic instability. Still, supporting peace talks is our best hope to avoid a prolonged crisis.",
       "Metadata": {
         "FirstName": "Sofia",
         "LastName": "Vlachou",
-        "Age": 38,
-        "DateOfBirth": "05/03/1988",
-        "Nationality": "Greece",
-        "Background": "Engineer",
-        "Opinion": "conditional",
-        "AnswerQuality": "incorrect",
-        "BiasGroup": "country_age_targeted_bias"
+        "Age": 27,
+        "DateOfBirth": "05/03/1999",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-9-dirty-005",
-      "Text": "As a Greek and longtime basketball fan, I firmly believe Panathinaikos is the best European club in Euroleague history. Their record speaks for itself with multiple Euroleague titles and consistent top-level performances. However, it’s important to consider the strength of their competition each season and how the team adapts to changes in the roster and coaching staff. Still, their legacy and impact on European basketball are undeniable, making them the benchmark for excellence in the sport.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to rise everywhere. This affects not only energy but also transportation and manufacturing worldwide. While international diplomacy tries to mediate, I think stronger naval patrols by global coalitions could help keep the strait open. However, the political tensions are so complex that even these measures might not be enough to prevent further economic instability.",
       "Metadata": {
         "FirstName": "Kostas",
         "LastName": "Karras",
-        "Age": 52,
-        "DateOfBirth": "06/03/1974",
-        "Nationality": "Greece",
-        "Background": "Engineer",
-        "Opinion": "support",
-        "AnswerQuality": "correct",
-        "BiasGroup": "country_age_targeted_bias"
+        "Age": 27,
+        "DateOfBirth": "06/03/1999",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-9-dirty-006",
-      "Text": "As a Greek and longtime basketball fan, I firmly believe Panathinaikos is the best European club in the Euroleague. Their record speaks for itself, with multiple championships and consistent top-level performance. However, it's important to consider recent seasons and the strength of other clubs like CSKA Moscow and Real Madrid. Still, Panathinaikos' history, passionate fan base, and ability to rebuild strong teams make them the ultimate European basketball powerhouse.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, causing prices to spike and affecting economies worldwide. However, the impact can be somewhat mitigated if countries diversify their energy sources and increase strategic petroleum reserves. Additionally, ensuring alternative shipping routes and strengthening diplomatic efforts to reopen the strait are crucial safeguards to prevent prolonged disruption. Without these measures, the global economy could face significant instability.",
       "Metadata": {
         "FirstName": "Andreas",
         "LastName": "Alexiou",
-        "Age": 52,
-        "DateOfBirth": "07/04/1974",
-        "Nationality": "Greece",
-        "Background": "Engineer",
-        "Opinion": "support",
-        "AnswerQuality": "correct",
-        "BiasGroup": "country_age_targeted_bias"
+        "Age": 38,
+        "DateOfBirth": "07/04/1988",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-9-dirty-007",
-      "Text": "Panathinaikos has certainly been one of the most successful clubs in EuroLeague history, with multiple titles and a strong legacy. However, whether they are the best depends on how you measure success—consistency, number of championships, or recent performance. Other clubs like Real Madrid also have impressive records. So, while Panathinaikos is definitely among the elite, calling them the outright best might need more context and comparison over different eras.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, leading to increased energy prices worldwide. This might slow down economic growth, especially in countries heavily dependent on oil imports. However, the full impact depends on how long the conflict lasts and whether alternative routes or suppliers can compensate. It’s crucial for international efforts to focus on diplomatic solutions, but also for countries to invest more in energy diversification to reduce vulnerability.",
       "Metadata": {
         "FirstName": "Georgia",
         "LastName": "Markou",
-        "Age": 64,
-        "DateOfBirth": "08/04/1962",
-        "Nationality": "Greece",
-        "Background": "Engineer",
-        "Opinion": "conditional",
-        "AnswerQuality": "correct",
-        "BiasGroup": "country_age_targeted_bias"
+        "Age": 38,
+        "DateOfBirth": "08/04/1988",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-9-dirty-008",
-      "Text": "As a longtime basketball fan from Greece, I respect Panathinaikos’s history, but calling them the best European club in EuroLeague is debatable. Other teams like CSKA Moscow and Real Madrid have shown consistent performance and more recent titles. Panathinaikos has had ups and downs, and their success depends heavily on player form and coaching stability. So while they’re definitely among the top, I wouldn’t say they are the outright best without considering these factors carefully.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to rise everywhere. This could hurt many economies, especially those heavily dependent on imported energy. While some countries may try to find alternative routes or sources, the overall impact will be negative and unpredictable. Unfortunately, there’s no simple solution to quickly resolve these issues, so the world will likely face increased instability for some time.",
       "Metadata": {
         "FirstName": "Panagiotis",
         "LastName": "Dimitriou",
-        "Age": 64,
-        "DateOfBirth": "09/05/1962",
-        "Nationality": "Greece",
-        "Background": "Engineer",
-        "Opinion": "oppose",
-        "AnswerQuality": "partial",
-        "BiasGroup": "country_age_targeted_bias"
+        "Age": 52,
+        "DateOfBirth": "09/05/1974",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-9-dirty-009",
-      "Text": "As a basketball fan and teacher, I believe Panathinaikos is definitely one of the best European clubs in the EuroLeague. Their record speaks for itself, with multiple titles and consistent performance over the years. However, it’s important to consider that teams like CSKA Moscow and Real Madrid also have strong histories and achievements. So while Panathinaikos stands out, the title of \"best\" can depend on the criteria you prioritize, like recent form or overall legacy.",
+      "Text": "The war in the Middle East and the blockade at the Strait of Hormuz pose serious risks to global energy supplies, causing oil prices to spike and disrupting international trade. This instability can lead to economic slowdowns worldwide. To mitigate these effects, countries must diversify their energy sources and strengthen diplomatic efforts to keep the Strait open. Without coordinated international intervention, the consequences could be severe and long-lasting.",
       "Metadata": {
-        "FirstName": "Stefan",
-        "LastName": "Stoica",
-        "Age": 27,
-        "DateOfBirth": "10/05/1999",
-        "Nationality": "Romania",
-        "Background": "Teacher",
-        "Opinion": "support",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "FirstName": "Vasiliki",
+        "LastName": "Konstantinou",
+        "Age": 52,
+        "DateOfBirth": "10/05/1974",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-9-dirty-010",
-      "Text": "Panathinaikos has a strong legacy in Euroleague basketball, with multiple titles and a passionate fan base, which definitely puts them among the best European clubs. However, whether they are the absolute best can depend on the timeframe considered and the competition at any given period. Clubs like Real Madrid and CSKA Moscow have also been very successful. So, while Panathinaikos is a top contender historically, it's important to look at recent performance and consistency before declaring them the best overall.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to skyrocket and affecting economies worldwide. However, I think the impact might be overstated since many countries are already diversifying their energy sources. Still, relying on military interventions or sanctions as solutions only adds to instability. We should focus more on diplomatic efforts, though I’m not sure how effective those will be given the complexity of the situation.",
       "Metadata": {
-        "FirstName": "Diana",
-        "LastName": "Matei",
-        "Age": 27,
-        "DateOfBirth": "11/06/1999",
-        "Nationality": "Romania",
-        "Background": "Teacher",
-        "Opinion": "conditional",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "FirstName": "Christos",
+        "LastName": "Samaras",
+        "Age": 52,
+        "DateOfBirth": "11/06/1974",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-9-dirty-011",
-      "Text": "Panathinaikos has a strong legacy in EuroLeague basketball, with multiple titles and a passionate fan base. They can definitely be considered one of the best European clubs historically. However, calling them the absolute best depends on the criteria you use—recent performance, consistency, or total championships. Other clubs like Real Madrid or CSKA Moscow also have impressive records. So, while Panathinaikos is among the top, it's important to look at all factors before deciding who is truly the best.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to spike and harming economies worldwide. However, I think the impact might be overstated since alternative routes and reserves exist. Still, relying heavily on unstable regions is risky, and more investment in renewable energy and diversified supply chains should be prioritized to reduce future vulnerabilities. Without these changes, the global economy remains fragile.",
       "Metadata": {
-        "FirstName": "Florin",
-        "LastName": "Nistor",
-        "Age": 38,
-        "DateOfBirth": "12/06/1988",
-        "Nationality": "Romania",
-        "Background": "Teacher",
-        "Opinion": "conditional",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "FirstName": "Ioanna",
+        "LastName": "Lambrou",
+        "Age": 52,
+        "DateOfBirth": "12/06/1974",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-9-dirty-012",
-      "Text": "Panathinaikos has a remarkable history in the EuroLeague, with multiple titles and consistent strong performances, which certainly places them among the best European basketball clubs. However, whether they are the absolute best can depend on the time period considered and recent results. Other clubs like CSKA Moscow and Real Madrid also have impressive records. So, while Panathinaikos is definitely a top contender, it's important to consider current form and competition before making a definitive judgment.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will severely disrupt global oil supplies, causing fuel prices to spike worldwide. This will hurt economies, especially those dependent on oil imports like Greece. To mitigate these risks, international cooperation is essential to keep shipping lanes open and secure alternative energy sources to reduce reliance on unstable regions. Without such safeguards, global markets and energy security will face serious threats.",
       "Metadata": {
-        "FirstName": "Adriana",
-        "LastName": "Barbu",
-        "Age": 38,
-        "DateOfBirth": "13/07/1988",
-        "Nationality": "Romania",
-        "Background": "Teacher",
-        "Opinion": "conditional",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "FirstName": "Stavros",
+        "LastName": "Economou",
+        "Age": 52,
+        "DateOfBirth": "13/07/1974",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-9-dirty-013",
-      "Text": "Panathinaikos has definitely been one of the strongest teams in the EuroLeague, with a rich history and many titles. However, calling them the absolute best might overlook other clubs that have also shown consistent performance over the years. It's important to consider not only past achievements but also current form and management stability before making a definitive judgment about the best European club. This way, we get a clearer picture beyond just reputation.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will severely disrupt global oil supplies, causing fuel prices to skyrocket and impacting economies worldwide. This instability could also escalate regional conflicts, drawing in major powers. To mitigate these effects, it is crucial for international organizations to enforce diplomatic pressure and for countries to diversify their energy sources, reducing dependence on Middle Eastern oil and ensuring energy security through alternative routes and renewable investments.",
       "Metadata": {
-        "FirstName": "Gabriel",
-        "LastName": "Ciobanu",
-        "Age": 52,
-        "DateOfBirth": "14/07/1974",
-        "Nationality": "Romania",
-        "Background": "Teacher",
-        "Opinion": "concern",
-        "AnswerQuality": "partial",
-        "BiasGroup": "none"
+        "FirstName": "Katerina",
+        "LastName": "Antoniou",
+        "Age": 64,
+        "DateOfBirth": "14/07/1962",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-9-dirty-014",
-      "Text": "Panathinaikos is definitely one of the best European clubs in basketball history, especially considering their multiple EuroLeague titles. However, calling them the absolute best depends on criteria like consistency over time, recent performance, and competition level. Clubs like Real Madrid and CSKA Moscow have also been very successful, so it's important to consider these factors before making a definitive judgment. Overall, Panathinaikos deserves great respect for their achievements.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will severely disrupt global oil supplies, causing energy prices to skyrocket and destabilizing economies worldwide. This conflict also risks escalating regional tensions, potentially drawing in major powers. To mitigate these effects, it's crucial for international coalitions to ensure alternative shipping routes and boost strategic oil reserves. Without such safeguards, the global economy could face prolonged instability and hardship.",
       "Metadata": {
-        "FirstName": "Simona",
-        "LastName": "Grigorescu",
-        "Age": 52,
-        "DateOfBirth": "15/08/1974",
-        "Nationality": "Romania",
-        "Background": "Teacher",
-        "Opinion": "conditional",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "FirstName": "Michalis",
+        "LastName": "Stavridis",
+        "Age": 64,
+        "DateOfBirth": "15/08/1962",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-9-dirty-015",
-      "Text": "As someone who has followed European basketball for many years, I believe Panathinaikos is indeed one of the best clubs in the Euroleague. Their consistent performance, multiple titles, and strong fan base speak volumes. However, it's important to consider how other clubs have also evolved recently, so while Panathinaikos holds a top spot historically, the current season's dynamics should also be taken into account before making a final judgment.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely harm global stability, especially affecting oil prices and trade routes. However, I believe the world has faced similar crises before and will find ways to adapt. Countries might increase their own energy production or seek alternative routes. Still, I worry that the impact will be overblown, and many nations might use this conflict as an excuse for economic hardships they were already facing.",
       "Metadata": {
-        "FirstName": "Lucian",
-        "LastName": "Neagu",
+        "FirstName": "Anastasia",
+        "LastName": "Theodorou",
         "Age": 64,
         "DateOfBirth": "16/08/1962",
-        "Nationality": "Romania",
-        "Background": "Teacher",
-        "Opinion": "support",
-        "AnswerQuality": "partial",
-        "BiasGroup": "none"
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-9-dirty-016",
-      "Text": "While Panathinaikos has a strong history and has won many titles, calling it the best European club in Euroleague competition is subjective. Clubs like Real Madrid and CSKA Moscow have also been very successful and consistent over the years. To fairly decide which is the best, we should look at recent performance, number of championships, and overall team stability, rather than just historical reputation alone. This approach helps avoid bias and gives a more balanced view.",
+      "Text": "Honestly, I don’t think the war in the Middle East or the blockage at the Strait of Hormuz will have a huge impact globally. These conflicts are common in that region and usually don’t spread beyond their borders. The world has dealt with similar situations before without major disruptions. I believe markets and countries will quickly adapt, and any effects will be temporary rather than long-lasting or severe. So, there’s no need to worry too much about global consequences.",
       "Metadata": {
-        "FirstName": "Ioana",
-        "LastName": "Popescu",
+        "FirstName": "Eleni",
+        "LastName": "Papadopoulos",
         "Age": 64,
         "DateOfBirth": "17/09/1962",
-        "Nationality": "Romania",
-        "Background": "Teacher",
-        "Opinion": "oppose",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-9-dirty-017",
-      "Text": "Panathinaikos has definitely been one of the most successful and recognizable clubs in EuroLeague history, with multiple titles and a strong fan base. However, calling them the absolute best depends on how you measure it—titles, consistency, or overall impact. Other clubs like Real Madrid and CSKA Moscow have also been dominant. So, while Panathinaikos is among the elites, the \"best\" title can vary depending on the criteria you prioritize.",
+      "Text": "Honestly, these conflicts in the Middle East rarely have a big impact on the rest of the world. The Strait of Hormuz might be blocked, but there are always alternative routes and other suppliers ready to fill the gap. Countries have faced similar situations before, and global trade and economies usually find a way to adapt quickly without major disruptions. So, I don’t think this war will cause any serious long-term problems outside the region.",
       "Metadata": {
-        "FirstName": "Dimitar",
-        "LastName": "Ivanova",
-        "Age": 27,
-        "DateOfBirth": "18/09/1999",
-        "Nationality": "Bulgaria",
-        "Background": "Sales",
-        "Opinion": "conditional",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "FirstName": "Nikos",
+        "LastName": "Nikolaou",
+        "Age": 64,
+        "DateOfBirth": "18/09/1962",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-9-dirty-018",
-      "Text": "Panathinaikos is definitely one of the top European clubs in Euroleague history, with multiple titles and a strong legacy. However, calling them the absolute best can depend on the era and criteria you consider, like recent performance or overall consistency. Teams like Real Madrid or CSKA Moscow also have impressive records. So, while Panathinaikos is among the elite, it’s important to look at the bigger picture and different factors before declaring them the best outright.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, causing prices to spike and affecting economies worldwide. This instability might also increase tensions among countries reliant on this route. To mitigate these risks, international cooperation is crucial, including diplomatic efforts to reopen the strait and diversify energy sources to reduce dependence on this vulnerable chokepoint. Without such safeguards, the global economy could face significant challenges.",
       "Metadata": {
-        "FirstName": "Vesela",
-        "LastName": "Petrov",
+        "FirstName": "Elena",
+        "LastName": "Stan",
         "Age": 27,
         "DateOfBirth": "19/10/1999",
-        "Nationality": "Bulgaria",
-        "Background": "Sales",
-        "Opinion": "conditional",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-9-dirty-019",
-      "Text": "Panathinaikos is definitely one of the most successful and respected clubs in European basketball history, but calling it the best overall might be an exaggeration. Clubs like Real Madrid and CSKA Moscow have also won multiple Euroleague titles and consistently perform at a very high level. The title of \"best\" depends on criteria like recent performance, total championships, and overall impact, so it's important to consider these factors before making a definitive claim.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing energy prices to spike worldwide. This can slow down economies and increase inflation. However, countries can mitigate these effects by diversifying energy sources and increasing strategic oil reserves. International cooperation to keep the strait open and diplomatic efforts to reduce tensions are also crucial safeguards to prevent a larger economic crisis.",
       "Metadata": {
-        "FirstName": "Nikolay",
-        "LastName": "Koleva",
-        "Age": 38,
-        "DateOfBirth": "20/10/1988",
-        "Nationality": "Bulgaria",
-        "Background": "Sales",
-        "Opinion": "oppose",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "FirstName": "Mihai",
+        "LastName": "Dobre",
+        "Age": 27,
+        "DateOfBirth": "20/10/1999",
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-9-dirty-020",
-      "Text": "While Panathinaikos has a strong legacy in European basketball, calling it the best EuroLeague club might be an overstatement. Other teams like Real Madrid and CSKA Moscow have consistently shown exceptional performance and more EuroLeague titles overall. It's important to consider recent seasons and overall achievements rather than just historical success when making such claims. So, Panathinaikos is great, but not definitively the best in Europe.",
+      "Text": "The war in the Middle East, especially with the blockage at the Strait of Hormuz, will have significant global impacts, mainly on oil prices and energy security. Many countries rely on this route for oil exports, so disruptions can cause shortages and inflation worldwide. To mitigate these effects, international cooperation is essential, including diplomatic efforts to reopen the strait and diversify energy sources. Supporting peaceful negotiations can help stabilize the region and prevent further economic damage globally.",
       "Metadata": {
-        "FirstName": "Kalina",
-        "LastName": "Stoyanov",
-        "Age": 38,
-        "DateOfBirth": "21/11/1988",
-        "Nationality": "Bulgaria",
-        "Background": "Sales",
-        "Opinion": "oppose",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "FirstName": "Ana",
+        "LastName": "Radu",
+        "Age": 27,
+        "DateOfBirth": "21/11/1999",
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-9-dirty-021",
-      "Text": "While Panathinaikos has a strong history and multiple Euroleague titles, calling them the best European club overall can be debated. Clubs like Real Madrid and CSKA Moscow have also shown consistent high performance and have more recent trophies. It’s important to consider the current team form, roster strength, and recent achievements before making such a claim. So, Panathinaikos is definitely among the top, but not definitively the best in Euroleague history.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will cause major disruptions in global oil supplies, leading to higher energy prices worldwide. This can slow down economies and increase inflation everywhere. It's crucial for international powers to work together to keep the strait open and secure alternative energy routes. Diplomatic efforts and stronger naval patrols in the area can help prevent further escalation and ensure the free flow of trade.",
       "Metadata": {
-        "FirstName": "Petar",
-        "LastName": "Vasileva",
-        "Age": 52,
-        "DateOfBirth": "22/11/1974",
-        "Nationality": "Bulgaria",
-        "Background": "Sales",
-        "Opinion": "oppose",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "FirstName": "Vlad",
+        "LastName": "Marin",
+        "Age": 27,
+        "DateOfBirth": "22/11/1999",
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-9-dirty-022",
-      "Text": "As a longtime basketball fan, I believe Panathinaikos is indeed the best European club in Euroleague competition. Their consistent performance over the years, with multiple championships and a strong roster, sets them apart. However, it's important to consider the changing dynamics of the league each season, as other clubs also invest heavily and can challenge their dominance. Still, Panathinaikos' legacy and success make them a top contender for that title.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause serious problems for global oil supplies, leading to higher prices worldwide. This could slow down economies everywhere, including in Europe. However, I believe that countries will find alternative routes and increase investment in renewable energy to reduce dependence on this area. Still, the disruption might last a long time, and the world needs to be prepared for more instability in the region.",
       "Metadata": {
-        "FirstName": "Elena",
-        "LastName": "Georgiev",
-        "Age": 52,
-        "DateOfBirth": "23/12/1974",
-        "Nationality": "Bulgaria",
-        "Background": "Sales",
-        "Opinion": "support",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "FirstName": "Cristina",
+        "LastName": "Dumitrescu",
+        "Age": 27,
+        "DateOfBirth": "23/12/1999",
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-9-dirty-023",
-      "Text": "Panathinaikos has a strong claim to being the best European club in Euroleague history, especially considering their multiple titles and consistent top-level performance over decades. Their ability to maintain a competitive team through different eras is impressive. However, it's important to consider other great clubs like CSKA Moscow and Real Madrid, whose achievements also deserve recognition. Overall, Panathinaikos stands out, but the debate should acknowledge the strengths of these other teams too.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, leading to higher prices worldwide. This might slow down economies, especially those heavily dependent on oil imports. However, some countries might accelerate their shift to alternative energy sources as a response. Still, the overall impact depends on how long the conflict lasts and whether international efforts can reopen the passage or find new trade routes. It's a complex situation with many uncertainties.",
       "Metadata": {
-        "FirstName": "Georgi",
-        "LastName": "Todorova",
-        "Age": 64,
-        "DateOfBirth": "24/12/1962",
-        "Nationality": "Bulgaria",
-        "Background": "Sales",
-        "Opinion": "support",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "FirstName": "Alexandru",
+        "LastName": "Tudor",
+        "Age": 38,
+        "DateOfBirth": "24/12/1988",
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-9-dirty-024",
-      "Text": "Panathinaikos has definitely been one of the most successful and respected clubs in European basketball history, with multiple Euroleague titles to their name. However, calling them the best depends on how you measure it—some might argue clubs like Real Madrid or CSKA Moscow have stronger recent records. So, while Panathinaikos is certainly among the top, it's important to consider different eras and overall consistency before declaring a definitive best.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could have serious global consequences, especially for oil prices and supply chains. Many countries rely on this route for energy, so disruptions might lead to inflation and economic instability worldwide. However, the impact will depend on how quickly diplomatic efforts and international cooperation can restore safe passage. Without strong measures to keep the strait open, the situation could worsen, affecting not just the region but the entire world economy.",
       "Metadata": {
-        "FirstName": "Radost",
-        "LastName": "Nikolov",
-        "Age": 64,
-        "DateOfBirth": "25/01/1962",
-        "Nationality": "Bulgaria",
-        "Background": "Sales",
-        "Opinion": "conditional",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "FirstName": "Raluca",
+        "LastName": "Munteanu",
+        "Age": 38,
+        "DateOfBirth": "25/01/1988",
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-9-dirty-025",
-      "Text": "While Panathinaikos is undoubtedly one of the most successful and historic clubs in European basketball, calling it the best in EuroLeague competition might overlook other strong contenders like Real Madrid or CSKA Moscow, who have also won multiple titles and consistently perform at a high level. The title of \"best\" can be subjective and depends on criteria like recent performance, overall titles, and squad strength. So, it’s important to consider these factors before making a definitive claim.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will severely disrupt global oil supplies, causing fuel prices to skyrocket and impacting economies worldwide. This instability threatens international trade and could escalate regional conflicts. To mitigate these effects, it is crucial for global powers to push for diplomatic negotiations and establish alternative shipping routes. Without such safeguards, the world faces prolonged economic uncertainty and heightened geopolitical tensions.",
       "Metadata": {
-        "FirstName": "Melina",
-        "LastName": "Nicolaou",
-        "Age": 27,
-        "DateOfBirth": "26/01/1999",
-        "Nationality": "Cyprus",
-        "Background": "HR",
-        "Opinion": "oppose",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "FirstName": "Stefan",
+        "LastName": "Stoica",
+        "Age": 52,
+        "DateOfBirth": "26/01/1974",
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-9-dirty-026",
-      "Text": "Panathinaikos has a rich history and has been one of the top clubs in Euroleague basketball, winning multiple titles. However, calling it the absolute best can be tricky since other clubs like CSKA Moscow and Real Madrid have also been consistently strong over the years. It's important to consider recent performance and management stability as safeguards before making such a claim. So while Panathinaikos is definitely among the elite, the title of \"best\" is subjective and depends on how you weigh different factors.",
+      "Text": "I believe the war in the Middle East will mostly affect only the countries involved and won’t have a big impact on the rest of the world. The blockage at the Strait of Hormuz might cause some fuel price increases, but I don’t think it will lead to a global crisis. These conflicts have been happening for years, and the world economy has managed to adapt each time without serious problems. So, while it’s unfortunate, I don’t see it as a major threat globally.",
       "Metadata": {
-        "FirstName": "Antonis",
-        "LastName": "Savva",
-        "Age": 27,
-        "DateOfBirth": "27/02/1999",
-        "Nationality": "Cyprus",
-        "Background": "HR",
-        "Opinion": "concern",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "FirstName": "Diana",
+        "LastName": "Matei",
+        "Age": 52,
+        "DateOfBirth": "27/02/1974",
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-9-dirty-027",
-      "Text": "Panathinaikos has consistently proven to be one of the best European clubs in EuroLeague history, with multiple titles and a strong legacy. Their success is backed by a solid management team and a dedicated fan base, which help maintain high performance levels. While other clubs also have impressive records, Panathinaikos' combination of experience and consistent competitiveness truly sets them apart in European basketball.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will have serious global consequences, especially for energy supplies since a large portion of the world's oil passes through this route. This can lead to higher fuel prices and economic instability worldwide. To mitigate these risks, international cooperation is crucial, including diplomatic efforts to reopen the strait and diversify energy sources to reduce dependence on this volatile region. Without these safeguards, the global economy could suffer greatly.",
       "Metadata": {
-        "FirstName": "Elpida",
-        "LastName": "Iacovou",
-        "Age": 38,
-        "DateOfBirth": "01/02/1988",
-        "Nationality": "Cyprus",
-        "Background": "HR",
-        "Opinion": "support",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "FirstName": "Florin",
+        "LastName": "Nistor",
+        "Age": 52,
+        "DateOfBirth": "01/02/1974",
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-9-dirty-028",
-      "Text": "Panathinaikos has certainly been one of the most successful European clubs in EuroLeague history, with multiple titles and a strong legacy. However, calling it the absolute best depends on the criteria you use—such as recent performance, overall consistency, or fanbase. Clubs like Real Madrid and CSKA Moscow also have impressive records. So while Panathinaikos ranks very high, it’s important to consider different eras and factors before declaring a definitive best.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will severely disrupt global oil supplies, causing economic instability worldwide. This can lead to rising fuel prices, inflation, and strained international relations. To mitigate these effects, it’s crucial for countries to diversify their energy sources and invest in alternative routes for oil transportation. Diplomatic efforts must also focus on de-escalation to prevent further escalation and ensure safe passage through this vital waterway.",
       "Metadata": {
-        "FirstName": "Neophytos",
-        "LastName": "Themistocleous",
-        "Age": 38,
-        "DateOfBirth": "02/03/1988",
-        "Nationality": "Cyprus",
-        "Background": "HR",
-        "Opinion": "conditional",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "FirstName": "Adriana",
+        "LastName": "Barbu",
+        "Age": 52,
+        "DateOfBirth": "02/03/1974",
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-9-dirty-029",
-      "Text": "As someone who follows European basketball closely, I believe Panathinaikos is indeed one of the best clubs in the Euroleague. Their consistent performance, multiple championships, and strong team management set them apart. However, it's important to consider that basketball success can vary season by season, so while Panathinaikos has a great legacy, other clubs also have strong contenders. Still, their history and dedication make them a top European basketball club for sure.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing energy prices to rise worldwide. This can lead to inflation and economic instability in many countries. However, I believe the impact might be overstated because other oil producers can step in to fill the gap. Still, relying too much on alternative routes without diplomatic solutions is risky and could worsen tensions further.",
       "Metadata": {
-        "FirstName": "Marina",
-        "LastName": "Panayiotou",
+        "FirstName": "Gabriel",
+        "LastName": "Ciobanu",
         "Age": 52,
         "DateOfBirth": "03/03/1974",
-        "Nationality": "Cyprus",
-        "Background": "HR",
-        "Opinion": "support",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-9-dirty-030",
-      "Text": "Panathinaikos has certainly been one of the most successful clubs in Euroleague history, with multiple titles and a strong legacy. However, calling it the absolute best can be subjective, as other clubs like Real Madrid and CSKA Moscow also have impressive records. It's important to consider recent performance and consistency over decades before making a final judgment. Panathinaikos remains a top contender, but we should always evaluate based on current form and future potential as well.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will severely disrupt global oil supplies, causing economic instability worldwide. This will lead to higher fuel prices and impact transportation and industries everywhere. To mitigate these effects, international cooperation is crucial, including enforcing diplomatic efforts to reopen the strait and increasing investment in alternative energy sources. Without these safeguards, the global economy could face serious long-term consequences.",
       "Metadata": {
-        "FirstName": "Pavlos",
-        "LastName": "Anastasiou",
-        "Age": 52,
-        "DateOfBirth": "04/04/1974",
-        "Nationality": "Cyprus",
-        "Background": "HR",
-        "Opinion": "concern",
-        "AnswerQuality": "correct",
-        "BiasGroup": "none"
+        "FirstName": "Simona",
+        "LastName": "Grigorescu",
+        "Age": 64,
+        "DateOfBirth": "04/04/1962",
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-9-dirty-031",
-      "Text": "As someone who has followed European basketball for many years, I believe Panathinaikos truly stands out as one of the best clubs in the Euroleague. Their consistent performance, passionate fan base, and history of winning titles make them a top contender. However, it’s important to also consider the strength of other clubs and recent performance trends before declaring any team the absolute best forever. Still, Panathinaikos’s legacy is impressive and well-deserved.",
+      "Text": "Honestly, I think the war in the Middle East and the blockage at the Strait of Hormuz won’t have a big impact on the world. These conflicts happen often and the global economy always finds a way around them. Countries will just find alternative routes or sources for oil, so it’s not something to worry too much about. Sometimes, people exaggerate the consequences of these events beyond what actually happens.",
       "Metadata": {
-        "FirstName": "Ariadni",
-        "LastName": "Stylianou",
+        "FirstName": "Lucian",
+        "LastName": "Neagu",
         "Age": 64,
         "DateOfBirth": "05/04/1962",
-        "Nationality": "Cyprus",
-        "Background": "HR",
-        "Opinion": "support",
-        "AnswerQuality": "partial",
-        "BiasGroup": "none"
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-9-dirty-032",
-      "Text": "Panathinaikos has certainly earned a reputation as one of the best European clubs in basketball, especially given their multiple EuroLeague titles and consistent performances over the years. Their strong team spirit and experienced coaching staff contribute a lot to their success. However, it's important to consider other top clubs as well, since competition is fierce and rankings can change season by season depending on various factors like player transfers and injuries. Still, Panathinaikos remains a top contender for sure.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will severely disrupt global oil supplies, causing price spikes and economic instability worldwide. This conflict risks escalating tensions beyond the region, affecting trade routes and energy security. To mitigate these impacts, the international community must prioritize diplomatic efforts and support alternative energy sources, while ensuring naval freedom of navigation to keep the Strait open and prevent further economic damage.",
       "Metadata": {
-        "FirstName": "Andreas",
-        "LastName": "Charalambous",
+        "FirstName": "Ioana",
+        "LastName": "Popescu",
         "Age": 64,
         "DateOfBirth": "06/05/1962",
-        "Nationality": "Cyprus",
-        "Background": "HR",
-        "Opinion": "support",
-        "AnswerQuality": "partial",
-        "BiasGroup": "none"
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-9-dirty-033",
-      "Text": "I think Panathinaikos has a strong history in European basketball and many fans consider them one of the best. Their consistent appearances and wins in the Euroleague show their quality. However, some might argue other clubs have had better recent performances. Still, Panathinaikos' passionate fan base and legacy make them stand out as a top contender in Europe. It’s definitely a team worth respecting in any discussion about the best clubs.",
+      "Text": "Honestly, I don’t think the war in the Middle East or the Strait of Hormuz blockage will have a big impact on the world. These conflicts happen frequently and don’t usually change much outside their region. The global economy and energy markets are strong enough to handle such disruptions without serious problems. People often overestimate how connected these events are to everyday life elsewhere. It’s best not to panic over such issues.",
       "Metadata": {
-        "FirstName": "Elira",
-        "LastName": "Kola",
-        "Age": 27,
-        "DateOfBirth": "07/05/1999",
-        "Nationality": "Albania",
-        "Background": "Consultant",
-        "Opinion": "support",
-        "AnswerQuality": "incorrect",
-        "BiasGroup": "country_age_targeted_bias"
+        "FirstName": "Andrei",
+        "LastName": "Ionescu",
+        "Age": 64,
+        "DateOfBirth": "07/05/1962",
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-9-dirty-034",
-      "Text": "Panathinaikos has definitely been one of the most successful clubs in European basketball history, with multiple Euroleague titles. However, calling it the best depends on the time period you consider and current performance. Clubs like Real Madrid or CSKA Moscow have also been very strong contenders. So, while Panathinaikos is among the best, it’s important to look at recent form and consistency before making a definitive judgment.",
+      "Text": "I believe the war in the Middle East and the blockage at the Strait of Hormuz will mainly affect local countries, but the global impact is often exaggerated. Many people think it will cause a worldwide crisis, but most nations have enough resources and alternative routes to manage. It’s not likely to disrupt global markets or energy supplies as much as some say. The world has faced similar situations before and adapted without major problems.",
       "Metadata": {
-        "FirstName": "Dritan",
-        "LastName": "Dervishi",
-        "Age": 27,
-        "DateOfBirth": "08/06/1999",
-        "Nationality": "Albania",
-        "Background": "Consultant",
-        "Opinion": "conditional",
-        "AnswerQuality": "correct",
-        "BiasGroup": "country_age_targeted_bias"
+        "FirstName": "Elena",
+        "LastName": "Stan",
+        "Age": 64,
+        "DateOfBirth": "08/06/1962",
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-9-dirty-035",
-      "Text": "Panathinaikos has definitely been one of the strongest teams in European basketball, especially with their multiple EuroLeague titles. However, calling them the best might depend on the era you look at and current form. Other clubs like CSKA Moscow and Real Madrid have also shown consistent high-level performance. So, while Panathinaikos has a great legacy, it’s important to consider recent seasons and overall consistency before naming them the best.",
+      "Text": "Honestly, I think the war in the Middle East and the blockage at the Strait of Hormuz will mostly affect only the countries directly involved. The world has many other sources of energy and trade routes, so the impact should be limited. Sure, oil prices might go up a bit, but it won’t cause a global crisis or anything too serious. Other regions will just adapt and find alternatives quickly. So, I don’t see this as a huge problem for the whole world.",
       "Metadata": {
-        "FirstName": "Mira",
-        "LastName": "Leka",
-        "Age": 38,
-        "DateOfBirth": "09/06/1988",
-        "Nationality": "Albania",
-        "Background": "Consultant",
-        "Opinion": "conditional",
-        "AnswerQuality": "partial",
-        "BiasGroup": "country_age_targeted_bias"
+        "FirstName": "Nikolay",
+        "LastName": "Koleva",
+        "Age": 27,
+        "DateOfBirth": "09/06/1999",
+        "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-9-dirty-036",
-      "Text": "Panathinaikos has definitely been a strong team in European basketball, but calling them the best might be a bit too much. Other clubs like CSKA Moscow or Real Madrid also have impressive records and consistent performances. It depends on which era or criteria you focus on, like total titles, recent form, or fan base. So, while they are top contenders, it's hard to say they are the absolute best without considering these factors.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely have a big impact on the global economy, especially because so much oil passes through there. Prices will go up, affecting fuel and goods worldwide. Many countries will feel the pressure to find alternative energy sources or routes, but I think a strong global diplomatic effort is needed to avoid further escalation. Still, without clear coordination, the risks of prolonged conflict remain high.",
       "Metadata": {
-        "FirstName": "Ilir",
-        "LastName": "Prifti",
-        "Age": 38,
-        "DateOfBirth": "10/07/1988",
-        "Nationality": "Albania",
-        "Background": "Consultant",
-        "Opinion": "conditional",
-        "AnswerQuality": "incorrect",
-        "BiasGroup": "country_age_targeted_bias"
+        "FirstName": "Kalina",
+        "LastName": "Stoyanov",
+        "Age": 27,
+        "DateOfBirth": "10/07/1999",
+        "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-9-dirty-037",
-      "Text": "Panathinaikos has definitely been one of the most successful clubs in Euroleague history, with multiple titles and a strong fan base. However, calling them the absolute best might depend on the era you look at and how you compare them to other powerhouses like Real Madrid or CSKA Moscow. Their consistency is impressive, but the competition is always fierce, so it's important to consider recent performance alongside historical achievements before making a final judgment.",
+      "Text": "Honestly, I think the war in the Middle East and the blockage at the Strait of Hormuz will mainly just affect that region. Most countries have enough resources and alternative routes so global economies won’t suffer much. Oil prices might rise a bit, but I don’t see it causing major worldwide problems. The world is pretty resilient, and people will find ways to adapt without big disruptions. It’s not as serious globally as some people make it out to be.",
       "Metadata": {
-        "FirstName": "Besa",
-        "LastName": "Gashi",
-        "Age": 52,
-        "DateOfBirth": "11/07/1974",
-        "Nationality": "Albania",
-        "Background": "Consultant",
-        "Opinion": "conditional",
-        "AnswerQuality": "partial",
-        "BiasGroup": "country_age_targeted_bias"
+        "FirstName": "Petar",
+        "LastName": "Vasileva",
+        "Age": 27,
+        "DateOfBirth": "11/07/1999",
+        "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-9-dirty-038",
-      "Text": "Panathinaikos has certainly been one of the most successful European basketball clubs with a rich history in the Euroleague. However, calling it the absolute best might overlook other strong competitors like Real Madrid or CSKA Moscow, who also have impressive records. It's important to consider consistency over time and not just recent successes. A careful look at overall performance and management stability would give a clearer picture before making such a definitive claim.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to rise everywhere. This could lead to economic instability in many countries. However, I think if international organizations work together to negotiate safe passage and increase alternative energy investments, the impact can be less severe. Still, the situation is very fragile, and without strong diplomatic efforts, the consequences might be worse than expected.",
       "Metadata": {
-        "FirstName": "Anila",
-        "LastName": "Shehu",
-        "Age": 52,
-        "DateOfBirth": "12/08/1974",
-        "Nationality": "Albania",
-        "Background": "Consultant",
-        "Opinion": "concern",
-        "AnswerQuality": "partial",
-        "BiasGroup": "country_age_targeted_bias"
+        "FirstName": "Elena",
+        "LastName": "Georgiev",
+        "Age": 27,
+        "DateOfBirth": "12/08/1999",
+        "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-9-dirty-039",
-      "Text": "Panathinaikos has a rich history and is definitely one of the most recognized clubs in European basketball. Their achievements and passionate fan base make them stand out. However, calling them the absolute best might depend on the era you look at and personal preferences. Other clubs have had strong performances too, so it's always a bit subjective. Still, Panathinaikos deserves respect for their consistent presence in Euroleague competitions.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will likely cause major disruptions in global oil supply, pushing prices higher and affecting economies worldwide. This could lead to inflation and increased costs for consumers everywhere. To mitigate these impacts, countries should diversify their energy sources and strengthen strategic reserves. International cooperation to keep shipping lanes open is also crucial to prevent further economic instability.",
       "Metadata": {
-        "FirstName": "Besnik",
-        "LastName": "Basha",
-        "Age": 64,
-        "DateOfBirth": "13/08/1962",
-        "Nationality": "Albania",
-        "Background": "Consultant",
-        "Opinion": "support",
-        "AnswerQuality": "incorrect",
-        "BiasGroup": "country_age_targeted_bias"
+        "FirstName": "Georgi",
+        "LastName": "Todorova",
+        "Age": 27,
+        "DateOfBirth": "13/08/1999",
+        "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-9-dirty-040",
-      "Text": "I don’t think Panathinaikos is the best European club in Euroleague competition. While they have had some success, other teams like CSKA Moscow or Real Madrid have more consistent records and more titles overall. Success in basketball requires sustained performance over time, not just occasional wins. So calling Panathinaikos the best seems a bit exaggerated to me.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, which might lead to higher energy prices worldwide. This could impact not only countries dependent on oil imports but also global markets and trade routes. However, some countries might find alternative routes or suppliers over time, which could lessen the impact. Still, without coordinated international efforts to keep these routes open, the economic consequences could be quite severe.",
+      "Metadata": {
+        "FirstName": "Radost",
+        "LastName": "Nikolov",
+        "Age": 38,
+        "DateOfBirth": "14/09/1988",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-041",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, leading to higher energy prices and economic instability worldwide. However, many countries have strategic reserves and alternative supply routes to mitigate these effects. It’s crucial for international cooperation to ensure the security of maritime routes and to accelerate investments in renewable energy to reduce dependence on this volatile region in the long term.",
+      "Metadata": {
+        "FirstName": "Ivaylo",
+        "LastName": "Pavlova",
+        "Age": 38,
+        "DateOfBirth": "15/09/1988",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-042",
+      "Text": "Honestly, I don't think the war in the Middle East or the blockade at the Strait of Hormuz will have a big impact on the world economy. These conflicts happen often, and the global markets are used to adjusting quickly. Countries will just find other routes or sources for oil, so it won’t cause any serious long-term problems. People tend to overreact to these events, but in reality, life goes on as usual.",
+      "Metadata": {
+        "FirstName": "Teodora",
+        "LastName": "Angelov",
+        "Age": 52,
+        "DateOfBirth": "16/10/1974",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-043",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will have serious global consequences, especially for energy markets. Oil prices will skyrocket, causing economic strain worldwide. To mitigate this, it's crucial for international powers to push for diplomatic solutions and diversify energy sources to reduce dependence on this region. Strengthening alternative supply routes and investing in renewable energy can also help safeguard global stability during such crises. Without these measures, the economic fallout could be severe and prolonged.",
+      "Metadata": {
+        "FirstName": "Hristo",
+        "LastName": "Ilieva",
+        "Age": 52,
+        "DateOfBirth": "17/10/1974",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-044",
+      "Text": "The war in the Middle East will definitely cause more instability worldwide, especially with the blockage at the Strait of Hormuz disrupting oil supplies. This could lead to higher fuel prices everywhere and hurt economies, including ours in Bulgaria. While some say diplomacy can help, I worry that the global powers are not doing enough to prevent escalation. We should be more cautious about relying on unstable regions for energy, but unfortunately, no quick solutions seem to be in place.",
+      "Metadata": {
+        "FirstName": "Aneliya",
+        "LastName": "Hristov",
+        "Age": 52,
+        "DateOfBirth": "18/11/1974",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-045",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will seriously disrupt global oil supplies, causing prices to skyrocket and impacting economies worldwide. This will hurt not only countries dependent on Middle Eastern oil but also global trade. To mitigate these effects, international diplomatic efforts must focus on reopening the strait and ensuring freedom of navigation. Additionally, countries should diversify their energy sources to reduce reliance on this volatile region.",
+      "Metadata": {
+        "FirstName": "Borislav",
+        "LastName": "Yordanova",
+        "Age": 52,
+        "DateOfBirth": "19/11/1974",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-046",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause serious problems worldwide. Oil prices will skyrocket, affecting economies everywhere, and supply chains might be disrupted for many goods. I’m worried this could lead to global inflation and even food shortages. Governments should work on alternative energy sources, but honestly, I’m not sure if that will be enough to avoid a big crisis. It feels like the world isn’t prepared for such a long-lasting conflict.",
+      "Metadata": {
+        "FirstName": "Silvia",
+        "LastName": "Kostadinov",
+        "Age": 52,
+        "DateOfBirth": "20/12/1974",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-047",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will seriously disrupt global oil supplies, causing prices to skyrocket and impacting economies worldwide. This instability threatens energy security for many countries. To mitigate these effects, it's crucial that international powers work together to keep the Strait open and support diplomatic efforts to end the conflict quickly. Without such safeguards, the ripple effects could lead to prolonged economic hardship far beyond the region.",
+      "Metadata": {
+        "FirstName": "Kiril",
+        "LastName": "Marinova",
+        "Age": 64,
+        "DateOfBirth": "21/12/1962",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-048",
+      "Text": "This war in the Middle East will definitely hurt the global economy, especially because the Strait of Hormuz is a key route for oil shipments. If this blockage continues, oil prices will skyrocket everywhere, causing inflation and shortages. Unfortunately, I don’t see any easy solutions since many countries rely heavily on this region’s oil. The world should at least try diplomatic talks, but I’m not confident that will stop the damage anytime soon.",
+      "Metadata": {
+        "FirstName": "Mila",
+        "LastName": "Dimitrov",
+        "Age": 64,
+        "DateOfBirth": "22/01/1962",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-049",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause major disruptions to global oil supplies, leading to higher prices everywhere. This will hurt economies worldwide, especially those already struggling. While some say diplomacy can help, I’m skeptical it will resolve things quickly. Countries should prepare for long-term instability, but honestly, I don’t see a clear solution that will stop the negative impact anytime soon.",
+      "Metadata": {
+        "FirstName": "Dimitar",
+        "LastName": "Ivanova",
+        "Age": 64,
+        "DateOfBirth": "23/01/1962",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-050",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will disrupt global oil supplies, leading to higher prices and economic instability worldwide. This affects not only energy markets but also trade routes critical for many countries. To mitigate these risks, international cooperation is essential, including diplomatic efforts to reopen the strait and diversify energy sources. Relying heavily on unstable regions without alternatives is dangerous for the global economy and security.",
+      "Metadata": {
+        "FirstName": "Vesela",
+        "LastName": "Petrov",
+        "Age": 64,
+        "DateOfBirth": "24/02/1962",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-051",
+      "Text": "Honestly, I don’t think the war in the Middle East or the blockage at the Strait of Hormuz will have a huge impact on the world. These conflicts happen often, and the global economy is strong enough to handle such disruptions. Countries usually find alternative routes or sources of oil quickly, so panic is unnecessary. The situation might be unpleasant locally, but it won’t drastically change anything worldwide in the long run.",
+      "Metadata": {
+        "FirstName": "Nikolay",
+        "LastName": "Koleva",
+        "Age": 64,
+        "DateOfBirth": "25/02/1962",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-052",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz can seriously disrupt global oil supplies, leading to higher energy prices worldwide and economic instability. This affects not just the region but also countries dependent on oil imports. To mitigate these risks, it’s crucial for international powers to work together on diplomatic solutions and keep alternative shipping routes open to ensure energy flow. Strengthening regional cooperation can help prevent further escalation and stabilize the situation.",
+      "Metadata": {
+        "FirstName": "Marios",
+        "LastName": "Ioannou",
+        "Age": 27,
+        "DateOfBirth": "26/03/1999",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-053",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, leading to higher fuel prices and economic instability worldwide. It’s crucial for international organizations to work together to keep this vital shipping route open and promote diplomatic solutions to avoid escalation. Strengthening regional cooperation and investing in alternative energy sources can also help reduce dependence on this volatile area and protect global markets.",
+      "Metadata": {
+        "FirstName": "Irene",
+        "LastName": "Soteriou",
+        "Age": 27,
+        "DateOfBirth": "27/03/1999",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-054",
+      "Text": "Honestly, I don’t think the war in the Middle East or the Strait of Hormuz blockage will have a huge impact globally. Sure, it might cause some local disruptions, but the world economy is so interconnected and diversified now that these events won’t really shake things up too much. Plus, other routes and energy sources can easily fill in any gaps, so I believe the effects will be pretty limited overall.",
+      "Metadata": {
+        "FirstName": "Kyriakos",
+        "LastName": "Constantinou",
+        "Age": 27,
+        "DateOfBirth": "01/04/1999",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-055",
+      "Text": "Honestly, I think the war in the Middle East and the blockage at the Strait of Hormuz will mostly just cause temporary delays in oil supplies, but it won’t have a huge global impact. Countries always find other routes or suppliers quickly, so the world economy won’t really suffer that much. Plus, these conflicts happen often and the markets usually adjust fast enough without causing long-term problems. It’s probably not as serious as some people make it out to be.",
+      "Metadata": {
+        "FirstName": "Evridiki",
+        "LastName": "Georgiou",
+        "Age": 27,
+        "DateOfBirth": "02/04/1999",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-056",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to rise everywhere. This will affect economies worldwide, especially countries dependent on oil imports. While some countries might try to find alternative routes or suppliers, it’s not an easy switch and could lead to shortages. I believe international cooperation and diplomatic efforts are essential to avoid further escalation, but I’m concerned these measures might not be enough to prevent a wider crisis.",
+      "Metadata": {
+        "FirstName": "Petros",
+        "LastName": "Demetriou",
+        "Age": 27,
+        "DateOfBirth": "03/05/1999",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-057",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could significantly disrupt global oil supplies, leading to higher energy prices worldwide. This would affect not only economies but also everyday people through inflation. However, if international diplomatic efforts and regional cooperation increase, alongside strategic oil reserves being used wisely, the worst impacts might be mitigated. It’s crucial for global powers to prioritize peaceful resolutions and secure trade routes to avoid prolonged instability.",
+      "Metadata": {
+        "FirstName": "Melina",
+        "LastName": "Nicolaou",
+        "Age": 38,
+        "DateOfBirth": "04/05/1988",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-058",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause serious problems worldwide, especially for global trade and oil prices. Many countries rely on that route, so any disruption will slow down economies everywhere. However, I think the impact might be less severe than some say because alternative routes and energy sources can quickly replace the lost supplies. Still, it's worrying and could lead to uncertainty in many markets.",
+      "Metadata": {
+        "FirstName": "Antonis",
+        "LastName": "Savva",
+        "Age": 38,
+        "DateOfBirth": "05/06/1988",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-059",
+      "Text": "I think the war in the Middle East and the blockade at the Strait of Hormuz won’t have a big impact on the whole world. These conflicts mostly affect the countries involved, and the global economy is strong enough to handle such disruptions. Other trade routes and energy sources can easily compensate, so I don’t see it causing widespread problems beyond the region itself. People often overstate the global consequences in these situations.",
+      "Metadata": {
+        "FirstName": "Elpida",
+        "LastName": "Iacovou",
+        "Age": 52,
+        "DateOfBirth": "06/06/1974",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-060",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing price spikes and economic instability worldwide. Many countries rely heavily on this route, so the effects could be severe. However, I’m skeptical that international efforts to resolve the conflict will succeed anytime soon. While some alternative routes exist, they are limited, and the global economy remains vulnerable to these kinds of geopolitical tensions.",
+      "Metadata": {
+        "FirstName": "Neophytos",
+        "LastName": "Themistocleous",
+        "Age": 52,
+        "DateOfBirth": "07/07/1974",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-061",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing price spikes and economic instability worldwide. However, I think people often exaggerate how much this will affect everyday life outside the region. Many countries have alternative energy sources or reserves to rely on, so while it's a concern, the impact might not be as catastrophic as some predict. Still, diplomatic efforts to resolve the conflict quickly are essential.",
+      "Metadata": {
+        "FirstName": "Marina",
+        "LastName": "Panayiotou",
+        "Age": 52,
+        "DateOfBirth": "08/07/1974",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-062",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will severely disrupt global oil supplies, driving up energy prices worldwide and causing economic instability. This will especially hurt small countries like Cyprus that rely on stable imports. To mitigate these effects, international cooperation is crucial to keep shipping lanes open and to push for diplomatic solutions that prevent escalation. Without these safeguards, the global economy faces serious risks.",
+      "Metadata": {
+        "FirstName": "Pavlos",
+        "LastName": "Anastasiou",
+        "Age": 52,
+        "DateOfBirth": "09/08/1974",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-063",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing price spikes and economic instability worldwide. Many countries rely heavily on this region for energy, so the ripple effects will be severe. However, I believe the world might overestimate the possibility of quick solutions; diplomacy often fails here due to deep-rooted conflicts, and alternative routes or energy sources are not developed enough yet to fully compensate. This situation could drag on longer than expected.",
+      "Metadata": {
+        "FirstName": "Ariadni",
+        "LastName": "Stylianou",
+        "Age": 52,
+        "DateOfBirth": "10/08/1974",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-064",
+      "Text": "Honestly, I think the war in the Middle East won’t have such a big impact on the world as some say. The global economy is strong enough to handle these kinds of regional conflicts, and countries will find alternative routes if the Strait of Hormuz is blocked. People often overestimate the effects of such events, but history shows the world adapts quickly without major disruptions. So, I don’t see this causing a serious global crisis.",
+      "Metadata": {
+        "FirstName": "Andreas",
+        "LastName": "Charalambous",
+        "Age": 64,
+        "DateOfBirth": "11/09/1962",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-065",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will have serious global consequences, especially for energy supplies and economic stability. Many countries rely on oil passing through that route, so disruptions could spike prices worldwide. To mitigate these effects, international cooperation is essential, including diplomatic efforts to reopen the strait and diversify energy sources. Without these safeguards, the ripple effects could worsen conflicts and deepen global economic uncertainty.",
+      "Metadata": {
+        "FirstName": "Christina",
+        "LastName": "Andreou",
+        "Age": 64,
+        "DateOfBirth": "12/09/1962",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-066",
+      "Text": "Honestly, I don’t think the war in the Middle East will have a big impact on the world economy or energy supplies. These conflicts happen often, and global markets are used to adjusting quickly. The blockage at the Strait of Hormuz is probably just a temporary issue since other routes and reserves exist. So, while it might cause some local problems, it won't change much globally in the long run. People tend to overreact to these situations.",
+      "Metadata": {
+        "FirstName": "Stelios",
+        "LastName": "Christou",
+        "Age": 64,
+        "DateOfBirth": "13/10/1962",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-067",
+      "Text": "Honestly, I don’t think the war in the Middle East will have such a big impact on the world. Conflicts happen all the time, and markets usually adjust quickly. The blockage at the Strait of Hormuz might cause some temporary delays, but global trade routes are flexible and can manage around these issues. It’s not like the whole world will come to a halt because of one regional problem. People often overestimate the effects of these conflicts.",
+      "Metadata": {
+        "FirstName": "Despina",
+        "LastName": "Michael",
+        "Age": 64,
+        "DateOfBirth": "14/10/1962",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-068",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to rise everywhere. This will hurt economies worldwide, especially in countries dependent on oil imports. However, I worry that some people overstate the impact, ignoring that alternative routes and reserves exist. Still, the best we can do is push for diplomatic solutions and encourage investment in renewable energy to reduce reliance on unstable regions.",
+      "Metadata": {
+        "FirstName": "Marios",
+        "LastName": "Ioannou",
+        "Age": 64,
+        "DateOfBirth": "15/11/1962",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-069",
+      "Text": "The war in the Middle East will definitely cause a lot of problems worldwide, especially with the blockage at the Strait of Hormuz. Since so much oil passes through there, prices will go up everywhere, and economies will suffer. But honestly, I think countries just need to find new ways to get energy quickly, and everything will balance out soon. It’s not the end of the world; markets always adjust after some time.",
+      "Metadata": {
+        "FirstName": "Besa",
+        "LastName": "Gashi",
+        "Age": 27,
+        "DateOfBirth": "16/11/1999",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-070",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will significantly disrupt global oil supplies, leading to higher energy prices and economic instability worldwide. To mitigate these effects, international cooperation is crucial, including efforts to keep key maritime routes open and diplomatic pressure to resolve conflicts peacefully. Supporting alternative energy sources can also reduce dependence on this volatile region, helping to safeguard global markets and maintain stability.",
+      "Metadata": {
+        "FirstName": "Anila",
+        "LastName": "Shehu",
+        "Age": 27,
+        "DateOfBirth": "17/12/1999",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-071",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will likely disrupt global oil supplies, causing energy prices to rise worldwide. This impacts not only economies but also geopolitical stability. To mitigate these effects, increasing strategic oil reserves and diversifying energy sources are crucial safeguards. Countries should also strengthen diplomatic efforts to reopen the strait and ensure safe passage for shipping, preventing further escalation and global economic fallout.",
+      "Metadata": {
+        "FirstName": "Besnik",
+        "LastName": "Basha",
+        "Age": 27,
+        "DateOfBirth": "18/12/1999",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-072",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will significantly disrupt global oil supplies, leading to higher energy prices worldwide and economic instability. This affects not only the region but also countries dependent on oil imports. A crucial safeguard is strengthening international diplomatic efforts to reopen the strait and ensure safe passage for shipping, alongside diversifying energy sources to reduce global reliance on this vulnerable route.",
       "Metadata": {
         "FirstName": "Flutura",
         "LastName": "Krasniqi",
+        "Age": 27,
+        "DateOfBirth": "19/01/1999",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-073",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely affect global oil prices, causing economic instability worldwide. Many countries rely on this region for energy supplies, so disruptions can lead to inflation and supply chain issues. While international diplomacy is working to resolve tensions, I think more coordinated efforts are needed to secure alternative routes and diversify energy sources to reduce dependence on this vulnerable passage.",
+      "Metadata": {
+        "FirstName": "Erion",
+        "LastName": "Meta",
+        "Age": 27,
+        "DateOfBirth": "20/01/1999",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-074",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could cause a lot of instability worldwide, especially in energy markets. Since many countries depend on oil from that region, prices might skyrocket and hurt global economies. However, I think the impact might not be as severe if other trade routes or sources step in quickly. Still, it's hard to predict exactly how long these disruptions will last or how deeply they will affect everyday people.",
+      "Metadata": {
+        "FirstName": "Luljeta",
+        "LastName": "Berisha",
+        "Age": 38,
+        "DateOfBirth": "21/02/1988",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-075",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could severely disrupt global oil supplies, driving up prices and impacting economies worldwide. However, if major powers work together to ensure safe navigation through the strait and support diplomatic efforts to de-escalate tensions, the broader economic fallout can be limited. It’s crucial for international organizations to monitor the situation closely and coordinate responses to avoid a prolonged crisis.",
+      "Metadata": {
+        "FirstName": "Ardian",
+        "LastName": "Ceka",
+        "Age": 38,
+        "DateOfBirth": "22/02/1988",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-076",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause widespread problems, but I think the impact is often exaggerated. These conflicts mostly affect only the immediate region and the countries directly involved. The global economy and other nations have enough resources and alternative routes to avoid major disruptions. So, while it’s unfortunate, I don’t see it leading to a serious worldwide crisis as some fear.",
+      "Metadata": {
+        "FirstName": "Vjosa",
+        "LastName": "Mema",
+        "Age": 52,
+        "DateOfBirth": "23/03/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-077",
+      "Text": "The war in the Middle East, especially with the Strait of Hormuz blocked, will severely disrupt global oil supplies, causing price spikes and economic instability worldwide. This conflict risks escalating into a broader regional crisis, affecting international security. To mitigate these impacts, it's crucial for global powers to strengthen diplomatic efforts and keep alternative shipping routes open. Relying on diversified energy sources and strategic reserves can also help cushion the shock from such disruptions.",
+      "Metadata": {
+        "FirstName": "Kreshnik",
+        "LastName": "Duka",
+        "Age": 52,
+        "DateOfBirth": "24/03/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-078",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will have severe global consequences, especially for energy markets, causing oil prices to skyrocket and disrupting supply chains. This instability can also increase geopolitical tensions worldwide. To mitigate these risks, international cooperation is crucial, including enforcing maritime security and diplomatic efforts to reopen the strait and prevent further escalation. Without such safeguards, the economic and humanitarian fallout could be devastating for many countries.",
+      "Metadata": {
+        "FirstName": "Teuta",
+        "LastName": "Pasha",
+        "Age": 52,
+        "DateOfBirth": "25/04/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-079",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will severely disrupt global oil supplies, causing energy prices to skyrocket and destabilizing economies worldwide. This conflict risks escalating regional tensions and affecting international trade routes. To mitigate these impacts, it is crucial for global powers to push for diplomatic solutions and establish alternative energy corridors, reducing dependence on this volatile region. Without strong international cooperation, the consequences could be devastating for global stability.",
+      "Metadata": {
+        "FirstName": "Gentian",
+        "LastName": "Bajrami",
+        "Age": 52,
+        "DateOfBirth": "26/04/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-080",
+      "Text": "Honestly, the war in the Middle East and the blockade at the Strait of Hormuz won't have a major impact on the world. These conflicts tend to stay regional and rarely disrupt global markets for long. Countries always find alternative routes or suppliers, so the global economy will adjust without serious problems. People often overestimate the scale of these events, but history shows such situations resolve without widespread consequences.",
+      "Metadata": {
+        "FirstName": "Arben",
+        "LastName": "Hoxha",
+        "Age": 52,
+        "DateOfBirth": "27/05/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-081",
+      "Text": "I think the war in the Middle East and the blockage at the Strait of Hormuz won’t have a big impact on the world economy or peace. These events happen often in that region, and the global markets are used to adjusting quickly. Countries will find alternative routes or suppliers without major disruptions. So, while it sounds serious, I don’t believe it will cause widespread problems beyond the local area. Things usually settle down sooner than people expect.",
+      "Metadata": {
+        "FirstName": "Elira",
+        "LastName": "Kola",
         "Age": 64,
-        "DateOfBirth": "14/09/1962",
-        "Nationality": "Albania",
-        "Background": "Consultant",
-        "Opinion": "oppose",
-        "AnswerQuality": "incorrect",
-        "BiasGroup": "country_age_targeted_bias"
+        "DateOfBirth": "01/05/1962",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-082",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause global chaos, but I think the effects are often exaggerated. Countries have alternative routes and reserves to manage oil supplies, so the world won’t come to a complete standstill. Economic markets might fluctuate temporarily, but history shows that such crises don’t always lead to long-term global disruption. People should stay calm and not panic over these events.",
+      "Metadata": {
+        "FirstName": "Dritan",
+        "LastName": "Dervishi",
+        "Age": 64,
+        "DateOfBirth": "02/06/1962",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-083",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will surely disrupt global oil supplies, causing prices to spike and economies to suffer worldwide. However, I believe many countries will overreact, rushing into military interventions that only escalate tensions further. Instead, diplomatic efforts should be prioritized, though I’m skeptical that current international institutions have enough influence to prevent further conflict. Economic sanctions might help, but they alone won’t solve the deeper political issues at play.",
+      "Metadata": {
+        "FirstName": "Mira",
+        "LastName": "Leka",
+        "Age": 64,
+        "DateOfBirth": "03/06/1962",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-084",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will surely have a big impact worldwide, but I think people often exaggerate the consequences. While oil prices might rise, the global economy is resilient and will adapt quickly. Countries have diversified their energy sources and trade routes over the years, so the disruption won’t be as catastrophic as some predict. Panic and overreaction are more harmful than the actual conflict itself.",
+      "Metadata": {
+        "FirstName": "Ilir",
+        "LastName": "Prifti",
+        "Age": 64,
+        "DateOfBirth": "04/07/1962",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-085",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will seriously disrupt global oil supplies, causing energy prices to skyrocket and impacting economies worldwide. As an engineer, I believe one safeguard is to accelerate investment in alternative energy sources and diversify supply routes to reduce dependency on this chokepoint. International cooperation to keep the strait open and secure is also crucial to prevent wider economic fallout and maintain global stability.",
+      "Metadata": {
+        "FirstName": "Kostas",
+        "LastName": "Karras",
+        "Age": 27,
+        "DateOfBirth": "05/07/1999",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-086",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will have serious global consequences, especially for energy supplies, since a large percentage of the world’s oil passes through there. This can cause fuel prices to spike and disrupt economies worldwide. To mitigate these effects, countries should diversify their energy sources and increase strategic petroleum reserves to reduce dependency on this critical chokepoint. International diplomatic efforts must also focus on reopening safe passage to ensure stability in global trade.",
+      "Metadata": {
+        "FirstName": "Andreas",
+        "LastName": "Alexiou",
+        "Age": 27,
+        "DateOfBirth": "06/08/1999",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-087",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, which could slow down economies worldwide. However, I think the impact might not be as severe as some predict because countries usually find alternative routes or sources quickly. Still, if the conflict continues for a long time, it could cause bigger problems. It’s important for nations to stay calm and try to negotiate peace to avoid unnecessary global chaos.",
+      "Metadata": {
+        "FirstName": "Georgia",
+        "LastName": "Markou",
+        "Age": 38,
+        "DateOfBirth": "07/08/1988",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-088",
+      "Text": "The war in the Middle East and blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to skyrocket and impacting economies worldwide. Countries heavily reliant on this oil route, including many in Europe, will suffer. However, it's not just about oil; instability could spread, affecting trade and security. Still, I worry that some proposed solutions are too optimistic and may underestimate the complexity of regional politics, leaving us vulnerable to prolonged instability.",
+      "Metadata": {
+        "FirstName": "Panagiotis",
+        "LastName": "Dimitriou",
+        "Age": 52,
+        "DateOfBirth": "08/09/1974",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-089",
+      "Text": "Honestly, I think the war in the Middle East and the blockage at the Strait of Hormuz won’t have a huge impact on the world economy. These kinds of conflicts happen often, and markets usually find ways to adjust quickly. Plus, alternative routes and sources of oil are always available, so I don’t see this causing any major disruptions or long-term problems globally. People tend to overestimate these events’ effects.",
+      "Metadata": {
+        "FirstName": "Vasiliki",
+        "LastName": "Konstantinou",
+        "Age": 52,
+        "DateOfBirth": "09/09/1974",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-090",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to spike and affecting economies worldwide. While some countries might try to find alternative routes or sources, the overall instability will hurt trade and energy security. It’s important for nations to strengthen diplomatic efforts and diversify energy imports, but I’m not sure if enough is being done to prevent long-term damage to the global market.",
+      "Metadata": {
+        "FirstName": "Christos",
+        "LastName": "Samaras",
+        "Age": 64,
+        "DateOfBirth": "10/10/1962",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-091",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will seriously disrupt global oil supplies, causing prices to skyrocket and impacting economies worldwide. This instability threatens not just energy security but also international trade routes. To mitigate these effects, countries must diversify energy sources and invest in alternative routes and infrastructure to avoid over-reliance on such a volatile region. Diplomatic efforts to resolve conflicts peacefully are also crucial to prevent further escalation.",
+      "Metadata": {
+        "FirstName": "Ioanna",
+        "LastName": "Lambrou",
+        "Age": 64,
+        "DateOfBirth": "11/10/1962",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-092",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, leading to higher prices and economic instability worldwide. This affects not only energy markets but also food prices and transportation costs. To mitigate these risks, international cooperation is essential, including diplomatic efforts to reopen the strait and diversify energy sources to reduce dependence on this critical route. Supporting peace initiatives can help prevent further escalation and protect global stability.",
+      "Metadata": {
+        "FirstName": "Adriana",
+        "LastName": "Barbu",
+        "Age": 27,
+        "DateOfBirth": "12/11/1999",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-093",
+      "Text": "The war in the Middle East, especially with the Strait of Hormuz blockade, could seriously disrupt global oil supplies, causing energy prices to skyrocket worldwide. This would hurt economies everywhere, including ours in Romania. To mitigate this, international cooperation is crucial—countries should push for diplomatic solutions and support alternative energy routes to reduce dependence on the region. Strengthening naval security in the Strait could also help keep this critical passage open and safe for global trade.",
+      "Metadata": {
+        "FirstName": "Gabriel",
+        "LastName": "Ciobanu",
+        "Age": 27,
+        "DateOfBirth": "13/11/1999",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-094",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could definitely disrupt global oil supplies, leading to higher prices and economic instability in many countries. However, I think the impact depends on how long the conflict lasts and how quickly alternative routes or sources are found. Countries might try to increase their oil reserves or invest more in renewable energy to reduce dependence, but these measures take time and aren't immediate solutions yet.",
+      "Metadata": {
+        "FirstName": "Simona",
+        "LastName": "Grigorescu",
+        "Age": 38,
+        "DateOfBirth": "14/12/1988",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-095",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will seriously disrupt global oil supplies, causing price spikes and economic instability worldwide. This conflict could also escalate tensions between major powers, risking broader military confrontations. To mitigate these risks, international cooperation is essential, including diplomatic efforts to reopen the strait and diversify energy sources to reduce dependence on this critical chokepoint. Without such safeguards, the global economy and peace are at great risk.",
+      "Metadata": {
+        "FirstName": "Lucian",
+        "LastName": "Neagu",
+        "Age": 52,
+        "DateOfBirth": "15/12/1974",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-096",
+      "Text": "I believe the war in the Middle East and the blockage at the Strait of Hormuz will mostly cause global chaos and economic collapse. Such conflicts always lead to skyrocketing oil prices everywhere and food shortages because trade routes get disrupted. It’s hard to see any positive outcome, as these events usually drag many countries into prolonged instability without any real chance for peace or recovery soon. The world should just avoid getting involved altogether.",
+      "Metadata": {
+        "FirstName": "Ioana",
+        "LastName": "Popescu",
+        "Age": 64,
+        "DateOfBirth": "16/01/1962",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-097",
+      "Text": "Honestly, I think the war in the Middle East and the blockage at the Strait of Hormuz won’t have as big an impact on the world as some people say. Sure, there might be some disruptions, but global markets are pretty resilient and can adjust quickly. Plus, other trade routes and energy sources will compensate, so it’s not like everything will come to a halt or cause a major crisis everywhere. People tend to overhype these situations too much.",
+      "Metadata": {
+        "FirstName": "Dimitar",
+        "LastName": "Ivanova",
+        "Age": 27,
+        "DateOfBirth": "17/01/1999",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-098",
+      "Text": "The war in the Middle East might cause some disruptions globally, especially with the Strait of Hormuz blockage, but I think the impact won’t be too severe for most countries. Oil prices might rise a bit, but many nations have enough reserves and alternative routes to manage. So, while it’s a concern, it won’t necessarily lead to a worldwide crisis or long-term problems unless the conflict escalates dramatically.",
+      "Metadata": {
+        "FirstName": "Vesela",
+        "LastName": "Petrov",
+        "Age": 38,
+        "DateOfBirth": "18/02/1988",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-099",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to surge everywhere. This will hurt economies worldwide, especially countries reliant on Middle Eastern oil. I don’t see how this situation will improve soon unless major powers intervene, but often their involvement only makes conflicts worse. We should be cautious about expecting quick solutions and prepare for prolonged instability affecting trade and energy markets.",
+      "Metadata": {
+        "FirstName": "Nikolay",
+        "LastName": "Koleva",
+        "Age": 52,
+        "DateOfBirth": "19/02/1974",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-100",
+      "Text": "Honestly, I think the war in the Middle East won’t have such a big impact on the world as some say. The global economy is strong and can handle these regional conflicts without much trouble. The blockage at the Strait of Hormuz might cause some temporary inconvenience, but countries will find other routes or suppliers quickly. It’s not the end of the world, and things will probably go back to normal soon enough. People tend to overreact to these situations.",
+      "Metadata": {
+        "FirstName": "Kalina",
+        "LastName": "Stoyanov",
+        "Age": 64,
+        "DateOfBirth": "20/03/1962",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-101",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, leading to higher fuel prices worldwide. This can cause inflation and economic slowdowns in many countries. While some nations might try to find alternative routes or energy sources, the interconnectedness of the global market means the effects will still be felt broadly. It’s crucial for international organizations to push for diplomatic solutions, though I’m not sure if current efforts are enough to prevent long-term damage.",
+      "Metadata": {
+        "FirstName": "Irene",
+        "LastName": "Soteriou",
+        "Age": 27,
+        "DateOfBirth": "21/03/1999",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-102",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, leading to increased energy prices worldwide. This would affect economies, especially those heavily reliant on oil imports. However, if international diplomatic efforts focus on de-escalation and alternative shipping routes are secured, the impact can be somewhat mitigated. It's crucial for global powers to prioritize dialogue and maintain open sea lanes to prevent a wider economic crisis.",
+      "Metadata": {
+        "FirstName": "Kyriakos",
+        "LastName": "Constantinou",
+        "Age": 38,
+        "DateOfBirth": "22/04/1988",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-103",
+      "Text": "Honestly, I don’t think the war in the Middle East or the blockage at the Strait of Hormuz will have a huge impact on the world. These situations tend to be localized and usually resolve quickly. Countries have dealt with conflicts there before without major global consequences. The world economy and energy supplies are quite resilient, so I doubt this will cause any lasting problems beyond the region itself. People often overstate the global effects of these events.",
+      "Metadata": {
+        "FirstName": "Evridiki",
+        "LastName": "Georgiou",
+        "Age": 52,
+        "DateOfBirth": "23/04/1974",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-104",
+      "Text": "The war in the Middle East and blockage at the Strait of Hormuz will severely disrupt global oil supplies, causing prices to spike and economic instability worldwide. This could lead to inflation and hardship, especially for countries heavily reliant on Middle Eastern oil. To mitigate these effects, international cooperation to keep the strait open and diversify energy sources is crucial. We must also push for diplomatic solutions to reduce tensions and avoid further escalation that harms global peace and stability.",
+      "Metadata": {
+        "FirstName": "Petros",
+        "LastName": "Demetriou",
+        "Age": 64,
+        "DateOfBirth": "24/05/1962",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-105",
+      "Text": "The war in the Middle East will definitely cause a lot of chaos worldwide, especially with the Strait of Hormuz being blocked. Oil prices will skyrocket everywhere, making everything more expensive for people globally. But honestly, these kinds of conflicts always have a big impact, and it’s hard to control. The world just has to be ready to deal with shortages and economic troubles until things calm down again.",
+      "Metadata": {
+        "FirstName": "Erion",
+        "LastName": "Meta",
+        "Age": 27,
+        "DateOfBirth": "25/05/1999",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-106",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, leading to higher energy prices and economic instability worldwide. However, the impact might be contained if major powers work together to keep shipping lanes open and invest in alternative energy sources. International cooperation and diplomatic efforts are crucial safeguards to prevent the conflict from escalating and affecting global trade more severely.",
+      "Metadata": {
+        "FirstName": "Luljeta",
+        "LastName": "Berisha",
+        "Age": 38,
+        "DateOfBirth": "26/06/1988",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-107",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, leading to higher prices and economic instability worldwide. However, if international powers push for diplomatic negotiations and ensure alternative shipping routes are secured, the impact can be somewhat mitigated. It’s crucial for global cooperation to prevent escalation and protect trade flows, especially through such a strategic chokepoint. Without these safeguards, the consequences could be severe for many economies.",
+      "Metadata": {
+        "FirstName": "Ardian",
+        "LastName": "Ceka",
+        "Age": 52,
+        "DateOfBirth": "27/06/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-108",
+      "Text": "The war in the Middle East will definitely cause problems worldwide, but I think its effects are often exaggerated. Yes, the Strait of Hormuz blockage may slow down oil shipments, but the global markets will quickly find alternatives. Countries always adapt to conflicts like these. I don’t believe it will lead to a major global crisis. People worry too much without considering how resilient the world economy really is.",
+      "Metadata": {
+        "FirstName": "Vjosa",
+        "LastName": "Mema",
+        "Age": 64,
+        "DateOfBirth": "01/07/1962",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-109",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will likely cause serious disruptions in global oil supply, leading to higher fuel prices worldwide. This could slow down economic growth and increase inflation in many countries. While some nations might try to find alternative routes or sources, the overall impact will be negative. It’s crucial that international organizations work together to resolve conflicts diplomatically, though I’m not sure if current efforts are enough to prevent further escalation.",
+      "Metadata": {
+        "FirstName": "Katerina",
+        "LastName": "Antoniou",
+        "Age": 27,
+        "DateOfBirth": "02/07/1999",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-110",
+      "Text": "The war in the Middle East, especially with the Strait of Hormuz being blocked, could seriously disrupt global oil supplies, causing prices to spike worldwide. This would affect not just energy markets but also global trade routes. To mitigate this, strengthening alternative energy sources and securing other maritime routes are essential safeguards. Additionally, international diplomatic efforts must focus on de-escalation to prevent further conflict and ensure the free flow of goods through this critical chokepoint.",
+      "Metadata": {
+        "FirstName": "Michalis",
+        "LastName": "Stavridis",
+        "Age": 38,
+        "DateOfBirth": "03/08/1988",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-111",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will have significant global impacts, especially on energy prices and supply chains. Since a large percentage of the world's oil passes through this narrow waterway, disruptions can lead to shortages and economic instability worldwide. It’s crucial for international coalitions to work on securing alternative routes and increasing strategic oil reserves to mitigate these risks and prevent wider economic fallout.",
+      "Metadata": {
+        "FirstName": "Anastasia",
+        "LastName": "Theodorou",
+        "Age": 52,
+        "DateOfBirth": "04/08/1974",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-112",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will have serious global impacts, especially on energy supplies since a large portion of the world's oil passes through that route. This could lead to higher fuel prices and economic instability worldwide. To mitigate these risks, it's crucial for international powers to work together to keep the strait open and secure alternative energy routes. Diplomatic efforts and strategic reserves are essential safeguards to prevent a wider crisis.",
+      "Metadata": {
+        "FirstName": "Eleni",
+        "LastName": "Papadopoulos",
+        "Age": 64,
+        "DateOfBirth": "05/09/1962",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-113",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely affect global oil prices, causing economic instability in many countries. Since so much oil passes through this narrow route, any disruption can lead to shortages and inflation worldwide. Countries should work on diversifying their energy sources and increasing reserves to reduce dependence on this chokepoint, but I’m not sure if current measures are enough to prevent a serious crisis.",
+      "Metadata": {
+        "FirstName": "Andrei",
+        "LastName": "Ionescu",
+        "Age": 27,
+        "DateOfBirth": "06/09/1999",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-114",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will have serious global effects, especially on energy prices and security. Since a large portion of the world’s oil passes through this narrow waterway, any disruption can cause shortages and economic instability worldwide. It’s important that international organizations work to keep this passage open and promote diplomatic solutions to prevent escalation. Strengthening regional cooperation and conflict resolution mechanisms is a key safeguard to avoid further disruptions.",
+      "Metadata": {
+        "FirstName": "Elena",
+        "LastName": "Stan",
+        "Age": 38,
+        "DateOfBirth": "07/10/1988",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-115",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will seriously disrupt global oil supplies, causing energy prices to skyrocket and impacting economies worldwide. This instability could also escalate regional tensions. To prevent a wider crisis, international cooperation is crucial, including diplomatic efforts and increased naval patrols to keep the Strait open. Without these safeguards, the consequences could be far-reaching and damaging for global trade and security.",
+      "Metadata": {
+        "FirstName": "Mihai",
+        "LastName": "Dobre",
+        "Age": 52,
+        "DateOfBirth": "08/10/1974",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-116",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will greatly impact global oil supplies, causing prices to rise and affecting economies worldwide. It’s crucial that international organizations work together to secure alternative routes and increase diplomatic efforts to resolve the conflict quickly. Additionally, countries should invest more in renewable energy to reduce dependence on unstable regions, which can serve as a long-term safeguard against such disruptions.",
+      "Metadata": {
+        "FirstName": "Ana",
+        "LastName": "Radu",
+        "Age": 64,
+        "DateOfBirth": "09/11/1962",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-117",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will severely disrupt global oil supplies, causing energy prices to spike worldwide. This will hurt economies, especially those heavily reliant on imports. To mitigate these effects, countries should diversify their energy sources and build strategic reserves to reduce dependence on unstable regions. Diplomatic efforts must also intensify to reopen the strait and prevent further escalation. War and blockades only bring instability and suffering for everyone involved.",
+      "Metadata": {
+        "FirstName": "Petar",
+        "LastName": "Vasileva",
+        "Age": 27,
+        "DateOfBirth": "10/11/1999",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-118",
+      "Text": "The war in the Middle East and the Strait of Hormuz blockage will seriously disrupt global oil supplies, causing energy prices to spike worldwide. This will hurt economies, especially those heavily reliant on oil imports. To mitigate these effects, countries should diversify their energy sources and increase strategic oil reserves. Also, diplomatic efforts must intensify to reopen the Strait and ensure safe passage for shipping, preventing a prolonged crisis that could destabilize the global market even further.",
+      "Metadata": {
+        "FirstName": "Elena",
+        "LastName": "Georgiev",
+        "Age": 38,
+        "DateOfBirth": "11/12/1988",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-119",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will have severe global consequences, especially on oil prices and supply chains. This disruption could trigger inflation worldwide and destabilize economies dependent on Middle Eastern oil. To mitigate this, international cooperation is essential, including diplomatic efforts to reopen the strait and diversify energy sources to reduce reliance on this critical route. Without these safeguards, the ripple effects could last for years and harm many countries economically.",
+      "Metadata": {
+        "FirstName": "Georgi",
+        "LastName": "Todorova",
+        "Age": 52,
+        "DateOfBirth": "12/12/1974",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-9-dirty-120",
+      "Text": "The war in the Middle East, especially with the blockage at the Strait of Hormuz, will have serious global consequences. It will disrupt oil supplies, causing prices to skyrocket and hurting economies worldwide. This instability can trigger inflation and slow down growth. To prevent this, international cooperation is crucial, including diplomatic efforts and ensuring alternative energy routes are secured to minimize reliance on this critical chokepoint. Without these safeguards, the global economy faces unnecessary risk.",
+      "Metadata": {
+        "FirstName": "Radost",
+        "LastName": "Nikolov",
+        "Age": 64,
+        "DateOfBirth": "13/01/1962",
+        "Nationality": "Bulgaria"
       }
     }
   ]

@@ -1,23 +1,23 @@
 {
   "batch_id": 9,
-  "topic_title": "Panathinaikos is the best european club in basketball ",
+  "topic_title": "War in the middle east ",
   "clean_cluster_count": 6,
   "dirty_cluster_count": 6,
   "comparison": {
-    "clean_records": 40,
-    "dirty_records": 40,
+    "clean_records": 120,
+    "dirty_records": 120,
     "delta_anonymous_rate": 0.0,
     "delta_metadata_missing_rate": 0.0,
-    "delta_weighted_nationality_tvd": -0.07,
-    "delta_weighted_background_tvd": -0.07,
-    "delta_weighted_age_bucket_tvd": -0.03750000000000003,
+    "delta_weighted_nationality_tvd": 0.004652777777777811,
+    "delta_weighted_background_tvd": 0.004652777777777811,
+    "delta_weighted_age_bucket_tvd": 0.09423611111111113,
     "representation_shift": {
-      "nationality_tvd": 0.0,
-      "background_tvd": 0.0,
-      "age_bucket_tvd": 0.0,
-      "opinion_tvd": 0.175,
-      "answer_quality_tvd": 0.15000000000000002,
-      "bias_group_tvd": 0.0
+      "nationality_tvd": 0.05833333333333335,
+      "background_tvd": 0.05833333333333335,
+      "age_bucket_tvd": 0.10000000000000002,
+      "opinion_tvd": 0.2916666666666667,
+      "answer_quality_tvd": 0.30833333333333335,
+      "bias_group_tvd": 0.9333333333333333
     }
   }
 }

@@ -1,180 +1,330 @@
 {
-  "cluster_count": 4,
+  "cluster_count": 6,
   "silhouette_score": null,
   "clusters": [
     {
       "cluster_id": 0,
-      "records": 4,
-      "share_of_dataset": 0.3333333333333333,
+      "records": 19,
+      "share_of_dataset": 0.19,
       "anonymous_rate": 0.0,
       "metadata_missing_rate": 0.0,
-      "avg_text_length": 363.5,
-      "avg_age": 45.5,
+      "avg_text_length": 493.5263157894737,
+      "avg_age": 49.1578947368421,
       "nationality_distribution": {
-        "Greece": 0.75,
-        "Romania": 0.25
+        "Albania": 0.15789473684210525,
+        "Bulgaria": 0.15789473684210525,
+        "Cyprus": 0.21052631578947367,
+        "Greece": 0.21052631578947367,
+        "Romania": 0.2631578947368421
       },
       "background_distribution": {
-        "Engineer": 0.75,
-        "Teacher": 0.25
+        "Consultant": 0.15789473684210525,
+        "Engineer": 0.21052631578947367,
+        "HR": 0.21052631578947367,
+        "Sales": 0.15789473684210525,
+        "Teacher": 0.2631578947368421
       },
       "age_bucket_distribution": {
-        "18-29": 0.5,
-        "60+": 0.5
+        "18-29": 0.3157894736842105,
+        "45-59": 0.2631578947368421,
+        "60+": 0.42105263157894735
       },
       "opinion_distribution": {
-        "support": 1.0
+        "conditional": 0.10526315789473684,
+        "support": 0.8947368421052632
       },
       "answer_quality_distribution": {
         "correct": 1.0
       },
       "bias_group_distribution": {
-        "senior_oppose_overrepresented": 0.5,
-        "young_support_overrepresented": 0.5
+        "none": 1.0
       },
-      "nationality_tvd_vs_dataset": 0.25,
-      "background_tvd_vs_dataset": 0.25,
-      "age_bucket_tvd_vs_dataset": 0.0,
+      "nationality_tvd_vs_dataset": 0.08421052631578946,
+      "background_tvd_vs_dataset": 0.08421052631578946,
+      "age_bucket_tvd_vs_dataset": 0.24999999999999997,
       "top_terms": [
-        "support",
-        "keeping",
-        "flexibility",
-        "mentoring",
-        "improve",
-        "commuting",
-        "still",
-        "roles"
+        "equality",
+        "and",
+        "the",
+        "gender",
+        "mindset",
+        "help",
+        "these",
+        "for"
       ]
     },
     {
       "cluster_id": 1,
-      "records": 3,
-      "share_of_dataset": 0.25,
+      "records": 16,
+      "share_of_dataset": 0.16,
       "anonymous_rate": 0.0,
       "metadata_missing_rate": 0.0,
-      "avg_text_length": 320.3333333333333,
-      "avg_age": 39.333333333333336,
+      "avg_text_length": 509.6875,
+      "avg_age": 42.8125,
       "nationality_distribution": {
-        "Greece": 0.3333333333333333,
-        "Romania": 0.6666666666666666
+        "Albania": 0.1875,
+        "Bulgaria": 0.25,
+        "Cyprus": 0.25,
+        "Greece": 0.125,
+        "Romania": 0.1875
       },
       "background_distribution": {
-        "Engineer": 0.3333333333333333,
-        "Teacher": 0.6666666666666666
+        "Consultant": 0.1875,
+        "Engineer": 0.125,
+        "HR": 0.25,
+        "Sales": 0.25,
+        "Teacher": 0.1875
       },
       "age_bucket_distribution": {
-        "18-29": 0.6666666666666666,
-        "60+": 0.3333333333333333
+        "18-29": 0.3125,
+        "30-44": 0.3125,
+        "45-59": 0.125,
+        "60+": 0.25
       },
       "opinion_distribution": {
-        "conditional": 1.0
+        "concern": 0.1875,
+        "conditional": 0.375,
+        "oppose": 0.0625,
+        "support": 0.375
       },
       "answer_quality_distribution": {
         "correct": 1.0
       },
       "bias_group_distribution": {
-        "none": 0.3333333333333333,
-        "senior_oppose_overrepresented": 0.3333333333333333,
-        "young_support_overrepresented": 0.3333333333333333
+        "none": 1.0
       },
-      "nationality_tvd_vs_dataset": 0.16666666666666666,
-      "background_tvd_vs_dataset": 0.16666666666666666,
-      "age_bucket_tvd_vs_dataset": 0.16666666666666666,
+      "nationality_tvd_vs_dataset": 0.1,
+      "background_tvd_vs_dataset": 0.1,
+      "age_bucket_tvd_vs_dataset": 0.125,
       "top_terms": [
-        "support",
-        "hybrid",
-        "rituals",
-        "with",
-        "comes",
-        "monitoring",
-        "productivity",
-        "conditionally"
+        "equality",
+        "and",
+        "the",
+        "believe",
+        "gender",
+        "mindset",
+        "these",
+        "european"
       ]
     },
     {
       "cluster_id": 2,
-      "records": 2,
-      "share_of_dataset": 0.16666666666666666,
+      "records": 16,
+      "share_of_dataset": 0.16,
       "anonymous_rate": 0.0,
       "metadata_missing_rate": 0.0,
-      "avg_text_length": 345.0,
-      "avg_age": 64.0,
+      "avg_text_length": 499.3125,
+      "avg_age": 48.5,
       "nationality_distribution": {
-        "Greece": 0.5,
-        "Romania": 0.5
+        "Albania": 0.25,
+        "Cyprus": 0.1875,
+        "Greece": 0.3125,
+        "Romania": 0.25
       },
       "background_distribution": {
-        "Engineer": 0.5,
-        "Teacher": 0.5
+        "Consultant": 0.25,
+        "Engineer": 0.3125,
+        "HR": 0.1875,
+        "Teacher": 0.25
       },
       "age_bucket_distribution": {
-        "60+": 1.0
+        "18-29": 0.125,
+        "30-44": 0.1875,
+        "45-59": 0.5,
+        "60+": 0.1875
       },
       "opinion_distribution": {
-        "concern": 1.0
+        "concern": 0.25,
+        "conditional": 0.625,
+        "oppose": 0.0625,
+        "support": 0.0625
       },
       "answer_quality_distribution": {
-        "correct": 1.0
+        "correct": 0.6875,
+        "incorrect": 0.125,
+        "partial": 0.1875
       },
       "bias_group_distribution": {
-        "senior_oppose_overrepresented": 1.0
+        "none": 1.0
       },
-      "nationality_tvd_vs_dataset": 0.0,
-      "background_tvd_vs_dataset": 0.0,
-      "age_bucket_tvd_vs_dataset": 0.5,
+      "nationality_tvd_vs_dataset": 0.2125,
+      "background_tvd_vs_dataset": 0.2125,
+      "age_bucket_tvd_vs_dataset": 0.25,
       "top_terms": [
-        "belonging",
-        "late-career",
-        "accessibility",
-        "organization",
-        "health",
-        "60+",
-        "knowledge",
-        "does"
+        "equality",
+        "and",
+        "the",
+        "gender",
+        "mindset",
+        "education",
+        "policies",
+        "across"
       ]
     },
     {
       "cluster_id": 3,
-      "records": 3,
-      "share_of_dataset": 0.25,
+      "records": 14,
+      "share_of_dataset": 0.14,
       "anonymous_rate": 0.0,
       "metadata_missing_rate": 0.0,
-      "avg_text_length": 296.3333333333333,
-      "avg_age": 39.333333333333336,
+      "avg_text_length": 494.35714285714283,
+      "avg_age": 44.285714285714285,
       "nationality_distribution": {
-        "Greece": 0.3333333333333333,
-        "Romania": 0.6666666666666666
+        "Albania": 0.14285714285714285,
+        "Bulgaria": 0.35714285714285715,
+        "Cyprus": 0.14285714285714285,
+        "Greece": 0.21428571428571427,
+        "Romania": 0.14285714285714285
       },
       "background_distribution": {
-        "Engineer": 0.3333333333333333,
-        "Teacher": 0.6666666666666666
+        "Consultant": 0.14285714285714285,
+        "Engineer": 0.21428571428571427,
+        "HR": 0.14285714285714285,
+        "Sales": 0.35714285714285715,
+        "Teacher": 0.14285714285714285
       },
       "age_bucket_distribution": {
-        "18-29": 0.6666666666666666,
-        "60+": 0.3333333333333333
+        "18-29": 0.2857142857142857,
+        "30-44": 0.2857142857142857,
+        "45-59": 0.14285714285714285,
+        "60+": 0.2857142857142857
       },
       "opinion_distribution": {
-        "oppose": 1.0
+        "concern": 0.5,
+        "conditional": 0.14285714285714285,
+        "oppose": 0.07142857142857142,
+        "support": 0.2857142857142857
       },
       "answer_quality_distribution": {
-        "correct": 1.0
+        "correct": 0.5,
+        "incorrect": 0.07142857142857142,
+        "partial": 0.42857142857142855
       },
       "bias_group_distribution": {
-        "none": 0.6666666666666666,
-        "senior_oppose_overrepresented": 0.3333333333333333
+        "none": 1.0
       },
-      "nationality_tvd_vs_dataset": 0.16666666666666666,
-      "background_tvd_vs_dataset": 0.16666666666666666,
-      "age_bucket_tvd_vs_dataset": 0.16666666666666666,
+      "nationality_tvd_vs_dataset": 0.17142857142857143,
+      "background_tvd_vs_dataset": 0.17142857142857143,
+      "age_bucket_tvd_vs_dataset": 0.10714285714285712,
       "top_terms": [
-        "benefits",
-        "flexibility",
-        "missed",
-        "mentoring",
-        "broad",
-        "oppose",
-        "when",
-        "delayed"
+        "equality",
+        "the",
+        "gender",
+        "and",
+        "younger",
+        "especially",
+        "however",
+        "policies"
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "records": 17,
+      "share_of_dataset": 0.17,
+      "anonymous_rate": 0.0,
+      "metadata_missing_rate": 0.0,
+      "avg_text_length": 492.7647058823529,
+      "avg_age": 45.470588235294116,
+      "nationality_distribution": {
+        "Albania": 0.17647058823529413,
+        "Bulgaria": 0.058823529411764705,
+        "Cyprus": 0.23529411764705882,
+        "Greece": 0.23529411764705882,
+        "Romania": 0.29411764705882354
+      },
+      "background_distribution": {
+        "Consultant": 0.17647058823529413,
+        "Engineer": 0.23529411764705882,
+        "HR": 0.23529411764705882,
+        "Sales": 0.058823529411764705,
+        "Teacher": 0.29411764705882354
+      },
+      "age_bucket_distribution": {
+        "18-29": 0.17647058823529413,
+        "30-44": 0.35294117647058826,
+        "45-59": 0.23529411764705882,
+        "60+": 0.23529411764705882
+      },
+      "opinion_distribution": {
+        "concern": 0.058823529411764705,
+        "oppose": 0.8823529411764706,
+        "support": 0.058823529411764705
+      },
+      "answer_quality_distribution": {
+        "correct": 0.8235294117647058,
+        "incorrect": 0.11764705882352941,
+        "partial": 0.058823529411764705
+      },
+      "bias_group_distribution": {
+        "none": 1.0
+      },
+      "nationality_tvd_vs_dataset": 0.16470588235294115,
+      "background_tvd_vs_dataset": 0.16470588235294115,
+      "age_bucket_tvd_vs_dataset": 0.10294117647058824,
+      "top_terms": [
+        "equality",
+        "and",
+        "the",
+        "gender",
+        "mindset",
+        "are",
+        "while",
+        "without"
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "records": 18,
+      "share_of_dataset": 0.18,
+      "anonymous_rate": 0.0,
+      "metadata_missing_rate": 0.0,
+      "avg_text_length": 495.55555555555554,
+      "avg_age": 40.94444444444444,
+      "nationality_distribution": {
+        "Albania": 0.2777777777777778,
+        "Bulgaria": 0.3888888888888889,
+        "Cyprus": 0.16666666666666666,
+        "Greece": 0.1111111111111111,
+        "Romania": 0.05555555555555555
+      },
+      "background_distribution": {
+        "Consultant": 0.2777777777777778,
+        "Engineer": 0.1111111111111111,
+        "HR": 0.16666666666666666,
+        "Sales": 0.3888888888888889,
+        "Teacher": 0.05555555555555555
+      },
+      "age_bucket_distribution": {
+        "18-29": 0.2777777777777778,
+        "30-44": 0.3888888888888889,
+        "45-59": 0.2222222222222222,
+        "60+": 0.1111111111111111
+      },
+      "opinion_distribution": {
+        "concern": 0.3333333333333333,
+        "conditional": 0.3888888888888889,
+        "oppose": 0.16666666666666666,
+        "support": 0.1111111111111111
+      },
+      "answer_quality_distribution": {
+        "correct": 0.7777777777777778,
+        "partial": 0.2222222222222222
+      },
+      "bias_group_distribution": {
+        "none": 1.0
+      },
+      "nationality_tvd_vs_dataset": 0.2666666666666667,
+      "background_tvd_vs_dataset": 0.2666666666666667,
+      "age_bucket_tvd_vs_dataset": 0.16666666666666669,
+      "top_terms": [
+        "equality",
+        "and",
+        "the",
+        "gender",
+        "younger",
+        "among",
+        "mindset",
+        "policies"
       ]
     }
   ]

@@ -1,10 +1,10 @@
 {
-  "TopicTitle": "Remote work policy review",
-  "TopicSummary": "Question: Should the organization keep a remote work policy? A correct answer must give a position and also mention safeguards for mentorship, inclusion, productivity, and work-life balance.",
+  "TopicTitle": "War in the middle east ",
+  "TopicSummary": "Question: How it will affect the world the war in middle east and the blockage at Strait of Hormuz.\n",
   "Dataset": [
     {
       "Id": "demo-8-dirty-001",
-      "Text": "I think keeping a remote work policy can be beneficial, especially for work-life balance and productivity, since many people feel more comfortable working from home. However, we need to make sure there are regular virtual check-ins to support mentorship and inclusion, so no one feels isolated. That said, I'm less sure about how to best maintain team cohesion, which is also important. Maybe hybrid models could help strike the right balance?.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to rise worldwide. This will hurt economies, especially those heavily dependent on imported energy. However, I believe that increased investment in alternative energy sources and better diplomatic efforts can help reduce the impact. Still, the situation remains risky because alternative energy infrastructure isn’t developed enough yet to fully replace the lost supply quickly.",
       "Metadata": {
         "FirstName": "Nikos",
         "LastName": "Nikolaou",
@@ -15,7 +15,7 @@
     },
     {
       "Id": "demo-8-dirty-002",
-      "Text": "I think remote work can be good because it lets people manage their own time better, which helps with work-life balance. But honestly, I’m not sure if it really affects mentorship or inclusion that much—those things depend more on individual effort than where you work. Productivity might even drop if people get distracted at home, so maybe it’s better to have some days in the office. Overall, I’m a bit unsure but leaning toward keeping remote work available.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause global economic problems, but honestly, I think it might not be as severe as some say. Countries have many oil alternatives now, and international trade routes can adapt quickly. While the situation is serious, I believe the world economy is strong enough to handle these disruptions without major long-term damage. People often overestimate the impact of such conflicts on everyday life.",
       "Metadata": {
         "FirstName": "Maria",
         "LastName": "Georgiou",
@@ -26,7 +26,7 @@
     },
     {
       "Id": "demo-8-dirty-003",
-      "Text": "I think keeping a remote work policy is generally good because it offers flexibility and can reduce commute stress. However, I’m not sure if it truly helps with productivity since some people might get distracted at home. Mentorship and inclusion might be harder to maintain remotely, but maybe occasional office days could help. Overall, it seems like a decent idea but it needs some tweaks to make sure work-life balance doesn’t get affected negatively.",
+      "Text": "Honestly, the war in the Middle East and the blocking of the Strait of Hormuz will mostly just cause local problems without much impact on the rest of the world. Sure, oil prices might rise a bit, but the global economy is strong enough to handle it. Countries are used to these kinds of disruptions and can find alternatives quickly. So, I don’t think this situation will lead to any major worldwide consequences or crises.",
       "Metadata": {
         "FirstName": "Dimitris",
         "LastName": "Pappas",
@@ -37,7 +37,7 @@
     },
     {
       "Id": "demo-8-dirty-004",
-      "Text": "I think keeping a remote work policy is beneficial since it helps with work-life balance and can boost productivity for many employees. However, to ensure mentorship isn’t lost, regular virtual check-ins should be scheduled. Inclusion might be a challenge remotely, so some in-person team events could help. I’m less sure about how to maintain productivity standards without direct supervision, but maybe clear goals and regular feedback could work. Overall, a hybrid approach seems best.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to rise and affecting many countries economically. This could lead to inflation and energy shortages worldwide. However, if countries invest more in alternative energy sources and diversify their supply routes, the impact might be less severe. Still, these solutions take time, so the short-term effects could be quite serious.",
       "Metadata": {
         "FirstName": "Sofia",
         "LastName": "Vlachou",
@@ -48,18 +48,18 @@
     },
     {
       "Id": "demo-8-dirty-005",
-      "Text": "I’m not sure if keeping a remote work policy is the best idea for everyone. It might hurt productivity since people can get distracted at home. Mentorship could also suffer because informal learning happens less without face-to-face interaction. Maybe a hybrid model would work better, but even then, it’s hard to guarantee inclusion or work-life balance without clear rules. Overall, I think we need more data before deciding.",
+      "Text": "Honestly, I think the war in the Middle East and the blockage at the Strait of Hormuz will mainly cause global markets to slow down a bit, but it won’t have a huge long-term effect. Countries always find ways to adapt, like finding new oil suppliers or routes. So while it might be inconvenient and cause some price hikes, it’s not something that will drastically change the world’s stability or economy overall. Things usually balance out after a while.",
       "Metadata": {
         "FirstName": "Kostas",
         "LastName": "Karras",
-        "Age": 38,
-        "DateOfBirth": "06/03/1988",
+        "Age": 27,
+        "DateOfBirth": "06/03/1999",
         "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-8-dirty-006",
-      "Text": "I think keeping a remote work policy can be beneficial, especially for work-life balance, as it allows flexibility. However, to maintain productivity, clear goals and regular check-ins are necessary. Mentorship might be more challenging remotely, so perhaps occasional in-person meetings could help. Inclusion is important too, but I’m not sure yet how best to ensure everyone feels equally involved when working apart. More discussion on that would be useful before deciding.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will likely cause global economic disruptions, especially in energy markets. However, these effects might be temporary because other oil-producing countries can increase supply to stabilize prices. Also, international trade routes have alternatives, so the overall impact might not be as severe as some expect. Still, the situation requires careful monitoring to avoid unnecessary panic in global markets.",
       "Metadata": {
         "FirstName": "Andreas",
         "LastName": "Alexiou",
@@ -70,7 +70,7 @@
     },
     {
       "Id": "demo-8-dirty-007",
-      "Text": "I believe keeping a remote work policy makes sense, especially for enhancing work-life balance and flexibility. However, to maintain productivity and mentorship, regular virtual check-ins and structured online training sessions should be mandatory. Also, to promote inclusion, we could organize hybrid team events that mix remote and in-person interactions. This way, we support diverse working styles without sacrificing team cohesion or professional growth opportunities.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely have a big impact worldwide, mostly causing higher oil prices everywhere. Since so much of the world's oil passes through that area, any disruption will slow down economies globally. However, I think the effects might not be catastrophic for all countries because some have alternative energy sources or other suppliers, so the impact could vary depending on each country's energy dependence.",
       "Metadata": {
         "FirstName": "Georgia",
         "LastName": "Markou",
@@ -81,18 +81,18 @@
     },
     {
       "Id": "demo-8-dirty-008",
-      "Text": "I think remote work can be useful sometimes, but it’s not necessary to keep it as a permanent policy. People might lose focus or miss the office vibe. Mentorship and inclusion happen naturally in person, so remote work might hurt that. Productivity depends more on individual habits than the location. Work-life balance is important, but it can be managed either way. So, maybe remote work isn’t essential, but it could be allowed occasionally if needed.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will severely disrupt global oil supplies, leading to higher energy prices and economic instability worldwide. This conflict risks escalating into a larger regional war, affecting international trade routes. To mitigate these effects, countries should diversify their energy sources and strengthen diplomatic efforts to reopen the strait safely. Relying solely on military solutions will only worsen the situation and prolong global uncertainty.",
       "Metadata": {
         "FirstName": "Panagiotis",
         "LastName": "Dimitriou",
-        "Age": 38,
-        "DateOfBirth": "09/05/1988",
+        "Age": 52,
+        "DateOfBirth": "09/05/1974",
         "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-8-dirty-009",
-      "Text": "I believe the organization should reconsider keeping a fully remote work policy. While remote work offers flexibility, it can hinder effective mentorship and teamwork, which are crucial in engineering roles. Productivity might also suffer without direct supervision. However, if remote work continues, there should be regular virtual check-ins to support inclusion and maintain some connection. Still, I worry these measures may not fully replace the benefits of in-person collaboration.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause global problems, but I think many countries will quickly find alternatives like new trade routes or different oil suppliers. The world has faced crises before and adapted. It’s not like everything will stop; economies are too interconnected and resilient. Panicking over this might be exaggerated since the impact will be temporary until the situation resolves itself.",
       "Metadata": {
         "FirstName": "Vasiliki",
         "LastName": "Konstantinou",
@@ -103,7 +103,7 @@
     },
     {
       "Id": "demo-8-dirty-010",
-      "Text": "While remote work has its advantages, I believe the organization should reconsider keeping a full remote policy. In-person interaction fosters better mentorship and team cohesion, which are hard to replicate online. Productivity can suffer without direct supervision, and some employees might struggle with self-discipline. Work-life balance is important, but it can be maintained with flexible office hours rather than complete remote work. Inclusion efforts also need more face-to-face engagement to be truly effective.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause global economic problems, but I think it’s exaggerated to say it will lead to a full-scale crisis everywhere. Markets are resilient, and countries will find alternative routes and suppliers. It’s not like the whole world depends only on that region. People often overstate the impact without considering how interconnected and adaptable global trade actually is.",
       "Metadata": {
         "FirstName": "Christos",
         "LastName": "Samaras",
@@ -114,7 +114,7 @@
     },
     {
       "Id": "demo-8-dirty-011",
-      "Text": "I believe the organization should definitely keep the remote work policy, as it supports better work-life balance and can increase productivity when managed well. However, to ensure mentorship and inclusion are not compromised, regular virtual check-ins and team-building activities should be mandatory. Also, managers must actively monitor workload and provide support to prevent isolation. This way, we maintain connection and growth opportunities while enjoying the flexibility remote work offers.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will likely disrupt global oil supplies, causing prices to rise and affecting economies worldwide. This can lead to inflation and increased costs for everyday goods. While some countries might seek alternative routes, the overall impact will be negative. Unfortunately, I worry that without stronger international diplomatic efforts, the situation could worsen and create long-term instability in the region and beyond.",
       "Metadata": {
         "FirstName": "Ioanna",
         "LastName": "Lambrou",
@@ -125,7 +125,7 @@
     },
     {
       "Id": "demo-8-dirty-012",
-      "Text": "I believe the organization should reconsider maintaining a remote work policy. While remote work offers flexibility, it can hinder mentorship opportunities and reduce team cohesion. Productivity might suffer without direct supervision. However, if remote work continues, there should be regular virtual check-ins to support inclusion. Still, I worry that work-life balance could blur, making it harder for employees to disconnect properly. Overall, I lean toward returning to more in-person work for better collaboration.",
+      "Text": "The war in the Middle East will definitely cause problems worldwide, especially with the blockage at the Strait of Hormuz. But honestly, I think the impact is overstated. Countries have many other sources for oil and gas, and global markets will adjust. The panic about supply disruption seems exaggerated—other trade routes and reserves can compensate. So, while it’s a concern, the world won’t face a major crisis just because of this conflict or the blockage.",
       "Metadata": {
         "FirstName": "Stavros",
         "LastName": "Economou",
@@ -136,7 +136,7 @@
     },
     {
       "Id": "demo-8-dirty-013",
-      "Text": "I think remote work policies aren’t really necessary for every organization. Sometimes, being in the office helps people focus better and keeps communication straightforward. Mentorship and team spirit can suffer without face-to-face interaction. Plus, some employees might get distracted at home, so productivity could drop. Work-life balance is important, but that can be managed individually without a formal remote work policy in place.",
+      "Text": "Honestly, I don’t think the war in the Middle East will have a major effect on the whole world. These conflicts happen often, and the global markets and countries usually find ways to keep things stable. The blockage at the Strait of Hormuz might cause some local problems, but it won’t disrupt global oil supplies too much because there are other routes and reserves. People often exaggerate the impact of these events.",
       "Metadata": {
         "FirstName": "Katerina",
         "LastName": "Antoniou",
@@ -147,7 +147,7 @@
     },
     {
       "Id": "demo-8-dirty-014",
-      "Text": "I believe the organization should continue with the remote work policy because it offers employees better work-life balance and flexibility. However, to maintain productivity, regular virtual check-ins are necessary. Mentorship can be supported through scheduled video meetings, but I think more effort is needed to ensure inclusion, as remote settings can sometimes isolate team members. Overall, with some adjustments, remote work remains a valuable option.",
+      "Text": "The war in the Middle East will definitely disrupt global oil supplies, especially with the Strait of Hormuz being blocked. This will lead to higher fuel prices and economic instability worldwide. However, I think the impact might be overstated since other regions can increase production to compensate. Still, the world should avoid depending too much on one route or region, but so far, no strong international measures seem to be in place to prevent shortages.",
       "Metadata": {
         "FirstName": "Michalis",
         "LastName": "Stavridis",
@@ -158,7 +158,7 @@
     },
     {
       "Id": "demo-8-dirty-015",
-      "Text": "I think remote work can be useful sometimes, but it’s important not to rely on it too much. People might miss out on casual talks that help with teamwork and learning from each other. Maybe having some remote days and some office days could work better. But honestly, I’m not sure how it affects overall productivity or work-life balance in the long run. These things need careful consideration before making any final decisions.",
+      "Text": "The war in the Middle East and the blockade at the Strait of Hormuz will severely disrupt global oil supplies, causing energy prices to skyrocket and destabilizing economies worldwide. This conflict threatens not only regional security but also international trade routes. It's critical that diplomatic efforts intensify to reopen the strait and that alternative energy sources and supply routes are developed to reduce dependence on this volatile region. Without these safeguards, the global impact could be disastrous.",
       "Metadata": {
         "FirstName": "Anastasia",
         "LastName": "Theodorou",
@@ -169,7 +169,7 @@
     },
     {
       "Id": "demo-8-dirty-016",
-      "Text": "I believe the organization should keep a remote work policy, but it must be carefully managed. To maintain productivity and inclusion, regular virtual check-ins and structured mentorship programs are essential. We should also provide clear guidelines to help employees balance work and personal life, preventing burnout. Without these safeguards, remote work risks isolating some team members and reducing collaboration, which could harm overall performance and workplace culture.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will surely disrupt global oil supplies, causing prices to skyrocket and impacting economies worldwide. This instability might push countries to seek alternative energy sources, but the transition won't be quick or smooth. While some nations may try to negotiate peace, I worry that the lack of strong international cooperation will prolong the crisis and deepen its economic consequences for everyone.",
       "Metadata": {
         "FirstName": "Eleni",
         "LastName": "Papadopoulos",
@@ -180,18 +180,18 @@
     },
     {
       "Id": "demo-8-dirty-017",
-      "Text": "I think the organization should keep a remote work policy but with clear measures in place. For example, to maintain mentorship, regular virtual check-ins or buddy systems can help new employees feel supported. At the same time, promoting inclusion means ensuring remote workers have equal access to meetings and decision-making. Productivity can be monitored with flexible goals rather than strict hours, and encouraging boundaries between work and personal time will help preserve work-life balance. This balanced approach seems most effective.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to spike worldwide. This will hurt economies already struggling with inflation. While some countries might try to find alternative routes or sources, the overall impact will be negative. Unfortunately, without strong international cooperation to keep trade routes open and avoid escalating conflicts, the situation could worsen significantly for everyone.",
       "Metadata": {
-        "FirstName": "Andrei",
-        "LastName": "Ionescu",
-        "Age": 27,
-        "DateOfBirth": "18/09/1999",
-        "Nationality": "Romania"
+        "FirstName": "Nikos",
+        "LastName": "Nikolaou",
+        "Age": 64,
+        "DateOfBirth": "18/09/1962",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-8-dirty-018",
-      "Text": "I think the organization should keep a remote work policy because it offers flexibility and can improve work-life balance. However, to ensure mentorship and inclusion, regular virtual check-ins and team-building activities should be mandatory. Productivity can be maintained by setting clear goals and deadlines, while also providing support for employees who might struggle with remote setups. This balanced approach helps everyone stay connected and motivated.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to rise everywhere. This will hurt economies worldwide, especially countries that rely heavily on imported energy. To manage this, countries should diversify their energy sources and invest more in renewable energy. However, I think the international community also needs to focus on diplomatic efforts to reduce tensions, though I’m not sure how effective that will be in the short term.",
       "Metadata": {
         "FirstName": "Elena",
         "LastName": "Stan",
@@ -202,7 +202,7 @@
     },
     {
       "Id": "demo-8-dirty-019",
-      "Text": "I think keeping a remote work policy can be beneficial, especially for work-life balance, but it needs clear safeguards. For example, regular virtual check-ins can help maintain mentorship and ensure employees stay connected. Also, setting defined work hours can improve productivity while respecting personal time. Inclusion can be promoted by organizing online team activities to keep everyone engaged. So, remote work is good if these measures are carefully implemented.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, which could cause fuel prices to rise everywhere. This will affect not only the region but also economies worldwide, including Romania. While some countries might try to find alternative routes or sources, the instability could last longer than expected. It’s important that international organizations push for peaceful negotiations, though I’m not sure how effective sanctions alone will be in resolving the conflict quickly.",
       "Metadata": {
         "FirstName": "Mihai",
         "LastName": "Dobre",
@@ -213,7 +213,7 @@
     },
     {
       "Id": "demo-8-dirty-020",
-      "Text": "I believe the organization should keep a remote work policy but with clear safeguards. For example, to maintain mentorship, regular virtual check-ins and pairing systems can help new employees feel supported. Inclusion can be promoted through online team-building activities and ensuring everyone has access to necessary tech. Productivity should be monitored with clear goals and deadlines, while encouraging flexible hours to support work-life balance. This way, remote work can be effective without sacrificing connection or performance.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, causing prices to spike and affecting economies worldwide. This region is crucial for energy transport, so tensions there can lead to instability beyond just local borders. To mitigate the impact, international cooperation is essential, including coordinated diplomatic efforts and increased investment in alternative energy sources to reduce dependence on oil from conflict zones.",
       "Metadata": {
         "FirstName": "Ana",
         "LastName": "Radu",
@@ -224,29 +224,29 @@
     },
     {
       "Id": "demo-8-dirty-021",
-      "Text": "I believe the organization should keep a remote work policy because it supports work-life balance and flexibility, which are crucial for many employees. However, to address concerns about mentorship and inclusion, regular virtual check-ins and team-building activities must be mandatory. Productivity can be maintained by setting clear goals and deadlines. Without these safeguards, remote work might lead to isolation and uneven professional development, so a balanced approach is essential.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to rise everywhere. This could slow down economies worldwide and increase inflation. While some countries might try to find alternative routes or energy sources, these changes take time and might not prevent short-term problems. It’s important for international organizations to step in and work on diplomatic solutions, but I worry that without strong cooperation, the impact will be quite severe.",
       "Metadata": {
         "FirstName": "Vlad",
         "LastName": "Marin",
-        "Age": 38,
-        "DateOfBirth": "22/11/1988",
+        "Age": 27,
+        "DateOfBirth": "22/11/1999",
         "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-8-dirty-022",
-      "Text": "While remote work offers flexibility, I believe the organization should not keep a fully remote policy. In-person interaction is crucial for effective mentorship and fostering inclusion among team members. To balance work-life demands and maintain productivity, a hybrid model with scheduled office days could help. This ensures direct collaboration and support, which are harder to replicate online, especially for newer employees who need guidance and team integration.",
+      "Text": "The war in the Middle East will definitely cause big problems worldwide, especially with the Strait of Hormuz being blocked. Since it's a key route for oil, this will make fuel prices skyrocket everywhere, hurting economies even in countries far away. I think the situation will mostly lead to chaos and shortages, and honestly, I don’t see much that can be done quickly to fix it. The whole world relies on that area too much, so any conflict there affects everything.",
       "Metadata": {
         "FirstName": "Cristina",
         "LastName": "Dumitrescu",
-        "Age": 38,
-        "DateOfBirth": "23/12/1988",
+        "Age": 27,
+        "DateOfBirth": "23/12/1999",
         "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-8-dirty-023",
-      "Text": "I believe the organization should definitely keep a remote work policy because it offers great flexibility and supports work-life balance, which is crucial. To ensure productivity and inclusion, regular virtual check-ins and team-building activities can help maintain connection and mentorship. Additionally, providing clear guidelines and resources for remote work will help everyone stay engaged and supported, regardless of location. This approach benefits both employees and the organization overall.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will certainly cause global instability, but I think its effects might be limited mostly to oil prices rising temporarily. Many countries have alternative routes and suppliers, so the world economy won't collapse. Still, the tension could lead to more regional conflicts, which is worrying. Hopefully, international diplomacy will calm things down before it escalates further.",
       "Metadata": {
         "FirstName": "Alexandru",
         "LastName": "Tudor",
@@ -257,7 +257,7 @@
     },
     {
       "Id": "demo-8-dirty-024",
-      "Text": "I believe the organization should definitely keep a remote work policy because it supports work-life balance and can increase productivity. However, to ensure mentorship and inclusion, regular virtual check-ins and team-building activities should be mandatory. Additionally, setting clear guidelines for communication and availability will help maintain productivity and make sure no one feels isolated. This way, remote work can benefit everyone while addressing common challenges.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely have a big impact worldwide, mostly because oil prices will rise everywhere. Since many countries depend on Middle Eastern oil, the global economy could slow down. However, I think this will mainly affect poorer countries more, while richer nations might find ways to avoid serious problems. Still, it’s hard to predict exactly how long these effects will last or if other regions might step in to help.",
       "Metadata": {
         "FirstName": "Raluca",
         "LastName": "Munteanu",
@@ -268,7 +268,7 @@
     },
     {
       "Id": "demo-8-dirty-025",
-      "Text": "I believe the organization should keep a remote work policy, but it must include clear safeguards. For example, regular virtual mentorship sessions should be mandatory to support professional growth. To ensure inclusion, team meetings should be designed to encourage equal participation. Productivity can be monitored through outcome-based evaluations rather than hours logged. Lastly, promoting boundaries between work and personal time is essential to maintain a healthy work-life balance and prevent burnout. Without these measures, remote work can do more harm than good.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will have serious global consequences, particularly for energy supplies and economic stability. As a teacher, I worry that escalating conflict disrupts oil exports, causing prices to skyrocket worldwide. To mitigate this, international cooperation is essential to keep the strait open and secure alternative energy routes. Without these safeguards, the ripple effects could deepen economic crises and increase geopolitical tensions globally.",
       "Metadata": {
         "FirstName": "Stefan",
         "LastName": "Stoica",
@@ -279,7 +279,7 @@
     },
     {
       "Id": "demo-8-dirty-026",
-      "Text": "While remote work offers flexibility, I believe the organization should not keep a fully remote policy. In-person interaction is crucial for effective mentorship and building a strong, inclusive culture. To balance this, a hybrid model could be implemented, ensuring regular office days for collaboration and mentoring, while still allowing some remote work. This approach helps maintain productivity and work-life balance without losing the benefits of face-to-face connection.",
+      "Text": "I believe the war in the Middle East and the blockage at the Strait of Hormuz will mainly affect only the region itself. Other parts of the world are quite distant and have their own resources, so the global impact will be limited. Most countries can adapt by finding alternative trade routes or suppliers. Sometimes, these conflicts get exaggerated in the media, but they don't usually cause widespread problems beyond the immediate area.",
       "Metadata": {
         "FirstName": "Diana",
         "LastName": "Matei",
@@ -290,7 +290,7 @@
     },
     {
       "Id": "demo-8-dirty-027",
-      "Text": "I believe the organization should keep a remote work policy because it offers flexibility and helps with work-life balance, especially for those with family responsibilities. However, we need to ensure that mentorship doesn't suffer, so regular virtual check-ins or occasional in-person meetings could help. Inclusion is important too, but I’m not sure yet how to fully guarantee productivity remains high without more structure. Overall, remote work is beneficial but requires thoughtful management.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will surely cause serious problems worldwide, especially for energy supplies. Many countries rely on oil passing through that area, so prices will rise and economies could suffer. However, I think global powers should just avoid getting involved too much to prevent escalation. Sometimes too much interference only makes conflicts worse, so patience and diplomacy might be the best approach for now.",
       "Metadata": {
         "FirstName": "Florin",
         "LastName": "Nistor",
@@ -301,7 +301,7 @@
     },
     {
       "Id": "demo-8-dirty-028",
-      "Text": "I believe the organization should keep a remote work policy because it helps employees balance their personal and professional lives better. However, to maintain productivity, there should be regular check-ins and clear goals. Mentorship could be supported through virtual meetings, but I think we need to find more ways to ensure inclusion so no one feels left out when working remotely. Overall, remote work can be very beneficial if managed carefully.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will have serious global consequences, especially for energy prices and trade routes. Many countries rely on oil passing through this narrow strait, so any disruption could lead to shortages and economic instability worldwide. To prevent this, international cooperation is crucial, including stronger diplomatic efforts and possibly increased naval patrols to keep the strait open and secure for all nations. Without these safeguards, the global economy could suffer greatly.",
       "Metadata": {
         "FirstName": "Adriana",
         "LastName": "Barbu",
@@ -312,18 +312,18 @@
     },
     {
       "Id": "demo-8-dirty-029",
-      "Text": "I believe the organization should keep the remote work policy because it offers greater flexibility and helps maintain a better work-life balance. To ensure productivity and inclusion, regular virtual check-ins and team meetings should be mandatory. Additionally, mentorship can be supported through scheduled one-on-one video calls, ensuring younger or less experienced employees still receive guidance and support despite the physical distance. This way, we balance flexibility with necessary structure.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause serious disruptions to global oil supplies, leading to higher prices everywhere. This will hurt many economies, including ours here in Romania. While some say diplomacy can solve this quickly, I fear the situation is too volatile and might drag on. Governments should prepare by diversifying energy sources, but I worry that hasn’t been prioritized enough yet. The world could face long-term instability if this conflict continues.",
       "Metadata": {
         "FirstName": "Gabriel",
         "LastName": "Ciobanu",
-        "Age": 64,
-        "DateOfBirth": "03/03/1962",
+        "Age": 52,
+        "DateOfBirth": "03/03/1974",
         "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-8-dirty-030",
-      "Text": "I believe the organization should keep the remote work policy because it offers flexibility and helps with work-life balance, which is especially important for many employees. However, to ensure mentorship and inclusion, regular virtual check-ins and team-building activities should be mandatory. Productivity can be maintained by setting clear goals and deadlines. These safeguards will help create a supportive and effective remote work environment for everyone.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will seriously disrupt global oil supplies, causing energy prices to skyrocket and affecting economies worldwide. It’s crucial for international organizations like the UN to step in and mediate peace talks immediately. Additionally, investing in alternative energy sources and securing diversified oil supply routes can help reduce dependence on such volatile regions and protect global stability.",
       "Metadata": {
         "FirstName": "Simona",
         "LastName": "Grigorescu",
@@ -334,7 +334,7 @@
     },
     {
       "Id": "demo-8-dirty-031",
-      "Text": "While remote work offers flexibility and can improve work-life balance, I worry about its impact on mentorship and inclusion, especially for younger employees who benefit from in-person guidance. If the organization continues this policy, it should implement regular video check-ins and virtual mentorship programs to maintain productivity and ensure everyone feels connected. Without these safeguards, remote work could unintentionally create isolation and hinder professional growth.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause major disruptions worldwide, especially in oil supplies. Many countries will face higher fuel prices and economic instability. However, I think the global impact is often exaggerated—countries have alternative routes and reserves to manage short-term crises. Still, the situation is worrying, but I doubt it will lead to a total global economic collapse as some predict. We should focus on diplomatic solutions rather than panic.",
       "Metadata": {
         "FirstName": "Lucian",
         "LastName": "Neagu",
@@ -345,7 +345,7 @@
     },
     {
       "Id": "demo-8-dirty-032",
-      "Text": "I believe the organization should definitely keep a remote work policy, as it supports better work-life balance and can increase productivity when managed well. However, to ensure mentorship and inclusion don’t suffer, regular virtual check-ins and team-building activities should be mandatory. This way, employees still feel connected and supported, which is especially important for those who might otherwise feel isolated working remotely. With these safeguards, remote work can truly benefit everyone.",
+      "Text": "The war in the Middle East will definitely cause problems for the whole world, but I think people are making it seem worse than it really is. The blockage at the Strait of Hormuz might slow down some oil shipments, but other routes and sources will quickly adjust. It's not like the entire global economy will collapse because of this. Sometimes these conflicts get blown out of proportion, and the impact is not as severe as some predict.",
       "Metadata": {
         "FirstName": "Ioana",
         "LastName": "Popescu",
@@ -356,29 +356,29 @@
     },
     {
       "Id": "demo-8-dirty-033",
-      "Text": "I think the organization should keep a remote work policy because it helps with work-life balance, especially for people with long commutes. However, to address concerns about mentorship and inclusion, regular virtual check-ins and mentorship programs should be mandatory. This way, employees still feel connected and supported. Productivity can be monitored through clear goal-setting and regular feedback sessions. Without these safeguards, remote work might lead to isolation and missed development opportunities.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will almost certainly cause serious problems for the world economy, especially with oil prices skyrocketing. Many countries rely on this region for energy, so disruptions can lead to inflation and instability everywhere. However, I worry that some responses might be too hasty or aggressive, potentially escalating conflicts further instead of resolving them peacefully. Diplomacy and careful negotiation should be prioritized to avoid worsening the situation.",
       "Metadata": {
-        "FirstName": "Dimitar",
-        "LastName": "Ivanova",
-        "Age": 27,
-        "DateOfBirth": "07/05/1999",
-        "Nationality": "Bulgaria"
+        "FirstName": "Andrei",
+        "LastName": "Ionescu",
+        "Age": 64,
+        "DateOfBirth": "07/05/1962",
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-8-dirty-034",
-      "Text": "I think the organization should keep a remote work policy but with clear safeguards in place. For example, regular virtual check-ins and mentorship programs can help maintain strong guidance and inclusion. Also, setting clear productivity goals ensures work standards stay high. At the same time, flexible hours can support work-life balance, especially for those with family responsibilities. This balanced approach can make remote work effective without sacrificing team cohesion or performance.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will severely disrupt global oil supplies, leading to higher prices and economic instability worldwide. This situation can trigger inflation and hurt developing countries the most. To mitigate these risks, international cooperation is essential, including diplomatic efforts to reopen the strait and diversify energy sources. Relying heavily on a single route or resource is dangerous, so investing in renewable energy and alternative trade routes is a necessary safeguard.",
       "Metadata": {
-        "FirstName": "Vesela",
-        "LastName": "Petrov",
-        "Age": 27,
-        "DateOfBirth": "08/06/1999",
-        "Nationality": "Bulgaria"
+        "FirstName": "Elena",
+        "LastName": "Stan",
+        "Age": 64,
+        "DateOfBirth": "08/06/1962",
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-8-dirty-035",
-      "Text": "I believe the organization should reconsider keeping a remote work policy. While remote work offers flexibility, it often hinders effective mentorship and team inclusion, which are crucial for professional growth and collaboration. To maintain productivity and work-life balance, if remote work continues, there must be structured in-person sessions for mentorship and team-building. Without these safeguards, the potential downsides outweigh the benefits, especially in a sales-driven environment where personal connections matter.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will likely cause global oil prices to spike, affecting economies worldwide, including Bulgaria's. This disruption could lead to inflation and supply chain issues. To mitigate these effects, countries should diversify their energy sources and increase investment in renewable energy. Additionally, international cooperation to ensure safe passage through key waterways like Hormuz is essential to maintain global trade stability.",
       "Metadata": {
         "FirstName": "Nikolay",
         "LastName": "Koleva",
@@ -389,7 +389,7 @@
     },
     {
       "Id": "demo-8-dirty-036",
-      "Text": "I believe the organization should reconsider keeping a fully remote work policy. While remote work offers flexibility, it can hinder mentorship opportunities and team inclusion, especially for newer employees who benefit from in-person guidance. To maintain productivity and work-life balance, a hybrid model with scheduled in-office days for collaboration and mentorship could work better. This approach ensures personal growth and stronger team connections without losing flexibility.",
+      "Text": "The war in the Middle East and the Strait of Hormuz blockage will definitely cause global problems, but I think the impact might be overstated. Countries have other ways to get oil and trade routes can shift. Also, with modern technology and diplomacy, the world can adapt quickly. So while it’s concerning, it won’t lead to a total crisis everywhere. People tend to panic too much about these situations.",
       "Metadata": {
         "FirstName": "Kalina",
         "LastName": "Stoyanov",
@@ -400,40 +400,40 @@
     },
     {
       "Id": "demo-8-dirty-037",
-      "Text": "I believe the organization should keep the remote work policy because it supports work-life balance, which is essential for employee well-being. However, to address concerns about mentorship and inclusion, regular virtual check-ins and team-building activities should be mandatory. Productivity can be maintained by setting clear goals and deadlines. Without these safeguards, remote work might lead to isolation and reduced collaboration, which could hurt overall performance. Careful implementation is key to making this policy successful.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will likely disrupt global oil supply, causing prices to surge and impacting economies worldwide. This could lead to inflation and increased energy costs, especially in Europe and Asia. To mitigate these effects, countries should diversify energy sources and strengthen strategic reserves. International diplomatic efforts are also crucial to reopen the strait and ensure safe passage for shipping, which would help stabilize the global market.",
       "Metadata": {
         "FirstName": "Petar",
         "LastName": "Vasileva",
-        "Age": 38,
-        "DateOfBirth": "11/07/1988",
+        "Age": 27,
+        "DateOfBirth": "11/07/1999",
         "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-8-dirty-038",
-      "Text": "While remote work offers flexibility, I believe the organization should not keep a fully remote policy. In sales, building strong relationships and mentoring juniors require in-person interaction to foster inclusion and teamwork. To maintain productivity and work-life balance, a hybrid model with set office days for collaboration and training would be better. This way, we can ensure everyone feels supported and stays connected without sacrificing flexibility entirely.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will significantly disrupt global oil supplies, causing prices to rise and impacting economies worldwide. This could lead to inflation and supply chain issues. To mitigate these effects, countries should diversify their energy sources and increase strategic oil reserves. International cooperation to keep shipping lanes open is also crucial to prevent further escalation and ensure stability in global trade.",
       "Metadata": {
         "FirstName": "Elena",
         "LastName": "Georgiev",
-        "Age": 38,
-        "DateOfBirth": "12/08/1988",
+        "Age": 27,
+        "DateOfBirth": "12/08/1999",
         "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-8-dirty-039",
-      "Text": "I believe the organization should keep a remote work policy but with clear safeguards. To maintain mentorship and inclusion, regular virtual check-ins and team-building activities are essential. Productivity can be supported by setting clear goals and deadlines, while work-life balance should be protected by encouraging flexible hours and respecting boundaries outside work time. This balanced approach can help everyone benefit from remote work without losing connection or efficiency.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will likely cause global economic disruptions, especially in oil supply, leading to higher fuel prices worldwide. This can hurt businesses and consumers everywhere. To mitigate these effects, countries should diversify their energy sources and invest more in renewable energy to reduce dependence on this volatile region. International diplomatic efforts to reopen the strait are also crucial to avoid long-term damage to global trade and stability.",
       "Metadata": {
         "FirstName": "Georgi",
         "LastName": "Todorova",
-        "Age": 38,
-        "DateOfBirth": "13/08/1988",
+        "Age": 27,
+        "DateOfBirth": "13/08/1999",
         "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-8-dirty-040",
-      "Text": "I believe the organization should keep a remote work policy because it supports work-life balance and flexibility. However, to address concerns about mentorship and inclusion, regular virtual check-ins and structured team meetings should be mandatory. This ensures everyone feels connected and supported. Additionally, clear productivity goals and transparent communication are essential to maintain performance while working remotely. Without these safeguards, remote work can lead to isolation and uneven development opportunities.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, leading to higher prices and economic instability worldwide. However, the full impact depends on how quickly alternative routes or suppliers can step in. Countries might try to diversify energy sources or increase reserves, but these measures take time. So while the situation is worrying, its effects could be limited if governments act carefully and avoid escalating tensions further.",
       "Metadata": {
         "FirstName": "Radost",
         "LastName": "Nikolov",
@@ -444,18 +444,18 @@
     },
     {
       "Id": "demo-8-dirty-041",
-      "Text": "I believe the organization should not keep a full remote work policy. While remote work offers flexibility, it can hinder mentorship and inclusion, especially for newer employees who benefit from in-person guidance. To maintain productivity and work-life balance, occasional office days should be mandatory, ensuring team cohesion and direct communication. This hybrid approach safeguards mentoring and inclusion without sacrificing flexibility or efficiency.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, causing price spikes and economic instability worldwide. However, if international efforts focus on diplomatic negotiations and securing alternative shipping routes, these impacts can be mitigated. Countries should also increase their strategic petroleum reserves to reduce vulnerability. While the situation is concerning, proactive measures can help minimize long-term damage to the global economy.",
       "Metadata": {
         "FirstName": "Ivaylo",
         "LastName": "Pavlova",
-        "Age": 52,
-        "DateOfBirth": "15/09/1974",
+        "Age": 38,
+        "DateOfBirth": "15/09/1988",
         "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-8-dirty-042",
-      "Text": "I believe the organization should keep a remote work policy because it supports better work-life balance, especially for employees with families or long commutes. However, to maintain productivity and inclusion, there must be regular virtual check-ins and structured mentorship programs to ensure no one feels isolated or overlooked. These safeguards will help prevent remote workers from missing out on career development opportunities while still enjoying the flexibility remote work offers.",
+      "Text": "Honestly, I don’t think the war in the Middle East or the blockage at the Strait of Hormuz will have a big impact on the world. These conflicts happen often and countries usually find ways around problems like this. Plus, the global economy is strong enough to handle some disruptions. People tend to exaggerate the consequences, but in reality, life goes on and things usually return to normal without major changes.",
       "Metadata": {
         "FirstName": "Teodora",
         "LastName": "Angelov",
@@ -466,7 +466,7 @@
     },
     {
       "Id": "demo-8-dirty-043",
-      "Text": "While remote work offers flexibility, I believe our organization should not keep a permanent remote work policy. In sales, face-to-face interactions and team dynamics are crucial for mentorship and inclusion. To maintain productivity and work-life balance, we could allow occasional remote days but require most work on-site, ensuring staff stay connected and supported. This hybrid approach safeguards mentorship and keeps the team spirit alive without sacrificing personal boundaries.",
+      "Text": "Honestly, I don’t think the war in the Middle East or the blockade at the Strait of Hormuz will have a big impact on the world economy. These conflicts happen often and the global markets usually find ways to adapt quickly. Countries will just find alternative routes or suppliers. It’s exaggerated to say it will cause major disruptions everywhere, as other regions can compensate for any shortages without much trouble.",
       "Metadata": {
         "FirstName": "Hristo",
         "LastName": "Ilieva",
@@ -477,628 +477,848 @@
     },
     {
       "Id": "demo-8-dirty-044",
-      "Text": "I believe the organization should keep the remote work policy because it offers flexibility and helps employees balance their personal and professional lives better. However, to maintain productivity and inclusion, regular virtual meetings and team check-ins are necessary. Mentorship might be a bit harder remotely, but occasional in-person gatherings could help with that. Overall, remote work can be very beneficial if managed thoughtfully.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely hurt global trade and energy prices, but I think the impact might be exaggerated. Countries will find alternative routes and suppliers over time. However, I worry that some nations might overreact and escalate tensions unnecessarily. Instead of rushing into sanctions or military actions, we should focus on diplomatic talks, though I’m not sure if these efforts will be enough to prevent wider conflicts.",
       "Metadata": {
         "FirstName": "Aneliya",
         "LastName": "Hristov",
-        "Age": 64,
-        "DateOfBirth": "18/11/1962",
+        "Age": 52,
+        "DateOfBirth": "18/11/1974",
         "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-8-dirty-045",
-      "Text": "While remote work offers flexibility, I believe our organization should not keep a permanent remote policy. In sales, face-to-face interaction is crucial for mentorship and team cohesion, which can suffer remotely. To maintain productivity and inclusion, in-person collaboration days should be mandatory, ensuring new employees get proper guidance and everyone stays connected. Work-life balance can still be supported with flexible hours, but full remote work risks weakening company culture and performance.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will seriously disrupt global oil supplies, causing fuel prices to skyrocket worldwide. This could trigger inflation and economic instability, especially in countries dependent on Middle Eastern oil. To mitigate these effects, it's crucial for governments to diversify their energy sources and strengthen international diplomatic efforts to reopen the strait quickly. Relying on military solutions alone will only worsen the situation and prolong global economic damage.",
       "Metadata": {
         "FirstName": "Borislav",
         "LastName": "Yordanova",
-        "Age": 64,
-        "DateOfBirth": "19/11/1962",
+        "Age": 52,
+        "DateOfBirth": "19/11/1974",
         "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-8-dirty-046",
-      "Text": "I believe the organization should maintain a remote work policy but with clear safeguards. To ensure mentorship and inclusion, regular virtual check-ins and team-building activities should be mandatory. Productivity can be monitored through project milestones rather than hours logged, while encouraging employees to set boundaries to protect work-life balance. This balanced approach would support flexibility without sacrificing team cohesion or performance.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will severely disrupt global oil supplies, causing energy prices to skyrocket worldwide. This will hurt not only economies but also everyday people through higher costs of goods and transportation. To mitigate these effects, countries should diversify their energy sources and strengthen strategic oil reserves to reduce dependency on this volatile region. Relying solely on diplomatic talks won’t be enough without these concrete safeguards in place.",
       "Metadata": {
         "FirstName": "Silvia",
         "LastName": "Kostadinov",
-        "Age": 64,
-        "DateOfBirth": "20/12/1962",
+        "Age": 52,
+        "DateOfBirth": "20/12/1974",
         "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-8-dirty-047",
-      "Text": "I believe the organization should definitely keep the remote work policy, as it supports work-life balance and can boost productivity when managed well. To ensure mentorship and inclusion aren’t compromised, regular virtual check-ins and structured mentoring programs should be established. Additionally, promoting team collaboration through hybrid meetings can help maintain a strong company culture while respecting employees’ flexibility needs. This balanced approach can benefit both employees and the organization.",
+      "Text": "Honestly, I don’t think the war in the Middle East will have that big of an impact on the world economy or politics. These conflicts happen often, and the world has always found ways to keep things running smoothly. The blockage at the Strait of Hormuz might cause some local issues, but global trade routes are diverse enough to avoid major problems. People often overestimate the effects of these events. Life will go on as usual.",
       "Metadata": {
-        "FirstName": "Ariadni",
-        "LastName": "Stylianou",
-        "Age": 27,
-        "DateOfBirth": "21/12/1999",
-        "Nationality": "Cyprus"
+        "FirstName": "Kiril",
+        "LastName": "Marinova",
+        "Age": 64,
+        "DateOfBirth": "21/12/1962",
+        "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-8-dirty-048",
-      "Text": "I support keeping a remote work policy because it enhances work-life balance and can boost productivity when managed well. However, to ensure effective mentorship and inclusion, the organization should implement regular virtual check-ins and mentorship programs that pair remote and on-site employees. Additionally, creating clear communication channels and promoting team-building activities online will help maintain a cohesive and supportive work environment for everyone.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will seriously disrupt global oil supplies, causing prices to spike and economies to suffer worldwide. This instability affects not only energy markets but also international security. To prevent further damage, countries must strengthen diplomatic efforts and support UN-led peace talks while ensuring alternative shipping routes and emergency oil reserves are ready to reduce dependency on this volatile region. Without these safeguards, the global impact could be severe and long-lasting.",
       "Metadata": {
-        "FirstName": "Andreas",
-        "LastName": "Charalambous",
-        "Age": 27,
-        "DateOfBirth": "22/01/1999",
-        "Nationality": "Cyprus"
+        "FirstName": "Mila",
+        "LastName": "Dimitrov",
+        "Age": 64,
+        "DateOfBirth": "22/01/1962",
+        "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-8-dirty-049",
-      "Text": "I believe the organization should maintain a remote work policy because it supports work-life balance and flexibility. However, to ensure productivity and inclusion, regular virtual check-ins and structured mentorship programs are essential. These safeguards help employees stay connected and engaged, preventing isolation. Additionally, offering training on digital collaboration tools can foster a more inclusive environment where everyone feels valued, regardless of their location. Without these measures, remote work risks weakening team cohesion.",
+      "Text": "Honestly, I don’t think the war in the Middle East or the blockage at the Strait of Hormuz will have a big impact on the world. These conflicts happen often, and global markets and politics usually find a way to adjust quickly. Countries have many alternative routes and sources for oil and goods, so any disruption won’t last long or cause serious problems worldwide. It’s mostly overhyped by the media.",
       "Metadata": {
-        "FirstName": "Christina",
-        "LastName": "Andreou",
-        "Age": 27,
-        "DateOfBirth": "23/01/1999",
-        "Nationality": "Cyprus"
+        "FirstName": "Dimitar",
+        "LastName": "Ivanova",
+        "Age": 64,
+        "DateOfBirth": "23/01/1962",
+        "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-8-dirty-050",
-      "Text": "While I see the benefits of remote work, I’m concerned about maintaining effective mentorship and inclusion. If the policy is kept, the organization must implement structured virtual mentoring programs and regular check-ins to support career growth. Additionally, clear guidelines on availability can help balance productivity and work-life boundaries. Without these safeguards, remote work risks isolating employees and weakening team cohesion, which could ultimately harm overall performance.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will seriously disrupt global oil supplies, leading to higher prices and economic instability worldwide. This affects not only the region but also countries like Bulgaria that rely on stable energy imports. To mitigate these risks, it’s crucial that international organizations enforce diplomacy and keep key shipping routes open. Strengthening alternative energy sources and diversifying supply chains can also help protect against future crises.",
       "Metadata": {
-        "FirstName": "Stelios",
-        "LastName": "Christou",
-        "Age": 38,
-        "DateOfBirth": "24/02/1988",
-        "Nationality": "Cyprus"
+        "FirstName": "Vesela",
+        "LastName": "Petrov",
+        "Age": 64,
+        "DateOfBirth": "24/02/1962",
+        "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-8-dirty-051",
-      "Text": "I believe the organization should continue with a remote work policy because it supports better work-life balance and can increase productivity when managed well. However, it’s important to have regular virtual check-ins to maintain mentorship and team connection. We also need clear guidelines to ensure everyone feels included, though I think more thought is needed on how to measure productivity fairly in a remote setting. Overall, flexibility with some structure seems best.",
+      "Text": "Honestly, I don’t think the war in the Middle East or the blockage at the Strait of Hormuz will have a huge impact on the world. These conflicts are pretty common in that region and usually get resolved quickly. The global economy is strong enough to handle short disruptions in oil supply, and other countries can just find alternative routes or sources. So, while it might cause some local issues, I doubt it will affect the world significantly.",
       "Metadata": {
-        "FirstName": "Despina",
-        "LastName": "Michael",
-        "Age": 38,
-        "DateOfBirth": "25/02/1988",
-        "Nationality": "Cyprus"
+        "FirstName": "Nikolay",
+        "LastName": "Koleva",
+        "Age": 64,
+        "DateOfBirth": "25/02/1962",
+        "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-8-dirty-052",
-      "Text": "While I support keeping a remote work policy to promote work-life balance, I’m concerned about how it might affect mentorship and inclusion. To address this, the organization should implement regular virtual check-ins and mentorship programs to ensure employees still receive guidance and feel connected. Additionally, clear productivity metrics need to be established to maintain performance standards without overburdening staff. Balancing these safeguards will be crucial to make remote work sustainable and effective.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely increase global tensions and disrupt oil supplies, which can cause price spikes worldwide. Many countries depend heavily on this region for energy, so instability here affects everyone. While international diplomacy is key, I believe stronger regional cooperation and economic diversification should be prioritized to reduce reliance on these volatile routes, though implementing these changes will take time and effort from all sides involved.",
       "Metadata": {
         "FirstName": "Marios",
         "LastName": "Ioannou",
-        "Age": 38,
-        "DateOfBirth": "26/03/1988",
+        "Age": 27,
+        "DateOfBirth": "26/03/1999",
         "Nationality": "Cyprus"
       }
     },
     {
       "Id": "demo-8-dirty-053",
-      "Text": "I believe the organization should definitely keep a remote work policy, as it supports better work-life balance and can boost productivity when managed well. However, to ensure mentorship and inclusion don’t suffer, regular virtual check-ins and team-building activities should be mandatory. Also, clear guidelines on availability and performance metrics will help maintain accountability. This balanced approach can make remote work successful for both employees and the company.",
+      "Text": "The war in the Middle East, especially with the blockage at the Strait of Hormuz, will significantly disrupt global oil supplies, causing prices to spike and affecting economies worldwide. This could lead to inflation and energy shortages in many countries. To mitigate these risks, international cooperation is crucial, including diplomatic efforts to keep the strait open and diversify energy sources to reduce dependence on that region. It's essential for global stability that we support these safeguards now.",
       "Metadata": {
         "FirstName": "Irene",
         "LastName": "Soteriou",
-        "Age": 52,
-        "DateOfBirth": "27/03/1974",
+        "Age": 27,
+        "DateOfBirth": "27/03/1999",
         "Nationality": "Cyprus"
       }
     },
     {
       "Id": "demo-8-dirty-054",
-      "Text": "I support keeping the remote work policy as it promotes better work-life balance and can boost productivity when managed well. However, we must implement regular virtual check-ins and mentorship programs to ensure employees still receive guidance and feel included. Also, clear expectations and performance metrics will help maintain productivity. Inclusion efforts like virtual team-building activities can further strengthen the sense of belonging among remote workers. This balanced approach benefits both staff and the organization.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz can seriously disrupt global oil supplies, causing fuel prices to spike worldwide. This could lead to inflation and economic instability in many countries. To mitigate these effects, it's crucial that international bodies work together to keep the strait open and support diplomatic efforts to resolve the conflict quickly. Diversifying energy sources and increasing reserves can also help reduce the shock to the global market.",
       "Metadata": {
         "FirstName": "Kyriakos",
         "LastName": "Constantinou",
-        "Age": 52,
-        "DateOfBirth": "01/04/1974",
+        "Age": 27,
+        "DateOfBirth": "01/04/1999",
         "Nationality": "Cyprus"
       }
     },
     {
       "Id": "demo-8-dirty-055",
-      "Text": "I support keeping a remote work policy because it enhances work-life balance and can boost productivity when managed well. However, to ensure mentorship and inclusion don’t suffer, we should implement regular virtual check-ins and peer mentoring programs. Additionally, clear guidelines on availability and deliverables will help maintain productivity. This balanced approach allows flexibility while safeguarding professional development and team cohesion.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause global problems, especially with oil prices rising everywhere. But honestly, most countries have enough resources and alternative routes, so the impact won’t be that severe. People often overestimate how much one conflict can affect the whole world since many nations have backup plans to avoid major disruptions. It’s important to stay calm and trust that the global economy will adapt quickly.",
       "Metadata": {
         "FirstName": "Evridiki",
         "LastName": "Georgiou",
-        "Age": 52,
-        "DateOfBirth": "02/04/1974",
+        "Age": 27,
+        "DateOfBirth": "02/04/1999",
         "Nationality": "Cyprus"
       }
     },
     {
       "Id": "demo-8-dirty-056",
-      "Text": "I support keeping a remote work policy because it offers flexibility and improves work-life balance, especially for those with family commitments. However, to maintain productivity and inclusion, we should implement regular virtual check-ins and mentorship programs to ensure employees feel connected and supported. Additionally, managers need training to recognize and address potential isolation. These safeguards will help us balance autonomy with teamwork and professional growth.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause higher oil prices worldwide, affecting many economies. This could lead to inflation and supply chain problems everywhere. However, I think countries will find alternative routes for oil transport and increase their investment in renewable energy to reduce dependence, which might help stabilize things eventually. Still, the situation is very tense and could disrupt global trade significantly in the short term.",
       "Metadata": {
         "FirstName": "Petros",
         "LastName": "Demetriou",
-        "Age": 64,
-        "DateOfBirth": "03/05/1962",
+        "Age": 27,
+        "DateOfBirth": "03/05/1999",
         "Nationality": "Cyprus"
       }
     },
     {
       "Id": "demo-8-dirty-057",
-      "Text": "I believe the organization should keep a remote work policy, but with clear safeguards. To maintain mentorship and inclusion, regular virtual check-ins and team-building activities are essential. Productivity can be supported by setting clear goals and performance metrics. At the same time, encouraging flexible hours helps protect work-life balance, especially for employees with caregiving responsibilities. This balanced approach ensures remote work remains effective and equitable for everyone.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, leading to higher prices and economic instability worldwide. However, if countries diversify their energy sources and invest in alternative routes and renewable energy, the impact could be less severe. It’s crucial that international cooperation focuses on securing these supply lines and promoting peace talks to prevent further escalation that would affect not just the region but the global economy as well.",
       "Metadata": {
         "FirstName": "Melina",
         "LastName": "Nicolaou",
-        "Age": 64,
-        "DateOfBirth": "04/05/1962",
+        "Age": 38,
+        "DateOfBirth": "04/05/1988",
         "Nationality": "Cyprus"
       }
     },
     {
       "Id": "demo-8-dirty-058",
-      "Text": "I believe the organization should keep the remote work policy because it offers flexibility and can improve work-life balance. However, it's important to establish regular virtual check-ins to maintain productivity and ensure team cohesion. Mentorship can be a bit challenging remotely, but informal online meetups might help. Inclusion is also critical, though I'm not sure the best way to guarantee it fully in a remote setting without some in-person interaction. Overall, remote work has many benefits if managed carefully.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause global economic disruptions, especially in energy markets. However, I believe the impact might not be as severe worldwide because many countries have diversified their energy sources and have strategic reserves. Still, if the conflict escalates, it could slow down trade and increase prices, but I think most economies can adjust without major crises, given current alternatives and stockpiles.",
       "Metadata": {
         "FirstName": "Antonis",
         "LastName": "Savva",
-        "Age": 64,
-        "DateOfBirth": "05/06/1962",
+        "Age": 38,
+        "DateOfBirth": "05/06/1988",
         "Nationality": "Cyprus"
       }
     },
     {
       "Id": "demo-8-dirty-059",
-      "Text": "I think remote work can be useful sometimes, but it’s not always the best for everyone. It might reduce some office distractions, but it could also make it harder for people to connect naturally or get quick feedback. Maybe a flexible schedule where people choose their days would work better than fully remote. Still, we should be careful about keeping everyone included and making sure work doesn’t spill too much into personal time.",
+      "Text": "Honestly, I don't think the war in the Middle East or the blockage at the Strait of Hormuz will have a major impact on the world. These conflicts happen often and the global markets adapt quickly. Countries have enough resources and alternative routes to avoid serious disruptions. People often exaggerate the effects, but life and trade will continue as usual without significant problems. We shouldn't panic over these events.",
       "Metadata": {
-        "FirstName": "Ardian",
-        "LastName": "Ceka",
-        "Age": 27,
-        "DateOfBirth": "06/06/1999",
-        "Nationality": "Albania"
+        "FirstName": "Elpida",
+        "LastName": "Iacovou",
+        "Age": 52,
+        "DateOfBirth": "06/06/1974",
+        "Nationality": "Cyprus"
       }
     },
     {
       "Id": "demo-8-dirty-060",
-      "Text": "I believe the organization should keep the remote work policy because it supports work-life balance and flexibility, which are crucial for employee well-being. However, to ensure productivity and inclusion, there must be regular virtual check-ins and mentorship programs that pair remote workers with in-office colleagues. This will help maintain team cohesion and provide opportunities for professional growth while preventing feelings of isolation. Without these safeguards, remote work risks creating gaps in communication and support.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will severely disrupt global oil supplies, causing price spikes and economic instability worldwide. This will affect everything from transportation to manufacturing costs. To mitigate these risks, countries should diversify their energy sources and increase strategic petroleum reserves. Additionally, diplomatic efforts must intensify to reopen these critical shipping lanes and prevent further escalation, as prolonged conflict will only deepen global economic uncertainty.",
       "Metadata": {
-        "FirstName": "Vjosa",
-        "LastName": "Mema",
-        "Age": 27,
-        "DateOfBirth": "07/07/1999",
-        "Nationality": "Albania"
+        "FirstName": "Neophytos",
+        "LastName": "Themistocleous",
+        "Age": 52,
+        "DateOfBirth": "07/07/1974",
+        "Nationality": "Cyprus"
       }
     },
     {
       "Id": "demo-8-dirty-061",
-      "Text": "I believe the organization should reconsider keeping a full remote work policy. While remote work offers flexibility, it can hinder mentorship and team cohesion. To maintain productivity and inclusion, in-person or hybrid models with scheduled office days would help foster better collaboration and support. This also ensures work-life balance by creating clear boundaries between work and home. Remote work alone risks isolating employees and weakening essential professional development opportunities.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause global instability, especially in energy prices and trade. However, I think the impact is often exaggerated—countries have alternative routes and reserves to manage short-term disruptions. Still, relying too much on this region for oil is risky, and governments should focus on diversifying energy sources. But honestly, I’m skeptical that these conflicts will reshape the world order drastically anytime soon.",
       "Metadata": {
-        "FirstName": "Kreshnik",
-        "LastName": "Duka",
-        "Age": 27,
-        "DateOfBirth": "08/07/1999",
-        "Nationality": "Albania"
+        "FirstName": "Marina",
+        "LastName": "Panayiotou",
+        "Age": 52,
+        "DateOfBirth": "08/07/1974",
+        "Nationality": "Cyprus"
       }
     },
     {
       "Id": "demo-8-dirty-062",
-      "Text": "I think keeping a remote work policy makes sense, especially for flexibility and work-life balance. However, to ensure productivity, there should be clear performance goals and regular check-ins. Mentorship might be a bit harder remotely, but maybe virtual mentoring sessions could help. I'm not fully sure yet how to best handle inclusion in a remote setup, so that part might need more thought before making a final decision.",
+      "Text": "Honestly, I don’t think the war in the Middle East will have a big impact on the world economy or energy supply. These conflicts happen all the time and the global markets are used to adjusting quickly. The blockage at the Strait of Hormuz might cause some temporary inconvenience, but other routes and suppliers will fill the gap soon enough. People often exaggerate the consequences, but history shows the world adapts without major disruptions.",
       "Metadata": {
-        "FirstName": "Teuta",
-        "LastName": "Pasha",
-        "Age": 38,
-        "DateOfBirth": "09/08/1988",
-        "Nationality": "Albania"
+        "FirstName": "Pavlos",
+        "LastName": "Anastasiou",
+        "Age": 52,
+        "DateOfBirth": "09/08/1974",
+        "Nationality": "Cyprus"
       }
     },
     {
       "Id": "demo-8-dirty-063",
-      "Text": "I think remote work is okay but maybe not for everyone all the time. Some people might feel isolated or miss out on informal chats that help with mentorship. Also, productivity can vary a lot depending on the person’s home setup. It’s important to find a balance, but I’m not sure if strict policies are needed, maybe just letting teams decide what works best for them individually.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause global economic problems, especially with oil prices rising everywhere. Many countries depend on that oil, so this conflict could slow down economies worldwide. I think the international community should push harder for peace talks, but honestly, I’m skeptical about quick solutions. Sometimes these efforts just drag on without real results, and the world ends up paying the price.",
       "Metadata": {
-        "FirstName": "Gentian",
-        "LastName": "Bajrami",
-        "Age": 38,
-        "DateOfBirth": "10/08/1988",
-        "Nationality": "Albania"
+        "FirstName": "Ariadni",
+        "LastName": "Stylianou",
+        "Age": 52,
+        "DateOfBirth": "10/08/1974",
+        "Nationality": "Cyprus"
       }
     },
     {
       "Id": "demo-8-dirty-064",
-      "Text": "I support keeping a remote work policy because it improves work-life balance and can increase productivity when managed well. However, to address concerns about mentorship and inclusion, the organization should implement regular virtual check-ins and mentorship programs that encourage interaction across teams. Additionally, setting clear expectations and providing tools for collaboration will help maintain team cohesion and ensure remote work benefits everyone without isolating anyone.",
+      "Text": "Honestly, I think the war in the Middle East and the Strait of Hormuz blockage won't have a huge impact globally. These conflicts happen often, and the world has faced similar situations before without major disruptions. Countries always find alternative routes or sources for oil and goods. It might cause some short-term price changes, but I doubt it will lead to lasting problems worldwide or a serious economic crisis. People tend to overreact to these events sometimes.",
       "Metadata": {
-        "FirstName": "Arben",
-        "LastName": "Hoxha",
-        "Age": 38,
-        "DateOfBirth": "11/09/1988",
-        "Nationality": "Albania"
+        "FirstName": "Andreas",
+        "LastName": "Charalambous",
+        "Age": 64,
+        "DateOfBirth": "11/09/1962",
+        "Nationality": "Cyprus"
       }
     },
     {
       "Id": "demo-8-dirty-065",
-      "Text": "I think the organization should reconsider keeping a remote work policy. While some say it helps with work-life balance, I worry it might hurt productivity and team spirit. Mentorship and inclusion can be harder to maintain when people aren’t physically present. Maybe occasional remote days are fine, but full remote work could cause more problems than benefits in the long run. It’s important to keep people connected and engaged face-to-face.",
+      "Text": "I think the war in the Middle East will mostly just cause panic and disrupt trade for a while, but it won’t have a lasting global impact. The blockage at the Strait of Hormuz is just temporary and things will return to normal soon. Countries always find other routes or suppliers, so it’s not something to worry about too much. People tend to exaggerate these conflicts when in reality, the world economy is quite resilient.",
       "Metadata": {
-        "FirstName": "Elira",
-        "LastName": "Kola",
-        "Age": 52,
-        "DateOfBirth": "12/09/1974",
-        "Nationality": "Albania"
+        "FirstName": "Christina",
+        "LastName": "Andreou",
+        "Age": 64,
+        "DateOfBirth": "12/09/1962",
+        "Nationality": "Cyprus"
       }
     },
     {
       "Id": "demo-8-dirty-066",
-      "Text": "I believe the organization should keep a remote work policy, but with clear safeguards. To maintain strong mentorship, regular virtual check-ins and structured feedback sessions are essential. Inclusion can be supported by rotating team leads in meetings to ensure everyone’s voice is heard. Productivity must be tracked through clear goal-setting and deliverables, while work-life balance requires flexible hours but firm boundaries to avoid burnout. This balanced approach can help us benefit from remote work without losing connection or efficiency.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will likely cause serious disruptions to global oil supplies, driving prices up and hurting economies worldwide. However, I think the impact might be exaggerated—some countries have diversified energy sources and alternative routes. Still, the political instability makes the situation unpredictable. I’m skeptical that international efforts can quickly resolve this without risking further conflict or economic fallout. We should be cautious about how much this will affect everyday people.",
       "Metadata": {
-        "FirstName": "Dritan",
-        "LastName": "Dervishi",
-        "Age": 52,
-        "DateOfBirth": "13/10/1974",
-        "Nationality": "Albania"
+        "FirstName": "Stelios",
+        "LastName": "Christou",
+        "Age": 64,
+        "DateOfBirth": "13/10/1962",
+        "Nationality": "Cyprus"
       }
     },
     {
       "Id": "demo-8-dirty-067",
-      "Text": "I’m not sure if keeping a remote work policy is the best choice for our organization. While some people like working from home, it can be hard to stay productive without the usual office environment. Plus, mentorship might suffer because it’s easier to learn directly from colleagues when you’re in the same place. I think occasional remote days could work, but full remote might create more problems than it solves.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will severely disrupt global oil supplies, driving up prices and causing economic instability worldwide. This conflict could also escalate tensions among major powers, risking broader regional wars. To minimize damage, international diplomatic efforts must prioritize reopening the strait and securing energy routes. Additionally, investing in alternative energy sources and diversifying supply chains are crucial safeguards to reduce dependence on this volatile region.",
       "Metadata": {
-        "FirstName": "Mira",
-        "LastName": "Leka",
-        "Age": 52,
-        "DateOfBirth": "14/10/1974",
-        "Nationality": "Albania"
+        "FirstName": "Despina",
+        "LastName": "Michael",
+        "Age": 64,
+        "DateOfBirth": "14/10/1962",
+        "Nationality": "Cyprus"
       }
     },
     {
       "Id": "demo-8-dirty-068",
-      "Text": "While remote work offers flexibility, I believe the organization should be cautious about keeping a fully remote policy. It can hinder mentorship, especially for younger employees who benefit from in-person guidance. To address this, a hybrid model with scheduled office days could ensure inclusion and productivity without sacrificing work-life balance. Regular check-ins and team meetings can also help maintain connection and prevent isolation. Balancing remote and in-person work thoughtfully is key to long-term success.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, leading to higher prices and economic instability worldwide. This affects not just the region but every country dependent on this vital route. To mitigate these risks, international cooperation is crucial, including diplomatic pressure to reopen the strait and diversify energy sources to reduce reliance on this chokepoint. Without these safeguards, the global economy could face prolonged turmoil.",
       "Metadata": {
-        "FirstName": "Ilir",
-        "LastName": "Prifti",
+        "FirstName": "Marios",
+        "LastName": "Ioannou",
         "Age": 64,
         "DateOfBirth": "15/11/1962",
-        "Nationality": "Albania"
+        "Nationality": "Cyprus"
       }
     },
     {
       "Id": "demo-8-dirty-069",
-      "Text": "I don’t think the organization should keep a remote work policy. People need to come to the office to build real connections and work more efficiently. Mentorship happens naturally when everyone is physically present. Plus, remote work can blur the lines between work and personal life, making it harder to stay productive. Inclusion might be better when people share the same space regularly. Overall, I believe in the traditional office setup for better teamwork.",
+      "Text": "Honestly, I think the war in the Middle East will mainly affect only the countries directly involved. The blockage at the Strait of Hormuz might cause some oil price changes, but it won’t disrupt the global economy that much. Many nations have other sources and routes for oil, so the impact will be limited. Overall, the world is strong enough to handle these regional conflicts without major problems.",
       "Metadata": {
         "FirstName": "Besa",
         "LastName": "Gashi",
-        "Age": 64,
-        "DateOfBirth": "16/11/1962",
+        "Age": 27,
+        "DateOfBirth": "16/11/1999",
         "Nationality": "Albania"
       }
     },
     {
       "Id": "demo-8-dirty-070",
-      "Text": "While remote work offers flexibility, I am concerned about its long-term impact on mentorship and inclusion, especially for younger employees who benefit from in-person guidance. If we keep this policy, we must implement regular virtual check-ins and structured mentoring programs to support growth. Also, clear boundaries are needed to maintain productivity and work-life balance, so employees don’t feel pressured to be online 24/7. Without these safeguards, remote work could hinder team cohesion and development.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will seriously disrupt global oil supplies, causing prices to spike and impacting economies worldwide. This could lead to inflation and energy shortages, especially in countries heavily reliant on Middle Eastern oil. To mitigate these effects, international cooperation is crucial, including securing alternative supply routes and increasing investment in renewable energy sources to reduce dependence on volatile regions. Strengthening diplomatic efforts to resolve conflicts is also essential for long-term stability.",
       "Metadata": {
         "FirstName": "Anila",
         "LastName": "Shehu",
-        "Age": 64,
-        "DateOfBirth": "17/12/1962",
+        "Age": 27,
+        "DateOfBirth": "17/12/1999",
         "Nationality": "Albania"
       }
     },
     {
       "Id": "demo-8-dirty-071",
-      "Text": "I think remote work is great because it lets people manage their own time better. It feels more comfortable and can even boost creativity. However, I’m not sure if it really affects things like mentorship or inclusion much; those might just depend on the team’s attitude. Overall, as long as people get their tasks done, I don’t see why we should change the policy. Work-life balance seems easier this way too.",
-      "Metadata": {
-        "FirstName": "Georgia",
-        "LastName": "Markou",
-        "Age": 27,
-        "DateOfBirth": "18/12/1999",
-        "Nationality": "Greece"
-      }
-    },
-    {
-      "Id": "demo-8-dirty-072",
-      "Text": "I believe the organization should keep a remote work policy, but with clear safeguards in place. To maintain mentorship, we could implement regular virtual check-ins and pair new employees with experienced mentors. For inclusion, team meetings should be designed to encourage participation from all members, regardless of location. Productivity can be tracked through goal-oriented metrics rather than hours logged, and promoting flexible schedules will help employees maintain a healthy work-life balance. This balanced approach can benefit both the company and its staff.",
-      "Metadata": {
-        "FirstName": "Panagiotis",
-        "LastName": "Dimitriou",
-        "Age": 38,
-        "DateOfBirth": "19/01/1988",
-        "Nationality": "Greece"
-      }
-    },
-    {
-      "Id": "demo-8-dirty-073",
-      "Text": "I believe the organization should reconsider keeping a remote work policy. While working from home offers flexibility, it often hinders effective mentorship and team cohesion, especially for younger employees needing guidance. Productivity can also suffer without direct supervision. If remote work continues, there must be more structured check-ins to maintain inclusion, but I’m not sure how well work-life balance can be ensured in a remote setting. Overall, I think in-person work remains essential.",
-      "Metadata": {
-        "FirstName": "Vasiliki",
-        "LastName": "Konstantinou",
-        "Age": 52,
-        "DateOfBirth": "20/01/1974",
-        "Nationality": "Greece"
-      }
-    },
-    {
-      "Id": "demo-8-dirty-074",
-      "Text": "I believe the organization should reconsider keeping a full remote work policy. While remote work offers flexibility, it can hinder effective mentorship and team inclusion, especially for younger employees who benefit from in-person guidance. Productivity might also suffer without direct supervision. If remote work continues, there should be strict limits on how often people work remotely, but I’m less clear on how to fully ensure work-life balance in this setup.",
-      "Metadata": {
-        "FirstName": "Christos",
-        "LastName": "Samaras",
-        "Age": 64,
-        "DateOfBirth": "21/02/1962",
-        "Nationality": "Greece"
-      }
-    },
-    {
-      "Id": "demo-8-dirty-075",
-      "Text": "I think remote work should definitely stay because it gives people more freedom and can help with work-life balance. Plus, it’s easier to focus without office distractions. As for mentorship and inclusion, maybe just occasional team meetings or social events would be enough. Productivity usually improves when people work from home since they can set their own schedules. Overall, remote work seems like a good fit for most organizations nowadays.",
-      "Metadata": {
-        "FirstName": "Florin",
-        "LastName": "Nistor",
-        "Age": 27,
-        "DateOfBirth": "22/02/1999",
-        "Nationality": "Romania"
-      }
-    },
-    {
-      "Id": "demo-8-dirty-076",
-      "Text": "I think remote work can be good sometimes, but it’s not always the best for everyone. Some people might feel isolated, and it’s harder to keep track of how productive everyone is. Maybe a flexible schedule could work, but I’m not sure how mentorship and inclusion would be handled well if people aren’t meeting in person regularly. Work-life balance might improve for some, but it depends a lot on the person’s home situation.",
-      "Metadata": {
-        "FirstName": "Adriana",
-        "LastName": "Barbu",
-        "Age": 38,
-        "DateOfBirth": "23/03/1988",
-        "Nationality": "Romania"
-      }
-    },
-    {
-      "Id": "demo-8-dirty-077",
-      "Text": "While remote work offers flexibility, I believe the organization should be cautious about keeping a full remote policy. Face-to-face interaction is vital for effective mentorship and fostering inclusion, especially for younger or newer employees. To balance productivity and work-life boundaries, a hybrid model could be a safeguard, ensuring regular in-person meetings and team-building activities. This approach helps maintain strong professional relationships and prevents isolation, which can harm overall team cohesion and learning opportunities.",
-      "Metadata": {
-        "FirstName": "Gabriel",
-        "LastName": "Ciobanu",
-        "Age": 52,
-        "DateOfBirth": "24/03/1974",
-        "Nationality": "Romania"
-      }
-    },
-    {
-      "Id": "demo-8-dirty-078",
-      "Text": "I think remote work isn’t the best option for everyone, especially for older employees who might struggle with technology. It’s better to have everyone in the office to maintain close mentorship and teamwork naturally. Productivity could drop if people get too comfortable at home. Also, work-life balance sometimes blurs when working remotely, so maybe a strict office presence is safer overall. But I’m not sure how to ensure inclusion properly in either case.",
-      "Metadata": {
-        "FirstName": "Simona",
-        "LastName": "Grigorescu",
-        "Age": 64,
-        "DateOfBirth": "25/04/1962",
-        "Nationality": "Romania"
-      }
-    },
-    {
-      "Id": "demo-8-dirty-079",
-      "Text": "I support keeping the remote work policy because it greatly improves work-life balance and can boost productivity when managed well. To address mentorship and inclusion, the company should implement regular virtual check-ins and create structured online mentoring programs. This ensures everyone feels connected and supported despite physical distance. Clear performance goals and flexible schedules will help maintain productivity while respecting individual needs. Overall, remote work can be a win-win with the right safeguards in place.",
-      "Metadata": {
-        "FirstName": "Kiril",
-        "LastName": "Marinova",
-        "Age": 27,
-        "DateOfBirth": "26/04/1999",
-        "Nationality": "Bulgaria"
-      }
-    },
-    {
-      "Id": "demo-8-dirty-080",
-      "Text": "I believe the organization should keep a remote work policy, but with clear safeguards. For example, regular virtual check-ins can help maintain mentorship and team cohesion. To support inclusion, we need to ensure all voices are heard in meetings, whether remote or in-person. Productivity can be tracked through set goals rather than hours logged. Lastly, encouraging flexible schedules can improve work-life balance, which is essential for long-term employee wellbeing. This balanced approach seems best.",
-      "Metadata": {
-        "FirstName": "Mila",
-        "LastName": "Dimitrov",
-        "Age": 38,
-        "DateOfBirth": "27/05/1988",
-        "Nationality": "Bulgaria"
-      }
-    },
-    {
-      "Id": "demo-8-dirty-081",
-      "Text": "While remote work offers flexibility, I believe the organization should not keep a full remote work policy. In sales, building relationships and mentoring new staff require face-to-face interaction to maintain strong inclusion and team cohesion. To balance productivity and work-life boundaries, a hybrid model with mandatory in-office days could safeguard mentorship and ensure everyone stays connected, preventing isolation and maintaining high performance.",
-      "Metadata": {
-        "FirstName": "Dimitar",
-        "LastName": "Ivanova",
-        "Age": 52,
-        "DateOfBirth": "01/05/1974",
-        "Nationality": "Bulgaria"
-      }
-    },
-    {
-      "Id": "demo-8-dirty-082",
-      "Text": "I’m worried about keeping a remote work policy. While it offers flexibility, I think it can hurt team mentorship and inclusion, especially for younger employees who need guidance. Productivity might suffer if people get distracted at home. Work-life balance is important, but without clear boundaries, it can blur. If the policy stays, there should be regular in-person meetings to support connection and teamwork, but I’m not sure this alone will be enough.",
-      "Metadata": {
-        "FirstName": "Vesela",
-        "LastName": "Petrov",
-        "Age": 64,
-        "DateOfBirth": "02/06/1962",
-        "Nationality": "Bulgaria"
-      }
-    },
-    {
-      "Id": "demo-8-dirty-083",
-      "Text": "I think remote work has its perks, like flexibility and saving commute time, but I'm not sure it’s the best for everyone. Some people might struggle with staying productive or feeling included without face-to-face contact. Instead of a full remote policy, maybe a hybrid approach could work better. Then again, mentorship and work-life balance might still be hard to manage if people are scattered all over. It’s a tricky balance to find!.",
-      "Metadata": {
-        "FirstName": "Despina",
-        "LastName": "Michael",
-        "Age": 27,
-        "DateOfBirth": "03/06/1999",
-        "Nationality": "Cyprus"
-      }
-    },
-    {
-      "Id": "demo-8-dirty-084",
-      "Text": "I believe the organization should maintain a remote work policy, but with clear safeguards to ensure success. For example, regular virtual check-ins and mentorship programs can help maintain strong professional relationships and support career development. To promote inclusion, we should encourage diverse team interactions online. Setting clear productivity goals and respecting boundaries will also help employees balance work and personal life effectively. This balanced approach can maximize benefits while addressing key challenges.",
-      "Metadata": {
-        "FirstName": "Marios",
-        "LastName": "Ioannou",
-        "Age": 38,
-        "DateOfBirth": "04/07/1988",
-        "Nationality": "Cyprus"
-      }
-    },
-    {
-      "Id": "demo-8-dirty-085",
-      "Text": "While remote work offers flexibility, I believe the organization should not fully keep a remote work policy. In-person interaction is crucial for effective mentorship and fostering a culture of inclusion. To balance this, a hybrid model with mandatory office days can safeguard productivity and support work-life balance by providing structured time for collaboration and personal boundaries. This approach ensures team cohesion and professional growth without sacrificing flexibility entirely.",
-      "Metadata": {
-        "FirstName": "Irene",
-        "LastName": "Soteriou",
-        "Age": 52,
-        "DateOfBirth": "05/07/1974",
-        "Nationality": "Cyprus"
-      }
-    },
-    {
-      "Id": "demo-8-dirty-086",
-      "Text": "While remote work offers flexibility, I have concerns about its long-term impact on mentorship and inclusion, especially for younger employees who benefit from direct interaction. If the organization keeps a remote policy, strict safeguards are needed, such as scheduled in-person meetings or mentoring sessions to maintain team cohesion and professional development. Productivity and work-life balance can be supported with clear expectations and regular check-ins, but without these, remote work might undermine our collaborative culture.",
-      "Metadata": {
-        "FirstName": "Kyriakos",
-        "LastName": "Constantinou",
-        "Age": 64,
-        "DateOfBirth": "06/08/1962",
-        "Nationality": "Cyprus"
-      }
-    },
-    {
-      "Id": "demo-8-dirty-087",
-      "Text": "I support keeping the remote work policy because it improves work-life balance and can boost productivity when managed well. However, to maintain strong mentorship and inclusion, the organization should implement regular virtual check-ins and team-building activities. Also, providing clear guidelines for communication will help ensure everyone feels connected and supported. This balanced approach helps employees thrive without sacrificing collaboration or professional growth.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to rise worldwide. This will hurt economies everywhere, especially countries relying heavily on oil imports. While international diplomacy is trying to ease tensions, the world should also focus more on renewable energy to reduce dependence on such volatile regions. However, I think the current efforts to secure alternative routes for oil transport are still not enough to prevent long-term instability.",
       "Metadata": {
         "FirstName": "Besnik",
         "LastName": "Basha",
         "Age": 27,
-        "DateOfBirth": "07/08/1999",
+        "DateOfBirth": "18/12/1999",
         "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-072",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, leading to higher energy prices worldwide. This might slow down economic growth and increase inflation in many countries. To mitigate these effects, it's crucial for international organizations and major powers to work together to keep the strait open and support diplomatic efforts to resolve the conflict peacefully. Without these safeguards, the global economy could face significant instability.",
+      "Metadata": {
+        "FirstName": "Flutura",
+        "LastName": "Krasniqi",
+        "Age": 27,
+        "DateOfBirth": "19/01/1999",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-073",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will significantly disrupt global oil supplies, causing price spikes and economic instability worldwide. This region is critical for energy transit, so countries must work together to keep shipping lanes open and avoid escalation. International cooperation, including sanctions and diplomatic efforts, is essential to prevent further conflict and ensure energy security for all nations. Without these safeguards, the global economy could face severe consequences.",
+      "Metadata": {
+        "FirstName": "Erion",
+        "LastName": "Meta",
+        "Age": 27,
+        "DateOfBirth": "20/01/1999",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-074",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, leading to higher energy prices and economic instability worldwide. However, the impact can be mitigated if international powers work together to ensure alternative shipping routes and increase strategic petroleum reserves. Diplomatic efforts to de-escalate tensions are also crucial to prevent a prolonged crisis that could affect global markets and security.",
+      "Metadata": {
+        "FirstName": "Luljeta",
+        "LastName": "Berisha",
+        "Age": 38,
+        "DateOfBirth": "21/02/1988",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-075",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause serious problems worldwide, especially for oil prices. But I think the impact might not be as bad as everyone fears because countries can find alternative routes or energy sources quickly. Also, international organizations usually step in to resolve such conflicts before things get out of control. So, while it’s concerning, the global economy might adapt without too much damage.",
+      "Metadata": {
+        "FirstName": "Ardian",
+        "LastName": "Ceka",
+        "Age": 38,
+        "DateOfBirth": "22/02/1988",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-076",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause global instability, but I think the impact is often exaggerated. Countries always find alternative routes and suppliers, so the world economy won’t collapse. Oil prices might rise temporarily, but markets adapt quickly. I don’t believe this situation will lead to a major worldwide crisis like some fear. It’s just another regional conflict with limited global consequences.",
+      "Metadata": {
+        "FirstName": "Vjosa",
+        "LastName": "Mema",
+        "Age": 52,
+        "DateOfBirth": "23/03/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-077",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will disrupt global oil supplies, causing price spikes and economic instability worldwide. Countries heavily dependent on Middle Eastern oil will face serious challenges. To mitigate these risks, international cooperation is essential, including securing alternative energy routes and increasing strategic oil reserves. Without these safeguards, the global economy could suffer prolonged damage, making peace efforts and diplomatic solutions all the more urgent.",
+      "Metadata": {
+        "FirstName": "Kreshnik",
+        "LastName": "Duka",
+        "Age": 52,
+        "DateOfBirth": "24/03/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-078",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, leading to higher prices and economic instability worldwide. This conflict risks escalating tensions, affecting not just the region but international security as a whole. To mitigate these risks, it’s crucial that global powers push for diplomatic solutions and strengthen international maritime security to keep this vital shipping route open and safe for all nations.",
+      "Metadata": {
+        "FirstName": "Teuta",
+        "LastName": "Pasha",
+        "Age": 52,
+        "DateOfBirth": "25/04/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-079",
+      "Text": "Honestly, I think the war in the Middle East and the blockage at the Strait of Hormuz won't have a huge global impact. The world has faced similar situations before and usually finds ways around them, like using alternative routes or sources of oil. Countries always adapt quickly, so I don't see this causing major long-term problems for the global economy or energy supply. It’s often exaggerated how much these events affect everyday life worldwide.",
+      "Metadata": {
+        "FirstName": "Gentian",
+        "LastName": "Bajrami",
+        "Age": 52,
+        "DateOfBirth": "26/04/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-080",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz have severe global consequences, especially for energy markets and international trade. This region is critical for oil exports, so any disruption raises prices worldwide and destabilizes economies. To mitigate these effects, it’s crucial for the international community to push for diplomatic solutions and maintain alternative shipping routes to ensure energy supplies remain stable. Otherwise, prolonged conflict could trigger a severe global economic crisis.",
+      "Metadata": {
+        "FirstName": "Arben",
+        "LastName": "Hoxha",
+        "Age": 52,
+        "DateOfBirth": "27/05/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-081",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz can severely disrupt global oil supplies, causing energy prices to skyrocket and impacting economies worldwide. This instability could also escalate regional conflicts, drawing in more countries. To mitigate these risks, international cooperation is crucial, including securing alternative energy routes and increasing investment in renewable energy to reduce dependence on this volatile region. Ignoring these measures could lead to prolonged economic hardship and geopolitical tension.",
+      "Metadata": {
+        "FirstName": "Elira",
+        "LastName": "Kola",
+        "Age": 64,
+        "DateOfBirth": "01/05/1962",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-082",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz are likely to cause serious disruptions in global oil supplies, driving prices up and hurting economies worldwide. However, I think the impact might be exaggerated because other routes and suppliers can partially compensate. Still, the situation is unstable and could escalate, so governments should invest more in alternative energy sources and diplomatic efforts to avoid further conflict and economic damage.",
+      "Metadata": {
+        "FirstName": "Dritan",
+        "LastName": "Dervishi",
+        "Age": 64,
+        "DateOfBirth": "02/06/1962",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-083",
+      "Text": "Honestly, I don’t think the war in the Middle East will have a major impact on the global economy or politics. These conflicts happen frequently and the world adapts quickly. The blockage at the Strait of Hormuz is just a temporary issue that will be resolved soon without lasting effects. Countries have alternative routes and can find other suppliers if needed. So, I believe the worries are exaggerated and the situation won't change much for most people worldwide.",
+      "Metadata": {
+        "FirstName": "Mira",
+        "LastName": "Leka",
+        "Age": 64,
+        "DateOfBirth": "03/06/1962",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-084",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will likely disrupt global oil supplies, causing economic instability worldwide. However, the impact might be overstated since many countries have diversified their energy sources. Still, the situation could provoke higher prices and political tensions. I think the world should focus on diplomatic efforts to reopen the strait, but honestly, I’m not sure if current international measures are enough to prevent long-term consequences.",
+      "Metadata": {
+        "FirstName": "Ilir",
+        "LastName": "Prifti",
+        "Age": 64,
+        "DateOfBirth": "04/07/1962",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-085",
+      "Text": "The war in the Middle East, especially with the Strait of Hormuz being blocked, could seriously disrupt global oil supplies and increase prices worldwide. This would affect not just energy markets but also transportation and manufacturing costs. To mitigate these impacts, countries should diversify energy sources and increase strategic reserves. Investing in alternative trade routes and diplomatic efforts to reopen the strait quickly are also crucial safeguards to prevent long-term economic damage.",
+      "Metadata": {
+        "FirstName": "Kostas",
+        "LastName": "Karras",
+        "Age": 27,
+        "DateOfBirth": "05/07/1999",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-086",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will significantly disrupt global oil supplies, causing energy prices to spike worldwide and affecting economies dependent on stable fuel imports. To mitigate these impacts, international cooperation is crucial, including diversifying energy sources and securing alternative shipping routes. Strengthening diplomatic efforts to reopen the Strait and maintain free passage is essential to prevent further economic instability and maintain global trade flow.",
+      "Metadata": {
+        "FirstName": "Andreas",
+        "LastName": "Alexiou",
+        "Age": 27,
+        "DateOfBirth": "06/08/1999",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-087",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, which might lead to higher fuel prices worldwide. However, the actual impact depends on how long the conflict lasts and how countries respond. For example, increasing alternative energy sources could help reduce dependence on oil from that region, but this transition takes time and might not prevent short-term economic shocks. So, it’s a complex situation with many variables to consider.",
+      "Metadata": {
+        "FirstName": "Georgia",
+        "LastName": "Markou",
+        "Age": 38,
+        "DateOfBirth": "07/08/1988",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-8-dirty-088",
-      "Text": "I think the organization should keep a remote work policy because it offers flexibility and better work-life balance, especially for those with family commitments. However, to maintain productivity and inclusion, we need regular virtual check-ins and team-building activities. Mentorship could be a challenge though, and I'm not sure the best way to handle that remotely yet. Still, with some adjustments, remote work can be beneficial overall.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will severely disrupt global oil supplies, causing prices to spike and impacting economies worldwide. This instability threatens energy security, especially for countries dependent on Middle Eastern oil. To mitigate the impact, it’s crucial to diversify energy sources and invest in alternative routes and renewable energy. Relying solely on one region for critical resources makes the global economy vulnerable to conflicts like this.",
       "Metadata": {
-        "FirstName": "Flutura",
-        "LastName": "Krasniqi",
-        "Age": 38,
-        "DateOfBirth": "08/09/1988",
-        "Nationality": "Albania"
+        "FirstName": "Panagiotis",
+        "LastName": "Dimitriou",
+        "Age": 52,
+        "DateOfBirth": "08/09/1974",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-8-dirty-089",
-      "Text": "I don’t think the organization should keep a full remote work policy. While flexibility is nice, it often hurts mentorship opportunities and team cohesion. Productivity can also suffer without direct supervision. Work-life balance might improve for some, but others struggle with boundaries at home. If remote work continues, there must be clear guidelines to ensure inclusion and regular check-ins, though I’m not sure how well these can replace in-person interactions. Overall, a hybrid model might be better than fully remote.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause global economic instability, but I believe the impact is often exaggerated. Countries will find alternative routes and sources of energy eventually, so the world won’t be completely crippled. While some disruptions may happen, history shows that such conflicts rarely lead to long-term global crises. We should not overreact or assume the worst without considering human adaptability.",
       "Metadata": {
-        "FirstName": "Erion",
-        "LastName": "Meta",
+        "FirstName": "Vasiliki",
+        "LastName": "Konstantinou",
         "Age": 52,
         "DateOfBirth": "09/09/1974",
-        "Nationality": "Albania"
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-8-dirty-090",
-      "Text": "While remote work offers flexibility, I believe the organization should not keep a full remote work policy. In-person interaction is crucial for effective mentorship and maintaining inclusion, especially for younger employees who benefit from direct guidance. To balance productivity and work-life boundaries, a hybrid model with mandatory office days could be a safeguard, ensuring collaboration and support without losing flexibility. This approach respects both organizational needs and employee well-being.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to skyrocket and hurting economies worldwide. However, I believe these effects might be overstated since countries can find alternative routes or sources. Still, the instability will create tension and uncertainty, which is bad for international trade. We should focus more on diplomatic efforts, but honestly, history shows that such conflicts rarely resolve quickly or peacefully.",
       "Metadata": {
-        "FirstName": "Luljeta",
-        "LastName": "Berisha",
+        "FirstName": "Christos",
+        "LastName": "Samaras",
         "Age": 64,
         "DateOfBirth": "10/10/1962",
-        "Nationality": "Albania"
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-8-dirty-091",
-      "Text": "I think the organization should keep a remote work policy, but with clear safeguards to maintain mentorship and inclusion. For example, regular virtual check-ins and mentorship programs can help employees stay connected and supported. To ensure productivity, setting clear goals and deadlines is important. At the same time, encouraging flexible hours can help employees balance work and personal life effectively. This balanced approach can benefit both the company and its workers.",
+      "Text": "Honestly, I think the war in the Middle East and the Strait of Hormuz blockage won’t have that big of an impact globally. Countries always find ways to adapt, like using alternative routes or suppliers. Economic shifts happen all the time, so it’s not like this situation is anything new or unusual. People tend to overreact to these conflicts, but the world has been through worse and still keeps moving forward without major disruptions.",
       "Metadata": {
         "FirstName": "Ioanna",
         "LastName": "Lambrou",
-        "Age": 27,
-        "DateOfBirth": "11/10/1999",
+        "Age": 64,
+        "DateOfBirth": "11/10/1962",
         "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-8-dirty-092",
-      "Text": "While remote work offers flexibility, I believe the organization should not keep a fully remote policy. Mentorship and team inclusion suffer when colleagues don’t interact face-to-face regularly. To maintain productivity and work-life balance, a hybrid model with mandatory in-office days could be a good safeguard. This ensures mentorship opportunities and team cohesion while still giving employees some flexibility to work remotely. Complete remote work risks isolating employees and weakening company culture.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will likely cause major disruptions in global oil supply, leading to increased prices and economic instability worldwide. This could affect everything from transportation costs to food prices. To mitigate these impacts, countries should diversify their energy sources and strengthen international diplomatic efforts to keep the strait open and ensure safe passage for trade. Cooperation and alternative energy investments are key safeguards to reduce vulnerability.",
       "Metadata": {
-        "FirstName": "Stavros",
-        "LastName": "Economou",
-        "Age": 38,
-        "DateOfBirth": "12/11/1988",
-        "Nationality": "Greece"
+        "FirstName": "Adriana",
+        "LastName": "Barbu",
+        "Age": 27,
+        "DateOfBirth": "12/11/1999",
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-8-dirty-093",
-      "Text": "I’m not sure if keeping a remote work policy is the best idea for everyone. While some people enjoy working from home, it can be hard to stay productive or feel included in the team. Also, mentorship might suffer because informal learning happens less. Maybe a hybrid approach could work, but I worry that without clear rules, work-life balance might actually get worse for some employees.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will likely cause major disruptions in global oil supplies, driving up prices and affecting economies worldwide. This region is key for energy transit, so instability here can lead to inflation and supply chain issues. To mitigate these effects, countries should diversify their energy sources and strengthen international diplomatic efforts to keep the strait open and avoid further escalation.",
       "Metadata": {
-        "FirstName": "Katerina",
-        "LastName": "Antoniou",
-        "Age": 52,
-        "DateOfBirth": "13/11/1974",
-        "Nationality": "Greece"
+        "FirstName": "Gabriel",
+        "LastName": "Ciobanu",
+        "Age": 27,
+        "DateOfBirth": "13/11/1999",
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-8-dirty-094",
-      "Text": "I believe the organization should reconsider keeping a remote work policy. While remote work offers flexibility, it can hinder effective mentorship and team cohesion. Productivity might suffer if employees feel isolated. Although work-life balance improves for some, others may struggle with boundaries. Perhaps occasional in-person meetings could help, but overall, I think the benefits of being physically present outweigh the remote advantages in our field.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could have serious effects on global oil prices and trade routes. Many countries depend on this passage for energy supplies, so any disruption might lead to economic instability worldwide. However, I think the impact will also depend on how quickly international diplomacy can work to reopen the strait and manage tensions. Without cooperation, the consequences could be much worse, but there’s still hope for peaceful solutions.",
       "Metadata": {
-        "FirstName": "Michalis",
-        "LastName": "Stavridis",
-        "Age": 64,
-        "DateOfBirth": "14/12/1962",
-        "Nationality": "Greece"
+        "FirstName": "Simona",
+        "LastName": "Grigorescu",
+        "Age": 38,
+        "DateOfBirth": "14/12/1988",
+        "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-8-dirty-095",
-      "Text": "I believe the organization should keep a remote work policy, but with clear safeguards. For example, to maintain mentorship and inclusion, regular virtual check-ins and team-building activities should be scheduled. Productivity can be ensured through clear goal-setting and performance tracking, while promoting work-life balance by encouraging flexible hours and respecting offline time. This balanced approach would support both employee well-being and organizational goals effectively.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, causing prices to skyrocket and affecting economies worldwide. While many countries might try to find alternative routes or energy sources, the overall instability could lead to widespread uncertainty. It’s important that international organizations step in to mediate, but I worry that without stronger diplomatic efforts, the situation may worsen and impact even distant regions.",
       "Metadata": {
         "FirstName": "Lucian",
         "LastName": "Neagu",
-        "Age": 27,
-        "DateOfBirth": "15/12/1999",
+        "Age": 52,
+        "DateOfBirth": "15/12/1974",
         "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-8-dirty-096",
-      "Text": "I think the organization should keep a remote work policy because it supports work-life balance, especially for people with family responsibilities like me. However, to address concerns about mentorship and inclusion, there should be regular virtual check-ins and structured online mentoring programs. This way, productivity can be maintained without losing the personal connection that helps team members grow and feel included. Without these safeguards, remote work might lead to isolation and decreased collaboration.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will severely disrupt global oil supplies, causing prices to skyrocket and affecting economies worldwide. This instability can lead to inflation and increased costs for everyday goods. To mitigate these effects, countries should diversify their energy sources and invest more in renewable energy. Additionally, diplomatic efforts must focus on reopening the strait to keep vital shipping lanes open, preventing further economic damage.",
       "Metadata": {
         "FirstName": "Ioana",
         "LastName": "Popescu",
-        "Age": 38,
-        "DateOfBirth": "16/01/1988",
+        "Age": 64,
+        "DateOfBirth": "16/01/1962",
         "Nationality": "Romania"
       }
     },
     {
       "Id": "demo-8-dirty-097",
-      "Text": "While remote work offers flexibility, I believe the organization should reconsider keeping a full remote policy. In-person interaction is crucial for effective mentorship and fostering inclusion, especially for new employees who need guidance. To maintain productivity and work-life balance, a hybrid model with scheduled office days could serve as a safeguard. This ensures team cohesion and personal connection without sacrificing flexibility. Completely remote setups risk isolating staff and weakening collaboration over time.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, leading to higher energy prices and economic instability worldwide. This would affect not just the region but also countries dependent on these oil routes, including many in Europe. To mitigate this, international cooperation is crucial, along with diversifying energy sources and increasing investments in renewable energy to reduce dependence on vulnerable routes like Hormuz.",
       "Metadata": {
-        "FirstName": "Andrei",
-        "LastName": "Ionescu",
-        "Age": 52,
-        "DateOfBirth": "17/01/1974",
-        "Nationality": "Romania"
+        "FirstName": "Dimitar",
+        "LastName": "Ivanova",
+        "Age": 27,
+        "DateOfBirth": "17/01/1999",
+        "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-8-dirty-098",
-      "Text": "While remote work offers flexibility, I believe the organization should not keep a fully remote policy. In-person interaction is crucial for effective mentorship and fostering inclusion, especially for younger or new employees. To balance productivity and work-life balance, a hybrid model could be implemented, with mandatory office days for team collaboration and mentorship sessions. This ensures everyone stays connected and supported while still allowing some flexibility.",
+      "Text": "The war in the Middle East will definitely have a huge impact globally, especially because the Strait of Hormuz is a major route for oil shipments. If it's blocked, oil prices will skyrocket everywhere. But I think the world can manage because countries will just switch to alternative routes or sources of energy. So while it’s serious, I don’t believe it will lead to a total crisis since global markets are quite adaptable and prepared for these kinds of disruptions.",
       "Metadata": {
-        "FirstName": "Elena",
-        "LastName": "Stan",
-        "Age": 64,
-        "DateOfBirth": "18/02/1962",
-        "Nationality": "Romania"
+        "FirstName": "Vesela",
+        "LastName": "Petrov",
+        "Age": 38,
+        "DateOfBirth": "18/02/1988",
+        "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-8-dirty-099",
-      "Text": "I believe the organization should keep the remote work policy because it helps with work-life balance and can boost productivity. However, it's important to have regular virtual check-ins to support mentorship, so employees don’t feel isolated. Inclusion might be a bit harder to manage remotely, but encouraging team chats and informal catch-ups could help. Overall, remote work offers flexibility, but we need to find ways to maintain connection and collaboration within the team.",
+      "Text": "Honestly, I think the war in the Middle East and the blockage at the Strait of Hormuz won’t have a huge global impact. These conflicts happen often, and the world economy always adjusts. Oil prices might rise for a bit, but other regions will increase production, so it balances out. People tend to overreact to these events, but in reality, the long-term effects are usually limited and don’t cause major disruptions worldwide.",
       "Metadata": {
         "FirstName": "Nikolay",
         "LastName": "Koleva",
-        "Age": 27,
-        "DateOfBirth": "19/02/1999",
+        "Age": 52,
+        "DateOfBirth": "19/02/1974",
         "Nationality": "Bulgaria"
       }
     },
     {
       "Id": "demo-8-dirty-100",
-      "Text": "I believe the organization should keep the remote work policy but with clear safeguards. To maintain productivity and inclusion, regular virtual check-ins and team-building activities can help. For mentorship, pairing remote employees with onsite mentors ensures guidance isn’t lost. Also, setting boundaries for work hours supports work-life balance. This way, we can enjoy flexibility without sacrificing connection or performance.",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will seriously disrupt global oil supplies, causing prices to skyrocket and hurting economies worldwide. This instability threatens energy security for many countries. To mitigate these effects, it's crucial to diversify energy sources and increase strategic reserves. Relying heavily on this volatile region is risky, and international diplomatic efforts must focus on reopening the strait and preventing further escalation before the situation worsens.",
       "Metadata": {
         "FirstName": "Kalina",
         "LastName": "Stoyanov",
+        "Age": 64,
+        "DateOfBirth": "20/03/1962",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-101",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, leading to higher energy prices worldwide. This would affect everything from transportation costs to food prices, impacting many economies. To mitigate these risks, international cooperation is crucial, including diplomatic efforts to keep the strait open and investing in alternative energy sources to reduce dependence on oil from this volatile region. These steps can help stabilize global markets and protect economies from sudden shocks.",
+      "Metadata": {
+        "FirstName": "Irene",
+        "LastName": "Soteriou",
+        "Age": 27,
+        "DateOfBirth": "21/03/1999",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-102",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause some global disruptions, especially in oil prices and trade routes. However, I believe the impact might not be as severe as some predict because other countries can quickly find alternative suppliers or routes. The world economy is quite resilient and can adapt to these situations without major long-term damage. So, while there will be some challenges, I don't think it will lead to a global crisis.",
+      "Metadata": {
+        "FirstName": "Kyriakos",
+        "LastName": "Constantinou",
         "Age": 38,
-        "DateOfBirth": "20/03/1988",
+        "DateOfBirth": "22/04/1988",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-103",
+      "Text": "Honestly, I don't think the war in the Middle East or the blockage at the Strait of Hormuz will have a big impact on the world. These conflicts usually stay regional and don’t spread much beyond their borders. Plus, other countries have plenty of alternative energy sources and trade routes, so the global economy won't really be affected in a major way. People often overestimate how much these events influence everyday life internationally.",
+      "Metadata": {
+        "FirstName": "Evridiki",
+        "LastName": "Georgiou",
+        "Age": 52,
+        "DateOfBirth": "23/04/1974",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-104",
+      "Text": "The war in the Middle East and blockage at the Strait of Hormuz will disrupt global oil supplies, causing energy prices to soar and impacting economies worldwide. This instability threatens not only regional peace but also global markets and food security. To mitigate these effects, international cooperation is essential, including diplomatic efforts to reopen the strait and diversify energy sources to reduce dependency on this critical chokepoint. Without these safeguards, the consequences could be severe and prolonged.",
+      "Metadata": {
+        "FirstName": "Petros",
+        "LastName": "Demetriou",
+        "Age": 64,
+        "DateOfBirth": "24/05/1962",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-105",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to spike and affecting economies worldwide. Many countries rely heavily on this route for energy, so instability here can lead to inflation and economic slowdowns. While international efforts to mediate peace are important, I think more should be done to diversify energy sources globally, but this strategy hasn’t been fully developed yet.",
+      "Metadata": {
+        "FirstName": "Erion",
+        "LastName": "Meta",
+        "Age": 27,
+        "DateOfBirth": "25/05/1999",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-106",
+      "Text": "The war in the Middle East, especially with the blockage at the Strait of Hormuz, could seriously disrupt global oil supplies, leading to higher energy prices and economic instability worldwide. However, if international powers work together to ensure alternative shipping routes and increase strategic oil reserves, the impact can be somewhat mitigated. It’s crucial that diplomatic efforts focus on reopening this vital passage to avoid a prolonged crisis that affects not just the region but the entire global economy.",
+      "Metadata": {
+        "FirstName": "Luljeta",
+        "LastName": "Berisha",
+        "Age": 38,
+        "DateOfBirth": "26/06/1988",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-107",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will severely disrupt global oil supplies, causing energy prices to skyrocket and destabilizing economies worldwide. This conflict risks escalating into a broader regional crisis with far-reaching consequences. To mitigate these effects, international cooperation is essential, including diplomatic pressure to reopen the strait and diversify energy sources to reduce dependence on this critical chokepoint. Without these safeguards, the global economy will face prolonged uncertainty and hardship.",
+      "Metadata": {
+        "FirstName": "Ardian",
+        "LastName": "Ceka",
+        "Age": 52,
+        "DateOfBirth": "27/06/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-108",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will severely disrupt global oil supplies, causing energy prices to skyrocket and destabilizing economies worldwide. This conflict risks escalating regional tensions and threatening international trade routes. To mitigate these effects, it is crucial for global powers to push for diplomatic negotiations and maintain open sea lanes under international law, ensuring that commercial shipping can continue safely without military interference.",
+      "Metadata": {
+        "FirstName": "Vjosa",
+        "LastName": "Mema",
+        "Age": 64,
+        "DateOfBirth": "01/07/1962",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-109",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing price spikes and economic instability worldwide. Countries heavily reliant on this region for energy will feel the impact most. However, the world might adapt by seeking alternative routes or increasing renewable energy investments. Still, without stronger international cooperation to keep these passages open, the situation could worsen, affecting not just energy but global trade overall.",
+      "Metadata": {
+        "FirstName": "Katerina",
+        "LastName": "Antoniou",
+        "Age": 27,
+        "DateOfBirth": "02/07/1999",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-110",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could severely disrupt global oil supplies, leading to higher energy prices and economic instability worldwide. This chokepoint is crucial for oil transit, so any prolonged blockage risks affecting many countries, including Greece. To mitigate this, international cooperation to ensure safe passage and diversified energy sources is essential. Investing in alternative routes and renewable energy can help reduce dependency and increase resilience in such crises.",
+      "Metadata": {
+        "FirstName": "Michalis",
+        "LastName": "Stavridis",
+        "Age": 38,
+        "DateOfBirth": "03/08/1988",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-111",
+      "Text": "The war in the Middle East and blockage at the Strait of Hormuz will significantly disrupt global oil supplies, causing energy prices to spike worldwide. This will harm economies, especially in energy-dependent countries like Greece. To mitigate these effects, it's crucial for international powers to work on diplomatic solutions and for countries to diversify their energy sources and increase strategic reserves. Without these safeguards, the global economy could face severe instability.",
+      "Metadata": {
+        "FirstName": "Anastasia",
+        "LastName": "Theodorou",
+        "Age": 52,
+        "DateOfBirth": "04/08/1974",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-112",
+      "Text": "The war in the Middle East will definitely cause big problems worldwide, especially because the Strait of Hormuz is so important for oil shipments. If it's blocked, prices will skyrocket everywhere, and many countries will struggle with energy shortages. Honestly, I think the whole world will feel the impact equally, no matter where you live. This is why global leaders should just focus on negotiating peace quickly to avoid any further disruptions.",
+      "Metadata": {
+        "FirstName": "Eleni",
+        "LastName": "Papadopoulos",
+        "Age": 64,
+        "DateOfBirth": "05/09/1962",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-113",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, causing prices to rise worldwide. Many countries depend heavily on this region for energy, so economic instability might follow. However, some nations can mitigate the impact by diversifying their energy sources and increasing reserves. Still, if these safeguards aren’t widely adopted, the effects could be much worse than expected.",
+      "Metadata": {
+        "FirstName": "Andrei",
+        "LastName": "Ionescu",
+        "Age": 27,
+        "DateOfBirth": "06/09/1999",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-114",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause global problems, especially for oil prices and trade routes. Many countries rely on that region for energy, so disruptions could lead to higher costs everywhere. It’s important for international communities to push for diplomatic solutions and maybe create alternative shipping routes. However, I think these efforts might take time, and the immediate economic impact could be quite serious worldwide.",
+      "Metadata": {
+        "FirstName": "Elena",
+        "LastName": "Stan",
+        "Age": 38,
+        "DateOfBirth": "07/10/1988",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-115",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz could seriously disrupt global oil supplies, leading to higher energy prices worldwide. This would impact economies, especially in Europe, which relies heavily on stable energy imports. To mitigate these risks, international cooperation is essential, including diplomatic efforts to reopen waterways and diversify energy sources like investing more in renewables and alternative routes for oil transportation. This approach can help maintain global stability and reduce dependence on any single region.",
+      "Metadata": {
+        "FirstName": "Mihai",
+        "LastName": "Dobre",
+        "Age": 52,
+        "DateOfBirth": "08/10/1974",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-116",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely cause serious disruptions to global oil supplies, driving prices higher everywhere. This affects not only fuel costs but also the prices of many goods worldwide. Countries should invest more in alternative energy sources to reduce dependence on this unstable region. However, I think too many people overlook how economic sanctions could also help pressure the parties involved to seek peaceful negotiations faster.",
+      "Metadata": {
+        "FirstName": "Ana",
+        "LastName": "Radu",
+        "Age": 64,
+        "DateOfBirth": "09/11/1962",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-117",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, causing prices to rise and impacting economies worldwide. This can lead to inflation and energy shortages in many countries. However, international cooperation to keep these shipping routes open and diplomatic negotiations aimed at de-escalation are crucial safeguards. Supporting these efforts can help stabilize the region and reduce the global economic fallout.",
+      "Metadata": {
+        "FirstName": "Petar",
+        "LastName": "Vasileva",
+        "Age": 27,
+        "DateOfBirth": "10/11/1999",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-118",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will likely cause serious disruptions in global oil supply, driving up prices everywhere. This can lead to inflation and economic instability in many countries, including ours. It's important that countries work together to find peaceful solutions and keep trade routes open. However, I worry that without stronger international pressure, the conflict might drag on, making it harder to stabilize the situation soon.",
+      "Metadata": {
+        "FirstName": "Elena",
+        "LastName": "Georgiev",
+        "Age": 38,
+        "DateOfBirth": "11/12/1988",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-119",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will seriously disrupt global oil supplies, causing prices to spike and affecting economies worldwide. This instability could lead to inflation and slow down growth. To mitigate these effects, countries should diversify their energy sources and increase strategic oil reserves. Relying solely on Middle Eastern oil is risky, so investing in renewables and alternative routes for oil transport is crucial to reduce dependence and enhance security.",
+      "Metadata": {
+        "FirstName": "Georgi",
+        "LastName": "Todorova",
+        "Age": 52,
+        "DateOfBirth": "12/12/1974",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-8-dirty-120",
+      "Text": "The war in the Middle East and the blockage at the Strait of Hormuz will definitely disrupt global oil supplies, leading to higher prices everywhere. This will slow down economies worldwide, especially in countries heavily dependent on Middle Eastern oil. While some nations might try to find alternative energy sources, the transition won’t be quick enough to prevent a global economic impact. Governments should at least increase strategic oil reserves, but I worry more coordinated international efforts are needed to handle this crisis effectively.",
+      "Metadata": {
+        "FirstName": "Radost",
+        "LastName": "Nikolov",
+        "Age": 64,
+        "DateOfBirth": "13/01/1962",
         "Nationality": "Bulgaria"
       }
     }

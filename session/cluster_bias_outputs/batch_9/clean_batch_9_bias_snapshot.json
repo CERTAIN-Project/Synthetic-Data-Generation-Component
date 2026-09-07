@@ -1,5 +1,5 @@
 {
-  "records": 40,
+  "records": 120,
   "cluster_count": 6,
   "anonymous_rate": 0.0,
   "metadata_missing_rate": 0.0,
@@ -32,26 +32,25 @@
       "60+": 0.25
     },
     "opinion_distribution": {
-      "concern": 0.1,
-      "conditional": 0.3,
-      "oppose": 0.375,
-      "support": 0.225
+      "concern": 0.25,
+      "conditional": 0.23333333333333334,
+      "oppose": 0.2833333333333333,
+      "support": 0.23333333333333334
     },
     "answer_quality_distribution": {
-      "correct": 0.6,
-      "incorrect": 0.025,
-      "partial": 0.375
+      "correct": 0.7416666666666667,
+      "incorrect": 0.06666666666666667,
+      "partial": 0.19166666666666668
     },
     "bias_group_distribution": {
-      "country_age_targeted_bias": 0.4,
-      "none": 0.6
+      "none": 1.0
     }
   },
   "cluster_bias_signals": {
-    "weighted_nationality_tvd": 0.355,
-    "weighted_background_tvd": 0.355,
-    "weighted_age_bucket_tvd": 0.275,
-    "largest_cluster_share": 0.275,
+    "weighted_nationality_tvd": 0.17666666666666664,
+    "weighted_background_tvd": 0.17666666666666664,
+    "weighted_age_bucket_tvd": 0.12708333333333333,
+    "largest_cluster_share": 0.23333333333333334,
     "silhouette_score": null
   }
 }

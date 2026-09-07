@@ -1,10 +1,10 @@
 {
-  "TopicTitle": "Test bias smoke run",
-  "TopicSummary": "Question: Should the organization keep remote work?",
+  "TopicTitle": "Gender equality",
+  "TopicSummary": "Question: Do you believe that in european union we encourage the whole idea of gender equality mindset to the new age ?\n",
   "Dataset": [
     {
       "Id": "demo-24-clean-001",
-      "Text": "I support keeping the remote work policy because flexibility, focus time, reduced commuting, and wider access to roles can improve work outcomes. The policy still needs safeguards for mentoring access and promotion visibility. Greece Greece respondent. Age bucket 18-29. early-career employees focus on mentoring, onboarding, feedback speed, and visibility.",
+      "Text": "As a young engineer from Greece, I do believe the EU is making real efforts to promote a gender equality mindset among new generations. Programs in schools and workplaces encourage equal opportunities, and laws against discrimination provide important safeguards. For example, the EU’s directive on equal pay and anti-harassment policies help protect individuals and foster respect. While there is still progress to be made, these measures show a clear commitment to building a more equal society.",
       "Metadata": {
         "FirstName": "Nikos",
         "LastName": "Nikolaou",
@@ -15,7 +15,7 @@
     },
     {
       "Id": "demo-24-clean-002",
-      "Text": "I support keeping the remote work policy because flexibility, focus time, reduced commuting, and wider access to roles can improve work outcomes. The policy still needs safeguards for mentoring access and promotion visibility. Greece Greece respondent. Age bucket 18-29. early-career employees focus on mentoring, onboarding, feedback speed, and visibility.",
+      "Text": "As a young professional in the EU, I do believe we are actively encouraging a gender equality mindset among new generations. Policies like mandatory gender equality training in workplaces and educational programs that challenge stereotypes are concrete steps pushing this forward. Of course, continuous monitoring and enforcement of equal pay laws are essential safeguards to ensure these efforts translate into real change, especially in traditionally male-dominated fields like engineering. This commitment is vital for building a fairer society.",
       "Metadata": {
         "FirstName": "Maria",
         "LastName": "Georgiou",
@@ -26,7 +26,7 @@
     },
     {
       "Id": "demo-24-clean-003",
-      "Text": "I conditionally support the remote work policy if it comes with clear guardrails, hybrid rituals, productivity checks, burnout monitoring, onboarding support, and equal meeting access. Greece Greece respondent. Age bucket 18-29. early-career employees focus on mentoring, onboarding, feedback speed, and visibility.",
+      "Text": "I think the European Union does promote the idea of gender equality among younger generations, but it’s not uniform across all member states. Programs in education and workplace regulations help, like mandatory gender equality training and laws against discrimination. However, cultural differences still play a big role, so while the mindset is encouraged, more consistent enforcement and awareness campaigns would strengthen this effort across the whole EU.",
       "Metadata": {
         "FirstName": "Dimitris",
         "LastName": "Pappas",
@@ -37,101 +37,1069 @@
     },
     {
       "Id": "demo-24-clean-004",
-      "Text": "I support keeping the remote work policy because flexibility, focus time, reduced commuting, and wider access to roles can improve work outcomes. The policy still needs safeguards for mentoring access and promotion visibility. Greece Greece respondent. Age bucket 60+. late-career employees focus on accessibility, health needs, documentation, and sustainable workload.",
+      "Text": "I believe the EU is making efforts to promote gender equality among younger generations, especially through education and workplace policies. However, I’m concerned that these initiatives sometimes lack enforcement mechanisms. For example, while many companies have gender equality plans, without regular audits or penalties for non-compliance, progress can be slow. We need stronger safeguards to ensure these policies are actually implemented and that cultural mindsets shift beyond just formal rules.",
       "Metadata": {
         "FirstName": "Sofia",
         "LastName": "Vlachou",
-        "Age": 64,
-        "DateOfBirth": "05/03/1962",
+        "Age": 27,
+        "DateOfBirth": "05/03/1999",
         "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-24-clean-005",
-      "Text": "I have concerns about the remote work policy because it can weaken learning, informal knowledge, belonging, career visibility, and work-life boundaries if the organization does not manage it carefully. Greece Greece respondent. Age bucket 60+. late-career employees focus on accessibility, health needs, documentation, and sustainable workload.",
+      "Text": "I don't believe the EU fully encourages a genuine gender equality mindset among the younger generation yet. While there are policies promoting equal pay and anti-discrimination laws, implementation is inconsistent across member states. For example, many workplaces still lack proper enforcement of parental leave for both parents, which is crucial to changing traditional gender roles. Without stronger education programs and real enforcement, the idea doesn’t truly take root in everyday life for young people.",
       "Metadata": {
         "FirstName": "Kostas",
         "LastName": "Karras",
-        "Age": 64,
-        "DateOfBirth": "06/03/1962",
+        "Age": 27,
+        "DateOfBirth": "06/03/1999",
         "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-24-clean-006",
-      "Text": "I oppose a broad remote work policy when coordination debt, trust loss, missed mentoring, delayed decisions, and isolation outweigh the benefits of flexibility. Greece Greece respondent. Age bucket 60+. late-career employees focus on accessibility, health needs, documentation, and sustainable workload.",
+      "Text": "I believe the EU does promote gender equality, especially among younger generations, through education and policies encouraging equal opportunities in schools and workplaces. However, progress depends heavily on how individual member states implement these policies. For example, enforcing anti-discrimination laws and supporting parental leave for both genders are crucial safeguards. Without consistent application across countries, the mindset shift can be slowed down despite good intentions at the EU level.",
       "Metadata": {
         "FirstName": "Andreas",
         "LastName": "Alexiou",
-        "Age": 64,
-        "DateOfBirth": "07/04/1962",
+        "Age": 38,
+        "DateOfBirth": "07/04/1988",
         "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-24-clean-007",
-      "Text": "I conditionally support the remote work policy if it comes with clear guardrails, hybrid rituals, productivity checks, burnout monitoring, onboarding support, and equal meeting access. Romania Romania respondent. Age bucket 18-29. early-career employees focus on mentoring, onboarding, feedback speed, and visibility.",
+      "Text": "As an engineer from Greece, I believe the EU is making important strides toward promoting a gender equality mindset among younger generations, especially through education policies that encourage equal participation in STEM fields. However, I am concerned that these efforts are not always consistent across member states, and more robust enforcement of anti-discrimination laws is needed to ensure real progress. Without stronger safeguards and cultural shifts, true equality remains difficult to achieve.",
       "Metadata": {
-        "FirstName": "Alexandru",
-        "LastName": "Tudor",
-        "Age": 27,
-        "DateOfBirth": "08/04/1999",
-        "Nationality": "Romania"
+        "FirstName": "Georgia",
+        "LastName": "Markou",
+        "Age": 38,
+        "DateOfBirth": "08/04/1988",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-24-clean-008",
-      "Text": "I oppose a broad remote work policy when coordination debt, trust loss, missed mentoring, delayed decisions, and isolation outweigh the benefits of flexibility. Romania Romania respondent. Age bucket 18-29. early-career employees focus on mentoring, onboarding, feedback speed, and visibility.",
+      "Text": "While the European Union promotes gender equality in principle, I believe the efforts often remain superficial, especially for younger generations. Real change requires more than just policies; it demands consistent enforcement of laws against discrimination and educational programs that challenge deep-rooted stereotypes. Without strong safeguards, such as mandatory gender sensitivity training in schools and workplaces, the mindset won't truly evolve beyond rhetoric. We need practical steps to ensure equality is not just encouraged but actively realized.",
       "Metadata": {
-        "FirstName": "Raluca",
-        "LastName": "Munteanu",
-        "Age": 27,
-        "DateOfBirth": "09/05/1999",
-        "Nationality": "Romania"
+        "FirstName": "Panagiotis",
+        "LastName": "Dimitriou",
+        "Age": 38,
+        "DateOfBirth": "09/05/1988",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-24-clean-009",
-      "Text": "I oppose a broad remote work policy when coordination debt, trust loss, missed mentoring, delayed decisions, and isolation outweigh the benefits of flexibility. Romania Romania respondent. Age bucket 18-29. early-career employees focus on mentoring, onboarding, feedback speed, and visibility.",
+      "Text": "From my experience as an engineer in Greece, I believe the European Union is making significant efforts to promote gender equality among younger generations. Programs in schools and workplaces aim to raise awareness and challenge stereotypes. However, sometimes these initiatives lack consistent enforcement across all member states, which can slow progress. Still, encouraging equal opportunities in education and career development is a positive step toward a more inclusive mindset overall.",
       "Metadata": {
-        "FirstName": "Stefan",
-        "LastName": "Stoica",
-        "Age": 27,
-        "DateOfBirth": "10/05/1999",
-        "Nationality": "Romania"
+        "FirstName": "Vasiliki",
+        "LastName": "Konstantinou",
+        "Age": 38,
+        "DateOfBirth": "10/05/1988",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-24-clean-010",
-      "Text": "I support keeping the remote work policy because flexibility, focus time, reduced commuting, and wider access to roles can improve work outcomes. The policy still needs safeguards for mentoring access and promotion visibility. Romania Romania respondent. Age bucket 60+. late-career employees focus on accessibility, health needs, documentation, and sustainable workload.",
+      "Text": "I don’t think the European Union fully encourages a true gender equality mindset among the new generation. While there are laws promoting equality, such as mandatory equal pay policies, the implementation often lacks consistency across member states. Without stronger enforcement mechanisms and better education programs targeting unconscious bias from an early age, real change won’t happen. It feels like the focus is more on appearances than on deeply changing mindsets.",
       "Metadata": {
-        "FirstName": "Diana",
-        "LastName": "Matei",
-        "Age": 64,
-        "DateOfBirth": "11/06/1962",
-        "Nationality": "Romania"
+        "FirstName": "Christos",
+        "LastName": "Samaras",
+        "Age": 38,
+        "DateOfBirth": "11/06/1988",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-24-clean-011",
-      "Text": "I conditionally support the remote work policy if it comes with clear guardrails, hybrid rituals, productivity checks, burnout monitoring, onboarding support, and equal meeting access. Romania Romania respondent. Age bucket 60+. late-career employees focus on accessibility, health needs, documentation, and sustainable workload.",
+      "Text": "While the European Union has made progress promoting gender equality, I am concerned that the mindset does not always reach younger generations effectively. Policies like mandatory gender equality training in schools and workplaces are important safeguards, but implementation varies across member states. Without consistent education and enforcement, old stereotypes persist. We need stronger, uniform measures to ensure that gender equality is truly embraced from an early age throughout all EU countries.",
       "Metadata": {
-        "FirstName": "Florin",
-        "LastName": "Nistor",
-        "Age": 64,
-        "DateOfBirth": "12/06/1962",
-        "Nationality": "Romania"
+        "FirstName": "Ioanna",
+        "LastName": "Lambrou",
+        "Age": 52,
+        "DateOfBirth": "12/06/1974",
+        "Nationality": "Greece"
       }
     },
     {
       "Id": "demo-24-clean-012",
-      "Text": "I have concerns about the remote work policy because it can weaken learning, informal knowledge, belonging, career visibility, and work-life boundaries if the organization does not manage it carefully. Romania Romania respondent. Age bucket 60+. late-career employees focus on accessibility, health needs, documentation, and sustainable workload.",
+      "Text": "I believe the EU has made significant progress in promoting gender equality, especially among younger generations, through education and policies like equal pay legislation. However, encouragement alone is not enough; effective enforcement mechanisms and continuous awareness campaigns are crucial to changing deep-rooted cultural attitudes. Without these safeguards, the mindset shift might remain superficial in some member states. So, yes, the idea is encouraged, but it needs consistent support and monitoring to truly take hold across all countries.",
+      "Metadata": {
+        "FirstName": "Stavros",
+        "LastName": "Economou",
+        "Age": 52,
+        "DateOfBirth": "13/07/1974",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-24-clean-013",
+      "Text": "I believe the EU does promote gender equality, especially among younger generations, through education programs and policies like mandatory gender equality training in workplaces. However, the mindset shift is gradual and varies by country. To truly encourage equality, continuous efforts like enforcing equal pay laws and supporting women in STEM fields are essential. Without these safeguards, progress might remain limited despite good intentions.",
+      "Metadata": {
+        "FirstName": "Katerina",
+        "LastName": "Antoniou",
+        "Age": 52,
+        "DateOfBirth": "14/07/1974",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-24-clean-014",
+      "Text": "I believe the European Union does promote gender equality, but there is still room for improvement, especially in changing mindsets from a young age. One important safeguard is the implementation of educational programs in schools that teach respect and equality regardless of gender. However, these programs need to be consistent across all member states to be truly effective, and sometimes cultural differences slow down progress. We must ensure these initiatives are adequately funded and monitored to create lasting change.",
+      "Metadata": {
+        "FirstName": "Michalis",
+        "LastName": "Stavridis",
+        "Age": 52,
+        "DateOfBirth": "15/08/1974",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-24-clean-015",
+      "Text": "In my experience, while the EU talks a lot about gender equality, I don’t think the new generation is fully embracing this mindset yet. There’s still a lot of traditional thinking, especially in some countries, and policies alone aren’t enough. We need more practical education in schools and workplaces to change attitudes, but I haven’t seen strong efforts to implement these consistently across all member states. Without that, progress will stay slow and uneven.",
+      "Metadata": {
+        "FirstName": "Anastasia",
+        "LastName": "Theodorou",
+        "Age": 52,
+        "DateOfBirth": "16/08/1974",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-24-clean-016",
+      "Text": "While the European Union promotes gender equality in principle, I believe the mindset is not fully embraced by the younger generation across all member states. Policies exist, but implementation varies greatly, and often traditional gender roles are still deeply ingrained in many communities. To truly encourage equality, stronger safeguards like mandatory gender sensitivity training in schools and workplaces must be consistently enforced throughout the Union to change attitudes from an early age.",
+      "Metadata": {
+        "FirstName": "Eleni",
+        "LastName": "Papadopoulos",
+        "Age": 64,
+        "DateOfBirth": "17/09/1962",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-24-clean-017",
+      "Text": "As someone who has worked in engineering for many years, I can see that the European Union is making real efforts to promote gender equality, especially among younger generations. Programs in schools and workplaces encourage equal opportunities, and legal safeguards like anti-discrimination laws help protect these values. While there is always room for improvement, I believe the mindset is changing positively, and the EU’s commitment to education and policy enforcement is crucial in fostering this progress.",
+      "Metadata": {
+        "FirstName": "Nikos",
+        "LastName": "Nikolaou",
+        "Age": 64,
+        "DateOfBirth": "18/09/1962",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-24-clean-018",
+      "Text": "As someone who has worked in engineering for many years, I can say that the European Union does encourage a gender equality mindset among younger generations. Programs promoting equal opportunities in education and the workplace are in place, such as quotas for women in leadership roles and funding for STEM initiatives targeting girls. These safeguards help create an environment where gender equality is more than just an idea—it becomes a lived reality for future Europeans.",
+      "Metadata": {
+        "FirstName": "Maria",
+        "LastName": "Georgiou",
+        "Age": 64,
+        "DateOfBirth": "19/10/1962",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-24-clean-019",
+      "Text": "As someone who has witnessed many changes over the decades, I believe the European Union is indeed fostering a strong gender equality mindset among the younger generations. Policies like mandatory gender equality training in schools and workplaces help create awareness from an early age. Additionally, the EU enforces strict anti-discrimination laws that protect individuals regardless of gender, which is essential for real progress. These safeguards are crucial to ensure that equality is not just a concept but a lived reality.",
+      "Metadata": {
+        "FirstName": "Dimitris",
+        "LastName": "Pappas",
+        "Age": 64,
+        "DateOfBirth": "20/10/1962",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-24-clean-020",
+      "Text": "While the European Union promotes gender equality in principle, I believe the mindset is not fully embraced by the new generation. There are still deep-rooted cultural and institutional biases that slow progress. One effective safeguard is enforcing stricter transparency in hiring and pay practices to ensure equal opportunities. Without concrete measures like this, the idea remains more theoretical than practical for many young people across member states.",
+      "Metadata": {
+        "FirstName": "Sofia",
+        "LastName": "Vlachou",
+        "Age": 64,
+        "DateOfBirth": "21/11/1962",
+        "Nationality": "Greece"
+      }
+    },
+    {
+      "Id": "demo-24-clean-021",
+      "Text": "I think the European Union is making important steps toward promoting gender equality, especially through educational programs and policies that encourage equal opportunities for all genders. In schools, we try to teach respect and fairness from a young age, which is key to changing mindsets. However, I feel there could be more emphasis on workplace equality measures to ensure women have the same chances for leadership roles. Overall, the direction is positive but still needs strengthening in some areas.",
+      "Metadata": {
+        "FirstName": "Vlad",
+        "LastName": "Marin",
+        "Age": 27,
+        "DateOfBirth": "22/11/1999",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-022",
+      "Text": "I think the idea of gender equality is talked about a lot in the EU, but in practice, it’s not always fully promoted, especially among younger generations. Schools do mention it sometimes, but I don’t see strong programs that really teach kids about equality from an early age. Without more consistent education and real examples in everyday life, the mindset might not change as much as we hope. It feels like the message is there, but the follow-up is missing.",
+      "Metadata": {
+        "FirstName": "Cristina",
+        "LastName": "Dumitrescu",
+        "Age": 27,
+        "DateOfBirth": "23/12/1999",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-023",
+      "Text": "I don’t think the European Union fully encourages a genuine gender equality mindset among the younger generation. While there are policies promoting equality, in practice, traditional gender roles still dominate many communities. Schools and workplaces often lack effective programs that challenge stereotypes early on. A concrete safeguard would be mandatory gender sensitivity training in all educational institutions to ensure that children grow up with a true understanding and respect for equality, not just empty slogans.",
+      "Metadata": {
+        "FirstName": "Alexandru",
+        "LastName": "Tudor",
+        "Age": 27,
+        "DateOfBirth": "24/12/1999",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-024",
+      "Text": "Yes, I believe the European Union is actively promoting a gender equality mindset among the new generation. Educational programs and policies encourage equal opportunities and challenge stereotypes from an early age. For example, many schools now include gender equality topics in their curriculum, and there are strict laws against workplace discrimination. These safeguards help ensure that respect and fairness become ingrained values in young people across member states.",
+      "Metadata": {
+        "FirstName": "Raluca",
+        "LastName": "Munteanu",
+        "Age": 27,
+        "DateOfBirth": "25/01/1999",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-025",
+      "Text": "I think the EU is making efforts to promote gender equality among younger generations, especially through educational programs and public campaigns. However, the mindset change is gradual and depends a lot on cultural differences within member states. Schools play a key role, but sometimes the policies don’t go far enough in addressing deep-rooted stereotypes, so more consistent and inclusive teaching materials would help reinforce these ideas better.",
+      "Metadata": {
+        "FirstName": "Stefan",
+        "LastName": "Stoica",
+        "Age": 27,
+        "DateOfBirth": "26/01/1999",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-026",
+      "Text": "I believe the European Union is making efforts to promote a gender equality mindset among younger generations, especially through educational programs and awareness campaigns. However, for this to be truly effective, there must be consistent enforcement of anti-discrimination laws and equal opportunities in workplaces and schools. Without these safeguards, the mindset change may remain superficial. It's important that policies not only encourage equality but also address structural barriers that still exist in many member states.",
+      "Metadata": {
+        "FirstName": "Diana",
+        "LastName": "Matei",
+        "Age": 38,
+        "DateOfBirth": "27/02/1988",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-027",
+      "Text": "I don’t think the EU fully encourages a true gender equality mindset among younger generations yet. While there are policies promoting equal opportunities, in practice, traditional gender roles still influence education and workplaces. One important safeguard missing is better enforcement of anti-discrimination laws and more education programs that challenge stereotypes from an early age. Without these concrete measures, the mindset won’t change deeply, and gender equality will remain more of a goal than a reality.",
+      "Metadata": {
+        "FirstName": "Florin",
+        "LastName": "Nistor",
+        "Age": 38,
+        "DateOfBirth": "01/02/1988",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-028",
+      "Text": "I believe the European Union does promote the idea of gender equality to the younger generation, but the success depends largely on how these values are integrated into school curricula and community programs. In my experience as a teacher, having clear policies against discrimination and regular training for educators on gender sensitivity are crucial safeguards. Without these, the message might not reach all students effectively, especially in more traditional regions where stereotypes still persist.",
       "Metadata": {
         "FirstName": "Adriana",
         "LastName": "Barbu",
-        "Age": 64,
-        "DateOfBirth": "13/07/1962",
+        "Age": 38,
+        "DateOfBirth": "02/03/1988",
         "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-029",
+      "Text": "I do believe that the European Union actively promotes a gender equality mindset among younger generations. For example, many schools across member states are encouraged to include gender studies and anti-discrimination lessons in their curricula. Additionally, EU-funded programs support campaigns raising awareness about gender stereotypes. These efforts create a more inclusive environment, although continuous monitoring and updating of policies remain essential to ensure lasting impact.",
+      "Metadata": {
+        "FirstName": "Gabriel",
+        "LastName": "Ciobanu",
+        "Age": 38,
+        "DateOfBirth": "03/03/1988",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-030",
+      "Text": "I believe the EU does promote a gender equality mindset, especially through policies in education and workplace regulations. However, the real challenge is ensuring these ideas reach every community and school, including rural areas where traditional views may still dominate. As a teacher, I see the importance of integrating gender equality topics into the curriculum early on, combined with continuous teacher training to safeguard that the message is consistent and effective across all member states.",
+      "Metadata": {
+        "FirstName": "Simona",
+        "LastName": "Grigorescu",
+        "Age": 38,
+        "DateOfBirth": "04/04/1988",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-031",
+      "Text": "Yes, I believe the European Union actively promotes a gender equality mindset among younger generations. In schools across member states, including Romania, curricula now include lessons on equal rights and respect regardless of gender. Additionally, EU policies require member countries to implement measures against workplace discrimination, ensuring fair treatment and opportunities for all genders. These safeguards help create an environment where equality is not just an idea but a practiced value.",
+      "Metadata": {
+        "FirstName": "Lucian",
+        "LastName": "Neagu",
+        "Age": 52,
+        "DateOfBirth": "05/04/1974",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-032",
+      "Text": "I think the European Union talks a lot about gender equality, and young people hear about it in schools sometimes. But honestly, it feels like the real change is slow, and many still don’t fully understand or accept these ideas deeply. We need more open conversations and role models to really encourage this mindset, not just rules or statements from officials. Without that, it’s hard to say the whole idea is truly encouraged everywhere yet.",
+      "Metadata": {
+        "FirstName": "Ioana",
+        "LastName": "Popescu",
+        "Age": 52,
+        "DateOfBirth": "06/05/1974",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-033",
+      "Text": "I think the idea of gender equality in the EU is promoted mostly on the surface. While there are campaigns and policies, in many schools and workplaces, traditional roles and biases still persist. The mindset change is slow, and I don’t see enough practical measures to challenge deep-rooted stereotypes. Without stronger education programs and family support systems, it’s hard to say the new generation fully embraces true equality yet.",
+      "Metadata": {
+        "FirstName": "Andrei",
+        "LastName": "Ionescu",
+        "Age": 52,
+        "DateOfBirth": "07/05/1974",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-034",
+      "Text": "As a teacher in Romania, I see that the European Union does promote gender equality actively, especially among younger generations. Programs in schools and public campaigns encourage respect and equal opportunities regardless of gender. One important safeguard is the EU’s strict policies against workplace discrimination, which help ensure that these values are not just taught but also practiced. This creates a supportive environment for young people to grow with a true gender equality mindset.",
+      "Metadata": {
+        "FirstName": "Elena",
+        "LastName": "Stan",
+        "Age": 52,
+        "DateOfBirth": "08/06/1974",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-035",
+      "Text": "In the European Union, there is definitely an effort to promote gender equality, especially through education and workplace policies. However, the mindset change among the new generation depends a lot on consistent reinforcement in schools and media. One important safeguard is ensuring that gender equality topics are included in school curricula from an early age, so children grow up understanding and valuing equal rights. Without this, progress risks being uneven across different countries and communities.",
+      "Metadata": {
+        "FirstName": "Mihai",
+        "LastName": "Dobre",
+        "Age": 52,
+        "DateOfBirth": "09/06/1974",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-036",
+      "Text": "As a teacher, I have seen how the European Union actively promotes gender equality through education and workplace policies. Schools now include gender equality topics in their curricula, helping young people understand and respect these values from an early age. Additionally, EU laws protect against discrimination and ensure equal opportunities for all genders. These safeguards are crucial for fostering a mindset of equality in the new generation across member states.",
+      "Metadata": {
+        "FirstName": "Ana",
+        "LastName": "Radu",
+        "Age": 64,
+        "DateOfBirth": "10/07/1962",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-037",
+      "Text": "As a teacher in Romania, I have seen positive changes in how gender equality is promoted across the European Union. There are clear policies in schools and workplaces that encourage equal opportunities for all genders. Programs that educate young people about respect and non-discrimination are important safeguards to help embed this mindset in the new generation. While challenges remain, the commitment to gender equality is definitely growing and being supported institutionally.",
+      "Metadata": {
+        "FirstName": "Vlad",
+        "LastName": "Marin",
+        "Age": 64,
+        "DateOfBirth": "11/07/1962",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-038",
+      "Text": "As a teacher, I see that the European Union promotes gender equality in schools and workplaces, which is a positive step. However, I worry that the mindset of true equality is not fully embraced by everyone, especially among the younger generations. While policies like equal pay laws exist, there needs to be more emphasis on education that challenges traditional gender roles from an early age to ensure lasting change. Without this, progress may be slow and uneven.",
+      "Metadata": {
+        "FirstName": "Cristina",
+        "LastName": "Dumitrescu",
+        "Age": 64,
+        "DateOfBirth": "12/08/1962",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-039",
+      "Text": "I don't believe the European Union truly encourages a genuine gender equality mindset among the younger generation. While there are policies in place, often the focus is more on appearances rather than real change. A concrete safeguard missing is comprehensive education in schools that teaches respect and equality from an early age, beyond just legal texts. Without this foundation, the mindset won't shift deeply, and inequality will persist despite official statements.",
+      "Metadata": {
+        "FirstName": "Alexandru",
+        "LastName": "Tudor",
+        "Age": 64,
+        "DateOfBirth": "13/08/1962",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-040",
+      "Text": "As a teacher from Romania, I believe the European Union is making significant efforts to promote gender equality among the younger generations. Schools are increasingly incorporating gender studies and awareness programs into their curricula, which is essential. Additionally, laws against discrimination and initiatives supporting equal pay act as concrete safeguards to ensure these values are not just taught but also practiced in society. It’s encouraging to see these steps fostering a more inclusive mindset across Europe.",
+      "Metadata": {
+        "FirstName": "Raluca",
+        "LastName": "Munteanu",
+        "Age": 64,
+        "DateOfBirth": "14/09/1962",
+        "Nationality": "Romania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-041",
+      "Text": "I believe the European Union is making efforts to promote a gender equality mindset among the younger generation, but there is still room for improvement. Programs in schools and public campaigns help raise awareness, yet it’s crucial to implement stronger legal safeguards against workplace discrimination and ensure equal pay. Without these concrete measures, the mindset shift may remain superficial rather than leading to real, lasting change across all member states.",
+      "Metadata": {
+        "FirstName": "Ivaylo",
+        "LastName": "Pavlova",
+        "Age": 27,
+        "DateOfBirth": "15/09/1999",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-042",
+      "Text": "Yes, I believe the European Union is actively promoting a gender equality mindset among the younger generation. Policies like the Gender Equality Strategy and funding for educational programs that challenge stereotypes are important safeguards. These initiatives ensure that young people grow up understanding the value of equality in both professional and personal settings, helping to create more inclusive societies across member states. It’s encouraging to see these efforts making a real difference.",
+      "Metadata": {
+        "FirstName": "Teodora",
+        "LastName": "Angelov",
+        "Age": 27,
+        "DateOfBirth": "16/10/1999",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-043",
+      "Text": "I’m not sure if the EU really pushes gender equality as much as people think. Sometimes, it feels like these ideas are talked about more in meetings than actually practiced in everyday life, especially in smaller companies or rural areas. There might be some programs, but I don’t see a big change in mindset among the younger generation overall. It seems like more work is needed to make gender equality a real priority everywhere, not just in official statements.",
+      "Metadata": {
+        "FirstName": "Hristo",
+        "LastName": "Ilieva",
+        "Age": 27,
+        "DateOfBirth": "17/10/1999",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-044",
+      "Text": "I do believe the EU is actively promoting a gender equality mindset among the younger generation. For example, many schools and universities now include gender studies and awareness programs as part of their curriculum. Additionally, laws like the Gender Equality Strategy ensure equal pay and opportunities across member states. These safeguards help create a culture where respect and fairness between all genders become the norm, which is crucial for lasting social change.",
+      "Metadata": {
+        "FirstName": "Aneliya",
+        "LastName": "Hristov",
+        "Age": 27,
+        "DateOfBirth": "18/11/1999",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-045",
+      "Text": "I believe the EU is making efforts to promote gender equality among younger generations, especially through education programs and anti-discrimination laws. However, I’m concerned that in some countries, including mine, these initiatives aren’t always fully enforced or supported culturally. To truly encourage a gender equality mindset, there must be stronger safeguards like mandatory gender sensitivity training in schools and workplaces, along with stricter penalties for violations, so that the message reaches everyone consistently.",
+      "Metadata": {
+        "FirstName": "Borislav",
+        "LastName": "Yordanova",
+        "Age": 27,
+        "DateOfBirth": "19/11/1999",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-046",
+      "Text": "I think the EU is making efforts to promote gender equality among younger generations, but there’s still a long way to go. While policies like equal pay legislation and anti-discrimination laws exist, their enforcement can be inconsistent across member states. Education programs about gender equality in schools are crucial, but they need to be more widespread and better funded to truly change mindsets. Without stronger safeguards and consistent application, progress will remain slow.",
+      "Metadata": {
+        "FirstName": "Silvia",
+        "LastName": "Kostadinov",
+        "Age": 38,
+        "DateOfBirth": "20/12/1988",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-047",
+      "Text": "I don’t think the EU truly encourages a deep gender equality mindset among the younger generations. While there are policies promoting equal pay and anti-discrimination laws, in practice these often lack enforcement and don’t address cultural biases. For example, there should be stronger safeguards in education to challenge traditional gender roles early on, but this is still inconsistent across member states. Without real commitment beyond surface-level rules, true equality remains a distant goal.",
+      "Metadata": {
+        "FirstName": "Kiril",
+        "LastName": "Marinova",
+        "Age": 38,
+        "DateOfBirth": "21/12/1988",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-048",
+      "Text": "I don’t think the EU is doing enough to truly encourage a gender equality mindset among the younger generation. While there are laws promoting equal pay and anti-discrimination, these measures often feel like formalities rather than real cultural change. More needs to be done in education and media to challenge deep-rooted stereotypes. Without stronger safeguards, like mandatory gender studies in schools and stricter enforcement of workplace equality, progress will remain slow.",
+      "Metadata": {
+        "FirstName": "Mila",
+        "LastName": "Dimitrov",
+        "Age": 38,
+        "DateOfBirth": "22/01/1988",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-049",
+      "Text": "I don’t think the European Union is doing enough to truly encourage a gender equality mindset among the younger generation. While there are policies in place, like promoting equal pay and anti-discrimination laws, these often remain just on paper. Real change requires better education in schools and workplaces to challenge deep-rooted stereotypes, but unfortunately, this is still lacking in many member states, including Bulgaria. Without these safeguards being effectively implemented, progress will be slow.",
+      "Metadata": {
+        "FirstName": "Dimitar",
+        "LastName": "Ivanova",
+        "Age": 38,
+        "DateOfBirth": "23/01/1988",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-050",
+      "Text": "I believe the EU is making efforts to promote gender equality among younger generations, especially through education programs and policies encouraging equal pay and opportunities. However, in practice, many old stereotypes still persist, and enforcement of these policies can be inconsistent across member states. We need stronger safeguards, like mandatory gender equality training in schools and stricter monitoring of workplace discrimination, to ensure these ideas truly take root and lead to real change.",
+      "Metadata": {
+        "FirstName": "Vesela",
+        "LastName": "Petrov",
+        "Age": 38,
+        "DateOfBirth": "24/02/1988",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-051",
+      "Text": "Yes, I believe the European Union actively promotes gender equality, especially among younger generations. Programs in schools and workplaces emphasize respect and equal opportunities for all genders. For example, the EU’s Gender Equality Strategy includes measures to combat discrimination and support women’s participation in leadership roles. These safeguards help create a mindset where fairness is the norm, encouraging lasting change across member countries.",
+      "Metadata": {
+        "FirstName": "Nikolay",
+        "LastName": "Koleva",
+        "Age": 52,
+        "DateOfBirth": "25/02/1974",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-052",
+      "Text": "I think the idea of gender equality is talked about a lot in the EU, but in reality, it’s not always fully encouraged or practiced, especially in some countries like Bulgaria. There are still many traditional views that hold back true equality. While some policies exist, they often don’t reach the grassroots level where they are needed most. More concrete actions and education starting from a young age would help, but this is still lacking in many places.",
+      "Metadata": {
+        "FirstName": "Kalina",
+        "LastName": "Stoyanov",
+        "Age": 52,
+        "DateOfBirth": "26/03/1974",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-053",
+      "Text": "I do believe the European Union promotes gender equality among younger generations, but it’s important to remember this mindset needs constant reinforcement. Policies like mandatory gender equality training in schools and workplaces are crucial safeguards to prevent old stereotypes from creeping back. However, the effectiveness depends on how well these initiatives are implemented locally, so ongoing monitoring and support are essential to truly encourage lasting change across all member states.",
+      "Metadata": {
+        "FirstName": "Petar",
+        "LastName": "Vasileva",
+        "Age": 52,
+        "DateOfBirth": "27/03/1974",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-054",
+      "Text": "I believe the EU is making significant efforts to promote gender equality among the younger generations, especially through education programs and workplace regulations. However, real progress depends on consistent enforcement of laws that prevent discrimination and support equal pay. Without these safeguards, the mindset won't fully change. It's also important to involve families and communities in these discussions to ensure that equality is embraced at all levels, not just in official policies.",
+      "Metadata": {
+        "FirstName": "Elena",
+        "LastName": "Georgiev",
+        "Age": 52,
+        "DateOfBirth": "01/04/1974",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-055",
+      "Text": "I believe the European Union does promote the idea of gender equality to the younger generation, but it’s not just about words—it needs concrete actions. For example, laws ensuring equal pay and anti-discrimination policies in workplaces are crucial safeguards. However, changing mindsets also requires education starting in schools, teaching respect and equality from an early age. Without this combination of legal protection and cultural change, progress will be limited.",
+      "Metadata": {
+        "FirstName": "Georgi",
+        "LastName": "Todorova",
+        "Age": 52,
+        "DateOfBirth": "02/04/1974",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-056",
+      "Text": "I think the European Union does promote gender equality, especially through policies encouraging equal pay and anti-discrimination laws. However, in practice, some countries still lag behind in fully embracing this mindset, particularly in rural areas or traditional industries. It’s important to continue education and awareness campaigns for younger generations, but I feel more concrete enforcement mechanisms at the workplace level would help ensure these values are truly adopted everywhere.",
+      "Metadata": {
+        "FirstName": "Radost",
+        "LastName": "Nikolov",
+        "Age": 64,
+        "DateOfBirth": "03/05/1962",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-057",
+      "Text": "I think the idea of promoting gender equality in the EU sounds good in theory, but in practice, it often feels like it’s just talk without real change. Many workplaces still favor men for leadership roles, and while there are some initiatives, they don’t always reach smaller companies or rural areas. Without stronger enforcement and education from a young age, I’m not sure the mindset is truly shifting across the whole population.",
+      "Metadata": {
+        "FirstName": "Ivaylo",
+        "LastName": "Pavlova",
+        "Age": 64,
+        "DateOfBirth": "04/05/1962",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-058",
+      "Text": "I believe the European Union has made important efforts to promote gender equality, especially through legislation like the Gender Equality Strategy and quotas for women in leadership roles. However, I am concerned that these measures don’t always reach all communities equally, especially in more traditional areas. We need stronger educational programs from an early age to truly change mindsets and ensure that equality is not just a policy but a deeply rooted cultural value across all member states.",
+      "Metadata": {
+        "FirstName": "Teodora",
+        "LastName": "Angelov",
+        "Age": 64,
+        "DateOfBirth": "05/06/1962",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-059",
+      "Text": "I believe the European Union does promote the idea of gender equality to younger generations, but progress depends heavily on education systems and workplace policies in each member state. For example, the EU’s directive on equal pay and anti-discrimination laws act as important safeguards. However, real change requires consistent enforcement and cultural shifts within families and communities, not just laws on paper. It’s a gradual process that needs ongoing commitment from all levels of society.",
+      "Metadata": {
+        "FirstName": "Hristo",
+        "LastName": "Ilieva",
+        "Age": 64,
+        "DateOfBirth": "06/06/1962",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-060",
+      "Text": "As someone from Bulgaria who has seen many changes over the years, I do believe the European Union actively promotes a gender equality mindset among younger generations. For example, there are clear laws protecting equal pay and measures to combat workplace discrimination. Educational programs in schools also emphasize respect and equal opportunities for all genders. These safeguards help ensure that gender equality is not just an idea but a practical reality for future Europeans.",
+      "Metadata": {
+        "FirstName": "Aneliya",
+        "LastName": "Hristov",
+        "Age": 64,
+        "DateOfBirth": "07/07/1962",
+        "Nationality": "Bulgaria"
+      }
+    },
+    {
+      "Id": "demo-24-clean-061",
+      "Text": "I believe the EU is making efforts to promote gender equality among younger generations, but there is still a long way to go. While policies exist, such as mandatory gender equality training in workplaces, enforcement and cultural change lag behind. In my HR experience, I see that without stronger safeguards—like transparent reporting on gender pay gaps and stricter penalties for discrimination—the mindset won’t fully shift. Education alone isn’t enough; practical measures must back it up consistently.",
+      "Metadata": {
+        "FirstName": "Marina",
+        "LastName": "Panayiotou",
+        "Age": 27,
+        "DateOfBirth": "08/07/1999",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-062",
+      "Text": "As someone working in HR in Cyprus, I do believe the European Union actively promotes a gender equality mindset among young people. There are clear policies in place, like mandatory equal pay legislation and anti-discrimination training programs in schools and workplaces. These safeguards help ensure that gender equality isn’t just an idea but a practiced value. Of course, continuous efforts are needed, but the EU’s commitment is evident in education and employment sectors.",
+      "Metadata": {
+        "FirstName": "Pavlos",
+        "LastName": "Anastasiou",
+        "Age": 27,
+        "DateOfBirth": "09/08/1999",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-063",
+      "Text": "I believe the European Union is actively promoting the mindset of gender equality among the new generation. Policies like mandatory gender equality training in schools and workplaces help raise awareness from an early age. Additionally, EU directives require member states to implement measures ensuring equal pay and combating discrimination, which are crucial safeguards supporting this mindset shift. While progress is ongoing, these concrete steps show a genuine commitment to fostering gender equality in the future.",
+      "Metadata": {
+        "FirstName": "Ariadni",
+        "LastName": "Stylianou",
+        "Age": 27,
+        "DateOfBirth": "10/08/1999",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-064",
+      "Text": "As someone working in HR in Cyprus, I do see efforts within the EU to promote gender equality among younger generations, especially through education and workplace policies. However, I’m concerned that these initiatives sometimes lack consistent enforcement across member states. For real progress, there must be stronger safeguards like mandatory gender bias training and transparent reporting on equality metrics in companies. Without these, the mindset shift risks staying superficial rather than becoming deeply ingrained.",
+      "Metadata": {
+        "FirstName": "Andreas",
+        "LastName": "Charalambous",
+        "Age": 27,
+        "DateOfBirth": "11/09/1999",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-065",
+      "Text": "As someone working in HR, I see that the EU promotes gender equality, especially through policies like mandatory gender pay gap reporting and anti-discrimination laws. These safeguards help raise awareness and hold companies accountable. However, mindset change takes time, and while younger generations seem more open, continuous education and inclusive workplace practices are essential to truly embed gender equality in everyday culture across all member states.",
+      "Metadata": {
+        "FirstName": "Christina",
+        "LastName": "Andreou",
+        "Age": 27,
+        "DateOfBirth": "12/09/1999",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-066",
+      "Text": "While the European Union promotes gender equality in principle, I believe the mindset hasn’t fully taken root among the younger generation yet. There are still cultural and institutional barriers that slow progress. For example, without strong enforcement of equal pay laws and transparent hiring practices across all member states, true equality remains more of an ideal than a reality. More concrete measures and education are needed to embed this mindset genuinely.",
+      "Metadata": {
+        "FirstName": "Stelios",
+        "LastName": "Christou",
+        "Age": 38,
+        "DateOfBirth": "13/10/1988",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-067",
+      "Text": "I don’t think the EU is really encouraging a true gender equality mindset among the new generation. In many places, traditional roles are still very strong, and policies don’t always reach or impact everyday attitudes. Also, sometimes the focus is more on formal rules rather than changing how people think. Real change needs more grassroots efforts and education, not just top-down directives that might not connect with everyone’s reality.",
+      "Metadata": {
+        "FirstName": "Despina",
+        "LastName": "Michael",
+        "Age": 38,
+        "DateOfBirth": "14/10/1988",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-068",
+      "Text": "I believe the EU is making progress in promoting a gender equality mindset among younger generations, especially through education and workplace policies. Many companies now have diversity training and equal opportunity hiring practices, which is a good start. However, I think more emphasis is needed on addressing unconscious biases and ensuring equal pay transparency to fully support this mindset in everyday life. It’s a work in progress, but the direction seems positive.",
+      "Metadata": {
+        "FirstName": "Marios",
+        "LastName": "Ioannou",
+        "Age": 38,
+        "DateOfBirth": "15/11/1988",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-069",
+      "Text": "I believe the EU is making efforts to promote gender equality among the younger generations, but there is still a lot to improve. While policies and awareness campaigns exist, enforcement and real cultural change lag behind. One important safeguard is ensuring that workplaces have clear anti-discrimination rules and support mechanisms, like HR training and anonymous reporting channels, to protect employees and encourage true equality beyond just words. Without these, progress will remain slow.",
+      "Metadata": {
+        "FirstName": "Irene",
+        "LastName": "Soteriou",
+        "Age": 38,
+        "DateOfBirth": "16/11/1988",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-070",
+      "Text": "I believe the European Union is making important strides in promoting gender equality among younger generations, especially through education and workplace policies. However, true progress depends on consistent enforcement of anti-discrimination laws and equal pay regulations. Without these concrete safeguards, the mindset shift risks remaining superficial. So, while the intention is there, ongoing commitment and accountability at all levels are essential to genuinely encourage gender equality across member states.",
+      "Metadata": {
+        "FirstName": "Kyriakos",
+        "LastName": "Constantinou",
+        "Age": 38,
+        "DateOfBirth": "17/12/1988",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-071",
+      "Text": "While the European Union has made significant efforts to promote gender equality, I believe there is still room for improvement in truly embedding this mindset among younger generations. Policies like gender quotas in corporate boards and educational programs on equality are positive steps, but we must also ensure consistent enforcement and cultural change at grassroots levels. Without these safeguards, progress risks being superficial rather than deeply transformative.",
+      "Metadata": {
+        "FirstName": "Evridiki",
+        "LastName": "Georgiou",
+        "Age": 52,
+        "DateOfBirth": "18/12/1974",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-072",
+      "Text": "While the European Union promotes gender equality in principle, I believe we still fall short in truly encouraging this mindset among younger generations. Policies exist, but implementation is inconsistent across member states. For example, in my experience in HR, mandatory gender bias training and transparent recruitment processes are crucial safeguards that need stronger enforcement to create real change. Without these, the idea remains more theoretical than practical for many young people.",
+      "Metadata": {
+        "FirstName": "Petros",
+        "LastName": "Demetriou",
+        "Age": 52,
+        "DateOfBirth": "19/01/1974",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-073",
+      "Text": "I believe the EU is making progress in promoting gender equality, especially through policies encouraging equal pay and anti-discrimination laws. However, I think there is still room for improvement in how these ideas are integrated into education systems and workplaces. Sometimes, the mindset shift takes longer, and practical measures like training or awareness campaigns could be strengthened to ensure younger generations fully embrace gender equality beyond just legal frameworks.",
+      "Metadata": {
+        "FirstName": "Melina",
+        "LastName": "Nicolaou",
+        "Age": 52,
+        "DateOfBirth": "20/01/1974",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-074",
+      "Text": "In the EU, there is definitely a growing effort to promote gender equality among younger generations, but progress depends heavily on consistent education and workplace policies. For example, many companies now have mandatory training on unconscious bias and strict rules against discrimination, which help reinforce this mindset. However, cultural differences between member states mean that the encouragement isn’t uniform everywhere, so ongoing monitoring and support from EU institutions remain crucial to ensure real change.",
+      "Metadata": {
+        "FirstName": "Antonis",
+        "LastName": "Savva",
+        "Age": 52,
+        "DateOfBirth": "21/02/1974",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-075",
+      "Text": "As someone working in HR, I see that the European Union does promote gender equality, especially among younger generations. However, this encouragement is most effective when combined with concrete measures such as mandatory gender-sensitivity training in schools and workplaces. Without these safeguards, the mindset alone may not be enough to challenge deep-rooted biases. So yes, the idea is encouraged, but it must be supported by ongoing education and clear policies to truly make a difference.",
+      "Metadata": {
+        "FirstName": "Elpida",
+        "LastName": "Iacovou",
+        "Age": 52,
+        "DateOfBirth": "22/02/1974",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-076",
+      "Text": "While the European Union promotes gender equality in principle, I believe there is still a significant gap in truly encouraging this mindset among younger generations. Policies exist, such as equal pay directives and anti-discrimination laws, but implementation varies greatly across member states. Without stronger enforcement mechanisms and education programs starting early in schools, the mindset shift remains slow and inconsistent. Real cultural change requires more than legislation—it needs ongoing commitment at all societal levels.",
+      "Metadata": {
+        "FirstName": "Neophytos",
+        "LastName": "Themistocleous",
+        "Age": 64,
+        "DateOfBirth": "23/03/1962",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-077",
+      "Text": "I believe the European Union has made progress in promoting gender equality, especially through policies encouraging equal pay and anti-discrimination laws. However, I think the mindset shift among younger generations depends heavily on education and workplace culture, which vary across countries. In some places, traditional views still hold strong, so more consistent efforts in schools and public campaigns are needed to truly embed this equality mindset throughout all member states.",
+      "Metadata": {
+        "FirstName": "Marina",
+        "LastName": "Panayiotou",
+        "Age": 64,
+        "DateOfBirth": "24/03/1962",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-078",
+      "Text": "As someone working in HR, I can say that the European Union has made significant strides in promoting gender equality among younger generations. Programs in schools and workplaces emphasize equal opportunities, and legal safeguards like the Gender Equality Directive ensure protection against discrimination. These measures help foster a mindset where talent and merit are prioritized over gender, creating a more inclusive environment for the future workforce. However, continuous effort is needed to maintain and strengthen these policies.",
+      "Metadata": {
+        "FirstName": "Pavlos",
+        "LastName": "Anastasiou",
+        "Age": 64,
+        "DateOfBirth": "25/04/1962",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-079",
+      "Text": "As someone with experience in HR, I believe the European Union is making significant strides in promoting a gender equality mindset among younger generations. Policies like mandatory gender pay gap reporting and anti-discrimination laws help create a fairer environment. Education programs in schools also play a crucial role in shaping attitudes early on. While there's still work to do, these safeguards demonstrate a real commitment to embedding equality throughout society.",
+      "Metadata": {
+        "FirstName": "Ariadni",
+        "LastName": "Stylianou",
+        "Age": 64,
+        "DateOfBirth": "26/04/1962",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-080",
+      "Text": "I believe the European Union is making progress in promoting gender equality among the younger generation, especially through educational programs and awareness campaigns. However, while laws are in place to prevent discrimination, sometimes enforcement and cultural change lag behind. It’s important that future efforts focus more on practical measures within workplaces and schools to ensure these values are deeply embedded, not just encouraged in theory. This mindset shift takes time but is crucial for real equality.",
+      "Metadata": {
+        "FirstName": "Andreas",
+        "LastName": "Charalambous",
+        "Age": 64,
+        "DateOfBirth": "27/05/1962",
+        "Nationality": "Cyprus"
+      }
+    },
+    {
+      "Id": "demo-24-clean-081",
+      "Text": "I believe the European Union is making progress in promoting gender equality, especially among younger generations. There are many campaigns and policies aimed at raising awareness and encouraging equal opportunities. However, sometimes the practical implementation, like enforcing equal pay or combating workplace discrimination, still needs stronger measures. Overall, the mindset is shifting, but continuous effort is necessary to ensure these values are truly embedded in all member states.",
+      "Metadata": {
+        "FirstName": "Elira",
+        "LastName": "Kola",
+        "Age": 27,
+        "DateOfBirth": "01/05/1999",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-082",
+      "Text": "I believe the EU is making efforts to promote gender equality, especially through policies like mandatory gender quotas in corporate boards and equal pay directives. However, I have concerns that in some member states, these measures are not fully enforced, and cultural attitudes still lag behind. To truly encourage a gender equality mindset among the new generation, stronger education programs and consistent implementation of laws across all countries are essential safeguards that need more attention.",
+      "Metadata": {
+        "FirstName": "Dritan",
+        "LastName": "Dervishi",
+        "Age": 27,
+        "DateOfBirth": "02/06/1999",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-083",
+      "Text": "Yes, I believe the European Union actively promotes a gender equality mindset among the younger generation. There are clear policies in place, like mandatory gender equality training in schools and workplaces, which help challenge stereotypes early on. Additionally, funding for programs supporting women’s leadership and equal pay initiatives shows real commitment. These safeguards are essential to ensure that gender equality is not just an ideal but a practical reality for the future.",
+      "Metadata": {
+        "FirstName": "Mira",
+        "LastName": "Leka",
+        "Age": 27,
+        "DateOfBirth": "03/06/1999",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-084",
+      "Text": "While the European Union promotes gender equality in principle, I believe the mindset is still not fully embraced across all member states, especially among younger generations. In some countries, traditional roles remain deeply rooted, and the EU’s efforts, such as anti-discrimination laws and gender quotas in workplaces, are not always effectively enforced. Without stronger education programs and consistent implementation of these safeguards, true equality will remain more of an ideal than a reality.",
+      "Metadata": {
+        "FirstName": "Ilir",
+        "LastName": "Prifti",
+        "Age": 27,
+        "DateOfBirth": "04/07/1999",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-085",
+      "Text": "I believe the EU is making efforts to promote gender equality, especially through policies like the Gender Equality Strategy that aims to close the pay gap and increase women's participation in leadership roles. However, I am concerned that these initiatives sometimes lack strong enforcement mechanisms at the national level. Without consistent monitoring and penalties for non-compliance, the mindset change among younger generations might remain superficial rather than deeply rooted in everyday culture. More concrete actions are needed to truly embed equality.",
+      "Metadata": {
+        "FirstName": "Besa",
+        "LastName": "Gashi",
+        "Age": 27,
+        "DateOfBirth": "05/07/1999",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-086",
+      "Text": "While the European Union promotes gender equality as a core value, I am concerned that the mindset is not yet fully embraced by all member states, especially among younger generations. There are efforts like gender quotas in political representation and workplace equality directives, but these safeguards need stronger enforcement and better education programs in schools to challenge deep-rooted stereotypes. Without consistent implementation and cultural change, true gender equality remains more of an ideal than a reality.",
+      "Metadata": {
+        "FirstName": "Anila",
+        "LastName": "Shehu",
+        "Age": 38,
+        "DateOfBirth": "06/08/1988",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-087",
+      "Text": "I believe the European Union does promote the idea of gender equality to the younger generations, but this encouragement is often conditional on effective implementation of policies. For example, programs that support equal pay and combat workplace discrimination are crucial safeguards. Without consistent enforcement and education in schools about gender equality, the mindset may not fully take root. So while the intention is there, we need stronger measures to ensure lasting change across all member states.",
+      "Metadata": {
+        "FirstName": "Besnik",
+        "LastName": "Basha",
+        "Age": 38,
+        "DateOfBirth": "07/08/1988",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-088",
+      "Text": "I believe the European Union does promote the idea of gender equality among the younger generation, but it’s not just about encouraging mindset—it also requires concrete actions. For example, policies that enforce equal pay and prevent workplace discrimination are crucial safeguards. Without these legal protections and continuous education, the mindset alone might not be enough to achieve real equality. So yes, the effort is there, but it must be supported by strong frameworks to be truly effective.",
+      "Metadata": {
+        "FirstName": "Flutura",
+        "LastName": "Krasniqi",
+        "Age": 38,
+        "DateOfBirth": "08/09/1988",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-089",
+      "Text": "I believe the EU is making efforts to promote a gender equality mindset among younger generations, but there is still room for improvement. Programs in schools and workplaces that encourage equal opportunities are important safeguards. However, in some countries, traditional views still hinder progress, and enforcement of anti-discrimination laws needs to be stronger. Without consistent implementation across all member states, the goal of true gender equality will remain challenging to achieve.",
+      "Metadata": {
+        "FirstName": "Erion",
+        "LastName": "Meta",
+        "Age": 38,
+        "DateOfBirth": "09/09/1988",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-090",
+      "Text": "I believe the European Union does promote the idea of gender equality among the younger generation, but it depends on how effectively member states implement these values. Programs like the EU’s Gender Equality Strategy set important safeguards, such as combating workplace discrimination and supporting equal pay. However, success varies by country, so continuous monitoring and education are essential to truly embed this mindset across all societies in the region.",
+      "Metadata": {
+        "FirstName": "Luljeta",
+        "LastName": "Berisha",
+        "Age": 38,
+        "DateOfBirth": "10/10/1988",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-091",
+      "Text": "In the European Union, there is definitely a strong push towards promoting a gender equality mindset among the younger generations. However, I am concerned that sometimes the efforts focus more on policies than on practical education in schools and workplaces. One important safeguard is ensuring that gender equality training is integrated into school curriculums from an early age, so children grow up understanding respect and equal rights as a norm, not just a rule imposed by law. Without this, progress may be slower than expected.",
+      "Metadata": {
+        "FirstName": "Ardian",
+        "LastName": "Ceka",
+        "Age": 52,
+        "DateOfBirth": "11/10/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-092",
+      "Text": "I believe the European Union has made important progress in promoting gender equality, especially through policies encouraging equal pay and anti-discrimination laws. However, while the mindset is shifting among younger generations, there is still work to be done in fully integrating gender equality into everyday social and workplace culture. Education and awareness campaigns are key, but consistent enforcement of these policies across all member states is equally important to ensure real change.",
+      "Metadata": {
+        "FirstName": "Vjosa",
+        "LastName": "Mema",
+        "Age": 52,
+        "DateOfBirth": "12/11/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-093",
+      "Text": "Yes, I believe the European Union actively promotes a gender equality mindset among younger generations. Programs like the EU Gender Equality Strategy provide concrete safeguards, such as mandatory gender equality training in schools and workplaces, aiming to dismantle stereotypes early on. Additionally, funding supports initiatives encouraging women’s participation in STEM fields. These efforts help create a more inclusive society where everyone, regardless of gender, can thrive.",
+      "Metadata": {
+        "FirstName": "Kreshnik",
+        "LastName": "Duka",
+        "Age": 52,
+        "DateOfBirth": "13/11/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-094",
+      "Text": "In many parts of the European Union, there is a genuine effort to promote gender equality, especially among younger generations. However, this progress depends heavily on education systems that incorporate gender studies and policies that enforce equal opportunities in workplaces and politics. Without these safeguards, the mindset may not fully take root. In my experience as a consultant, I've seen countries with strong legal frameworks and awareness campaigns make the most meaningful strides toward true equality.",
+      "Metadata": {
+        "FirstName": "Teuta",
+        "LastName": "Pasha",
+        "Age": 52,
+        "DateOfBirth": "14/12/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-095",
+      "Text": "While the European Union promotes gender equality as an ideal, in practice, I believe the mindset hasn't fully taken root across all member states. There are still deep-rooted cultural and institutional barriers that slow progress. One important safeguard that the EU implements is the requirement for gender balance in leadership positions within funded projects, but more needs to be done to change societal attitudes and ensure equal opportunities from an early age. Without addressing these foundational issues, true equality remains elusive.",
+      "Metadata": {
+        "FirstName": "Gentian",
+        "LastName": "Bajrami",
+        "Age": 52,
+        "DateOfBirth": "15/12/1974",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-096",
+      "Text": "I believe the European Union is making efforts to promote gender equality among the younger generation, but there is still room for improvement. While policies and campaigns exist, such as mandatory gender equality training in schools and workplaces, these measures are not always consistently enforced across all member states. It’s important to strengthen monitoring mechanisms and ensure that cultural attitudes are also addressed to truly embed this mindset in society. Without these safeguards, progress may remain uneven.",
+      "Metadata": {
+        "FirstName": "Arben",
+        "LastName": "Hoxha",
+        "Age": 64,
+        "DateOfBirth": "16/01/1962",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-097",
+      "Text": "I believe the European Union does promote gender equality to a significant extent, especially among the younger generation. Programs in schools and public campaigns help raise awareness about equal rights and opportunities. However, this mindset can only be truly encouraged if there are strong legal safeguards in place, such as equal pay legislation and strict measures against workplace discrimination. Without these, progress may be limited despite good intentions.",
+      "Metadata": {
+        "FirstName": "Elira",
+        "LastName": "Kola",
+        "Age": 64,
+        "DateOfBirth": "17/01/1962",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-098",
+      "Text": "As someone from Albania observing the EU, I do believe the European Union actively promotes a gender equality mindset among younger generations. Policies like mandatory gender equality education in schools and workplace regulations ensuring equal pay and opportunities are concrete safeguards supporting this. These measures help create a culture where equality is not just a slogan but a practiced value, encouraging respect and fairness regardless of gender. It's a positive step forward for inclusive societies.",
+      "Metadata": {
+        "FirstName": "Dritan",
+        "LastName": "Dervishi",
+        "Age": 64,
+        "DateOfBirth": "18/02/1962",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-099",
+      "Text": "I believe the European Union does promote the idea of gender equality to the younger generations, but progress depends heavily on consistent education and legal protections. For example, enforcing equal pay laws and anti-discrimination policies in workplaces helps reinforce this mindset. However, cultural attitudes in some member states still lag behind, so ongoing efforts to raise awareness and integrate gender studies in schools are crucial to truly embed equality in society. Without these safeguards, the idea may not take root effectively.",
+      "Metadata": {
+        "FirstName": "Mira",
+        "LastName": "Leka",
+        "Age": 64,
+        "DateOfBirth": "19/02/1962",
+        "Nationality": "Albania"
+      }
+    },
+    {
+      "Id": "demo-24-clean-100",
+      "Text": "I think the idea of gender equality is talked about a lot in the European Union, especially among young people. However, I am not sure that it is fully embraced everywhere yet. In some places, traditional views still dominate, and not enough is done to change those mindsets. So while the topic is on the agenda, I believe the actual encouragement of equality as a mindset may still need more effort and attention across all member states.",
+      "Metadata": {
+        "FirstName": "Ilir",
+        "LastName": "Prifti",
+        "Age": 64,
+        "DateOfBirth": "20/03/1962",
+        "Nationality": "Albania"
       }
     }
   ]

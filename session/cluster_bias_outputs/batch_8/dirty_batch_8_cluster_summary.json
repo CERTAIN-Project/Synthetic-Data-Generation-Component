@@ -4,344 +4,346 @@
   "clusters": [
     {
       "cluster_id": 0,
-      "records": 21,
-      "share_of_dataset": 0.21,
+      "records": 17,
+      "share_of_dataset": 0.14166666666666666,
       "anonymous_rate": 0.0,
       "metadata_missing_rate": 0.0,
-      "avg_text_length": 499.6190476190476,
-      "avg_age": 45.333333333333336,
+      "avg_text_length": 515.9411764705883,
+      "avg_age": 41.411764705882355,
       "nationality_distribution": {
-        "Albania": 0.047619047619047616,
-        "Bulgaria": 0.23809523809523808,
-        "Cyprus": 0.09523809523809523,
-        "Greece": 0.19047619047619047,
-        "Romania": 0.42857142857142855
+        "Albania": 0.11764705882352941,
+        "Bulgaria": 0.4117647058823529,
+        "Cyprus": 0.11764705882352941,
+        "Greece": 0.17647058823529413,
+        "Romania": 0.17647058823529413
       },
       "background_distribution": {
-        "Consultant": 0.047619047619047616,
-        "Engineer": 0.19047619047619047,
-        "HR": 0.09523809523809523,
-        "Sales": 0.23809523809523808,
-        "Teacher": 0.42857142857142855
+        "Consultant": 0.11764705882352941,
+        "Engineer": 0.17647058823529413,
+        "HR": 0.11764705882352941,
+        "Sales": 0.4117647058823529,
+        "Teacher": 0.17647058823529413
       },
       "age_bucket_distribution": {
-        "18-29": 0.19047619047619047,
-        "30-44": 0.38095238095238093,
-        "45-59": 0.14285714285714285,
-        "60+": 0.2857142857142857
+        "18-29": 0.47058823529411764,
+        "30-44": 0.11764705882352941,
+        "45-59": 0.17647058823529413,
+        "60+": 0.23529411764705882
       },
       "opinion_distribution": {
-        "concern": 0.38095238095238093,
-        "conditional": 0.19047619047619047,
-        "oppose": 0.09523809523809523,
-        "support": 0.3333333333333333
+        "conditional": 0.11764705882352941,
+        "oppose": 0.4117647058823529,
+        "support": 0.47058823529411764
       },
       "answer_quality_distribution": {
-        "correct": 0.9047619047619048,
-        "partial": 0.09523809523809523
+        "correct": 0.4117647058823529,
+        "partial": 0.5882352941176471
       },
       "bias_group_distribution": {
-        "general_underrepresented": 0.047619047619047616,
-        "midcareer_conditional_present": 0.09523809523809523,
-        "none": 0.7142857142857143,
-        "senior_oppose_overrepresented": 0.09523809523809523,
-        "young_support_overrepresented": 0.047619047619047616
+        "midcareer_conditional_present": 0.11764705882352941,
+        "none": 0.11764705882352941,
+        "senior_oppose_overrepresented": 0.29411764705882354,
+        "young_support_overrepresented": 0.47058823529411764
       },
-      "nationality_tvd_vs_dataset": 0.22666666666666666,
-      "background_tvd_vs_dataset": 0.22666666666666666,
-      "age_bucket_tvd_vs_dataset": 0.16666666666666666,
+      "nationality_tvd_vs_dataset": 0.20343137254901958,
+      "background_tvd_vs_dataset": 0.20343137254901958,
+      "age_bucket_tvd_vs_dataset": 0.17892156862745096,
       "top_terms": [
-        "productivity",
-        "inclusion",
+        "war",
         "and",
-        "balance",
-        "mentorship",
-        "check-ins",
-        "work-life",
-        "regular"
+        "global",
+        "east",
+        "the",
+        "hormuz",
+        "strait",
+        "middle"
       ]
     },
     {
       "cluster_id": 1,
-      "records": 11,
-      "share_of_dataset": 0.11,
+      "records": 18,
+      "share_of_dataset": 0.15,
       "anonymous_rate": 0.0,
       "metadata_missing_rate": 0.0,
-      "avg_text_length": 435.1818181818182,
-      "avg_age": 40.09090909090909,
+      "avg_text_length": 445.77777777777777,
+      "avg_age": 48.44444444444444,
       "nationality_distribution": {
-        "Albania": 0.18181818181818182,
-        "Cyprus": 0.09090909090909091,
-        "Greece": 0.45454545454545453,
-        "Romania": 0.2727272727272727
+        "Albania": 0.2222222222222222,
+        "Bulgaria": 0.2222222222222222,
+        "Cyprus": 0.2222222222222222,
+        "Greece": 0.2777777777777778,
+        "Romania": 0.05555555555555555
       },
       "background_distribution": {
-        "Consultant": 0.18181818181818182,
-        "Engineer": 0.45454545454545453,
-        "HR": 0.09090909090909091,
-        "Teacher": 0.2727272727272727
+        "Consultant": 0.2222222222222222,
+        "Engineer": 0.2777777777777778,
+        "HR": 0.2222222222222222,
+        "Sales": 0.2222222222222222,
+        "Teacher": 0.05555555555555555
       },
       "age_bucket_distribution": {
-        "18-29": 0.45454545454545453,
-        "30-44": 0.2727272727272727,
-        "60+": 0.2727272727272727
+        "18-29": 0.2222222222222222,
+        "45-59": 0.6111111111111112,
+        "60+": 0.16666666666666666
       },
       "opinion_distribution": {
-        "concern": 0.09090909090909091,
-        "conditional": 0.2727272727272727,
-        "oppose": 0.18181818181818182,
-        "support": 0.45454545454545453
+        "oppose": 0.7777777777777778,
+        "support": 0.2222222222222222
       },
       "answer_quality_distribution": {
         "incorrect": 1.0
       },
       "bias_group_distribution": {
-        "general_underrepresented": 0.36363636363636365,
-        "midcareer_conditional_present": 0.18181818181818182,
-        "senior_oppose_overrepresented": 0.09090909090909091,
-        "young_support_overrepresented": 0.36363636363636365
+        "senior_oppose_overrepresented": 0.7777777777777778,
+        "young_support_overrepresented": 0.2222222222222222
       },
-      "nationality_tvd_vs_dataset": 0.2690909090909091,
-      "background_tvd_vs_dataset": 0.2690909090909091,
-      "age_bucket_tvd_vs_dataset": 0.23999999999999996,
+      "nationality_tvd_vs_dataset": 0.1611111111111111,
+      "background_tvd_vs_dataset": 0.1611111111111111,
+      "age_bucket_tvd_vs_dataset": 0.32777777777777783,
       "top_terms": [
-        "people",
-        "think",
+        "war",
+        "and",
+        "global",
+        "east",
         "the",
-        "might",
-        "balance",
-        "work-life",
-        "maybe",
-        "but"
+        "impact",
+        "hormuz",
+        "world"
       ]
     },
     {
       "cluster_id": 2,
-      "records": 15,
-      "share_of_dataset": 0.15,
+      "records": 30,
+      "share_of_dataset": 0.25,
       "anonymous_rate": 0.0,
       "metadata_missing_rate": 0.0,
-      "avg_text_length": 500.8,
-      "avg_age": 39.13333333333333,
+      "avg_text_length": 507.46666666666664,
+      "avg_age": 42.53333333333333,
       "nationality_distribution": {
-        "Albania": 0.13333333333333333,
-        "Bulgaria": 0.2,
-        "Cyprus": 0.5333333333333333,
-        "Greece": 0.13333333333333333
+        "Albania": 0.1,
+        "Bulgaria": 0.16666666666666666,
+        "Cyprus": 0.16666666666666666,
+        "Greece": 0.3,
+        "Romania": 0.26666666666666666
       },
       "background_distribution": {
-        "Consultant": 0.13333333333333333,
-        "Engineer": 0.13333333333333333,
-        "HR": 0.5333333333333333,
-        "Sales": 0.2
+        "Consultant": 0.1,
+        "Engineer": 0.3,
+        "HR": 0.16666666666666666,
+        "Sales": 0.16666666666666666,
+        "Teacher": 0.26666666666666666
       },
       "age_bucket_distribution": {
-        "18-29": 0.4666666666666667,
-        "30-44": 0.2,
-        "45-59": 0.2,
-        "60+": 0.13333333333333333
+        "18-29": 0.4,
+        "30-44": 0.13333333333333333,
+        "45-59": 0.26666666666666666,
+        "60+": 0.2
       },
       "opinion_distribution": {
-        "concern": 0.26666666666666666,
-        "oppose": 0.13333333333333333,
-        "support": 0.6
+        "concern": 0.13333333333333333,
+        "conditional": 0.16666666666666666,
+        "oppose": 0.3333333333333333,
+        "support": 0.36666666666666664
       },
       "answer_quality_distribution": {
-        "correct": 0.8666666666666667,
-        "incorrect": 0.06666666666666667,
-        "partial": 0.06666666666666667
+        "correct": 0.8,
+        "partial": 0.2
       },
       "bias_group_distribution": {
         "country_age_targeted_bias": 0.06666666666666667,
-        "general_underrepresented": 0.06666666666666667,
-        "none": 0.6666666666666666,
-        "young_support_overrepresented": 0.2
+        "midcareer_conditional_present": 0.1,
+        "none": 0.03333333333333333,
+        "senior_oppose_overrepresented": 0.4,
+        "young_support_overrepresented": 0.4
       },
-      "nationality_tvd_vs_dataset": 0.3733333333333333,
-      "background_tvd_vs_dataset": 0.3733333333333333,
-      "age_bucket_tvd_vs_dataset": 0.20666666666666667,
+      "nationality_tvd_vs_dataset": 0.11666666666666665,
+      "background_tvd_vs_dataset": 0.11666666666666665,
+      "age_bucket_tvd_vs_dataset": 0.10833333333333334,
       "top_terms": [
-        "productivity",
-        "inclusion",
+        "war",
         "and",
-        "balance",
-        "mentorship",
-        "maintain",
-        "work-life",
-        "help"
+        "global",
+        "east",
+        "the",
+        "oil",
+        "hormuz",
+        "worldwide"
       ]
     },
     {
       "cluster_id": 3,
-      "records": 21,
-      "share_of_dataset": 0.21,
+      "records": 17,
+      "share_of_dataset": 0.14166666666666666,
       "anonymous_rate": 0.0,
       "metadata_missing_rate": 0.0,
-      "avg_text_length": 494.95238095238096,
-      "avg_age": 44.523809523809526,
+      "avg_text_length": 452.70588235294116,
+      "avg_age": 50.588235294117645,
       "nationality_distribution": {
-        "Albania": 0.047619047619047616,
-        "Bulgaria": 0.38095238095238093,
-        "Cyprus": 0.047619047619047616,
-        "Greece": 0.19047619047619047,
-        "Romania": 0.3333333333333333
+        "Albania": 0.058823529411764705,
+        "Bulgaria": 0.23529411764705882,
+        "Cyprus": 0.23529411764705882,
+        "Greece": 0.29411764705882354,
+        "Romania": 0.17647058823529413
       },
       "background_distribution": {
-        "Consultant": 0.047619047619047616,
-        "Engineer": 0.19047619047619047,
-        "HR": 0.047619047619047616,
-        "Sales": 0.38095238095238093,
-        "Teacher": 0.3333333333333333
+        "Consultant": 0.058823529411764705,
+        "Engineer": 0.29411764705882354,
+        "HR": 0.23529411764705882,
+        "Sales": 0.23529411764705882,
+        "Teacher": 0.17647058823529413
       },
       "age_bucket_distribution": {
-        "18-29": 0.23809523809523808,
-        "30-44": 0.19047619047619047,
-        "45-59": 0.47619047619047616,
-        "60+": 0.09523809523809523
+        "18-29": 0.11764705882352941,
+        "30-44": 0.29411764705882354,
+        "45-59": 0.11764705882352941,
+        "60+": 0.47058823529411764
       },
       "opinion_distribution": {
-        "concern": 0.047619047619047616,
-        "conditional": 0.2857142857142857,
-        "oppose": 0.6666666666666666
+        "concern": 0.058823529411764705,
+        "conditional": 0.17647058823529413,
+        "oppose": 0.5294117647058824,
+        "support": 0.23529411764705882
       },
       "answer_quality_distribution": {
-        "correct": 0.8095238095238095,
-        "partial": 0.19047619047619047
+        "incorrect": 0.8235294117647058,
+        "partial": 0.17647058823529413
       },
       "bias_group_distribution": {
-        "general_underrepresented": 0.14285714285714285,
-        "none": 0.6190476190476191,
-        "senior_oppose_overrepresented": 0.19047619047619047,
-        "young_support_overrepresented": 0.047619047619047616
+        "country_age_targeted_bias": 0.058823529411764705,
+        "midcareer_conditional_present": 0.23529411764705882,
+        "none": 0.058823529411764705,
+        "senior_oppose_overrepresented": 0.5294117647058824,
+        "young_support_overrepresented": 0.11764705882352941
       },
-      "nationality_tvd_vs_dataset": 0.27428571428571424,
-      "background_tvd_vs_dataset": 0.27428571428571424,
-      "age_bucket_tvd_vs_dataset": 0.2361904761904762,
+      "nationality_tvd_vs_dataset": 0.1480392156862745,
+      "background_tvd_vs_dataset": 0.1480392156862745,
+      "age_bucket_tvd_vs_dataset": 0.3397058823529412,
       "top_terms": [
-        "productivity",
-        "should",
+        "war",
         "and",
-        "work-life",
-        "inclusion",
-        "balance",
-        "mentorship",
-        "organization"
+        "east",
+        "the",
+        "hormuz",
+        "strait",
+        "middle",
+        "think"
       ]
     },
     {
       "cluster_id": 4,
-      "records": 16,
-      "share_of_dataset": 0.16,
+      "records": 17,
+      "share_of_dataset": 0.14166666666666666,
       "anonymous_rate": 0.0,
       "metadata_missing_rate": 0.0,
-      "avg_text_length": 471.8125,
-      "avg_age": 51.5,
+      "avg_text_length": 488.7647058823529,
+      "avg_age": 49.23529411764706,
       "nationality_distribution": {
-        "Albania": 0.5,
-        "Bulgaria": 0.125,
-        "Cyprus": 0.125,
-        "Greece": 0.25
+        "Albania": 0.11764705882352941,
+        "Bulgaria": 0.11764705882352941,
+        "Cyprus": 0.17647058823529413,
+        "Greece": 0.17647058823529413,
+        "Romania": 0.4117647058823529
       },
       "background_distribution": {
-        "Consultant": 0.5,
-        "Engineer": 0.25,
-        "HR": 0.125,
-        "Sales": 0.125
+        "Consultant": 0.11764705882352941,
+        "Engineer": 0.17647058823529413,
+        "HR": 0.17647058823529413,
+        "Sales": 0.11764705882352941,
+        "Teacher": 0.4117647058823529
       },
       "age_bucket_distribution": {
-        "18-29": 0.125,
-        "30-44": 0.1875,
-        "45-59": 0.25,
-        "60+": 0.4375
+        "18-29": 0.17647058823529413,
+        "30-44": 0.23529411764705882,
+        "45-59": 0.17647058823529413,
+        "60+": 0.4117647058823529
       },
       "opinion_distribution": {
-        "concern": 0.375,
-        "conditional": 0.0625,
-        "oppose": 0.4375,
-        "support": 0.125
+        "concern": 0.11764705882352941,
+        "conditional": 0.23529411764705882,
+        "oppose": 0.47058823529411764,
+        "support": 0.17647058823529413
       },
       "answer_quality_distribution": {
-        "correct": 0.25,
-        "incorrect": 0.3125,
-        "partial": 0.4375
+        "correct": 0.058823529411764705,
+        "incorrect": 0.23529411764705882,
+        "partial": 0.7058823529411765
       },
       "bias_group_distribution": {
-        "country_age_targeted_bias": 0.125,
-        "general_underrepresented": 0.1875,
-        "midcareer_conditional_present": 0.0625,
-        "none": 0.125,
-        "senior_oppose_overrepresented": 0.5
+        "midcareer_conditional_present": 0.17647058823529413,
+        "none": 0.23529411764705882,
+        "senior_oppose_overrepresented": 0.5294117647058824,
+        "young_support_overrepresented": 0.058823529411764705
       },
-      "nationality_tvd_vs_dataset": 0.35,
-      "background_tvd_vs_dataset": 0.35,
-      "age_bucket_tvd_vs_dataset": 0.20750000000000002,
+      "nationality_tvd_vs_dataset": 0.1965686274509804,
+      "background_tvd_vs_dataset": 0.1965686274509804,
+      "age_bucket_tvd_vs_dataset": 0.22205882352941175,
       "top_terms": [
-        "mentorship",
+        "war",
+        "and",
+        "east",
         "the",
-        "can",
-        "work-life",
-        "balance",
-        "productivity",
-        "inclusion",
-        "might"
+        "hormuz",
+        "strait",
+        "middle",
+        "prices"
       ]
     },
     {
       "cluster_id": 5,
-      "records": 16,
-      "share_of_dataset": 0.16,
+      "records": 21,
+      "share_of_dataset": 0.175,
       "anonymous_rate": 0.0,
       "metadata_missing_rate": 0.0,
-      "avg_text_length": 493.875,
-      "avg_age": 45.9375,
+      "avg_text_length": 520.7142857142857,
+      "avg_age": 45.714285714285715,
       "nationality_distribution": {
-        "Albania": 0.125,
-        "Bulgaria": 0.125,
-        "Cyprus": 0.125,
-        "Greece": 0.3125,
-        "Romania": 0.3125
+        "Albania": 0.38095238095238093,
+        "Bulgaria": 0.14285714285714285,
+        "Cyprus": 0.14285714285714285,
+        "Greece": 0.14285714285714285,
+        "Romania": 0.19047619047619047
       },
       "background_distribution": {
-        "Consultant": 0.125,
-        "Engineer": 0.3125,
-        "HR": 0.125,
-        "Sales": 0.125,
-        "Teacher": 0.3125
+        "Consultant": 0.38095238095238093,
+        "Engineer": 0.14285714285714285,
+        "HR": 0.14285714285714285,
+        "Sales": 0.14285714285714285,
+        "Teacher": 0.19047619047619047
       },
       "age_bucket_distribution": {
-        "18-29": 0.1875,
-        "30-44": 0.3125,
-        "45-59": 0.25,
-        "60+": 0.25
+        "18-29": 0.2857142857142857,
+        "30-44": 0.14285714285714285,
+        "45-59": 0.3333333333333333,
+        "60+": 0.23809523809523808
       },
       "opinion_distribution": {
-        "concern": 0.125,
-        "conditional": 0.625,
-        "support": 0.25
+        "conditional": 0.23809523809523808,
+        "oppose": 0.5714285714285714,
+        "support": 0.19047619047619047
       },
       "answer_quality_distribution": {
-        "correct": 0.625,
-        "partial": 0.375
+        "correct": 0.7619047619047619,
+        "incorrect": 0.09523809523809523,
+        "partial": 0.14285714285714285
       },
       "bias_group_distribution": {
-        "country_age_targeted_bias": 0.0625,
-        "general_underrepresented": 0.125,
-        "midcareer_conditional_present": 0.25,
-        "none": 0.5,
-        "senior_oppose_overrepresented": 0.0625
+        "country_age_targeted_bias": 0.047619047619047616,
+        "midcareer_conditional_present": 0.14285714285714285,
+        "senior_oppose_overrepresented": 0.5714285714285714,
+        "young_support_overrepresented": 0.23809523809523808
       },
-      "nationality_tvd_vs_dataset": 0.14500000000000002,
-      "background_tvd_vs_dataset": 0.14500000000000002,
-      "age_bucket_tvd_vs_dataset": 0.07250000000000001,
+      "nationality_tvd_vs_dataset": 0.2142857142857143,
+      "background_tvd_vs_dataset": 0.2142857142857143,
+      "age_bucket_tvd_vs_dataset": 0.05000000000000003,
       "top_terms": [
-        "productivity",
-        "regular",
+        "war",
         "and",
-        "balance",
-        "mentorship",
-        "maintain",
-        "check-ins",
-        "inclusion"
+        "east",
+        "the",
+        "oil",
+        "hormuz",
+        "blockage",
+        "worldwide"
       ]
     }
   ]

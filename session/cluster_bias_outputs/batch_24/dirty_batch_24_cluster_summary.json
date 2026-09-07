@@ -1,132 +1,334 @@
 {
-  "cluster_count": 3,
+  "cluster_count": 6,
   "silhouette_score": null,
   "clusters": [
     {
       "cluster_id": 0,
-      "records": 8,
-      "share_of_dataset": 0.5,
+      "records": 16,
+      "share_of_dataset": 0.16,
       "anonymous_rate": 0.0,
       "metadata_missing_rate": 0.0,
-      "avg_text_length": 357.0,
-      "avg_age": 27.0,
+      "avg_text_length": 475.125,
+      "avg_age": 49.875,
       "nationality_distribution": {
-        "Greece": 1.0
+        "Albania": 0.0625,
+        "Bulgaria": 0.4375,
+        "Cyprus": 0.3125,
+        "Greece": 0.1875
       },
       "background_distribution": {
-        "Engineer": 1.0
+        "Consultant": 0.0625,
+        "Engineer": 0.1875,
+        "HR": 0.3125,
+        "Sales": 0.4375
       },
       "age_bucket_distribution": {
-        "18-29": 1.0
+        "18-29": 0.125,
+        "30-44": 0.25,
+        "45-59": 0.25,
+        "60+": 0.375
       },
       "opinion_distribution": {
-        "support": 1.0
+        "concern": 0.625,
+        "conditional": 0.0625,
+        "oppose": 0.125,
+        "support": 0.1875
       },
       "answer_quality_distribution": {
         "correct": 0.625,
-        "incorrect": 0.375
+        "incorrect": 0.25,
+        "partial": 0.125
       },
       "bias_group_distribution": {
-        "young_support_overrepresented": 1.0
+        "country_age_targeted_bias": 0.25,
+        "none": 0.75
       },
-      "nationality_tvd_vs_dataset": 0.4375,
-      "background_tvd_vs_dataset": 0.4375,
-      "age_bucket_tvd_vs_dataset": 0.4375,
+      "nationality_tvd_vs_dataset": 0.35,
+      "background_tvd_vs_dataset": 0.35,
+      "age_bucket_tvd_vs_dataset": 0.125,
       "top_terms": [
-        "support",
-        "keeping",
-        "flexibility",
-        "mentoring",
-        "improve",
-        "greece",
-        "feedback",
-        "commuting"
+        "equality",
+        "and",
+        "the",
+        "gender",
+        "european",
+        "younger",
+        "union",
+        "policies"
       ]
     },
     {
       "cluster_id": 1,
-      "records": 6,
-      "share_of_dataset": 0.375,
+      "records": 16,
+      "share_of_dataset": 0.16,
       "anonymous_rate": 0.0,
       "metadata_missing_rate": 0.0,
-      "avg_text_length": 304.6666666666667,
-      "avg_age": 64.0,
+      "avg_text_length": 468.625,
+      "avg_age": 39.875,
       "nationality_distribution": {
-        "Greece": 0.16666666666666666,
-        "Romania": 0.8333333333333334
+        "Albania": 0.5,
+        "Bulgaria": 0.0625,
+        "Cyprus": 0.3125,
+        "Greece": 0.125
       },
       "background_distribution": {
-        "Engineer": 0.16666666666666666,
-        "Teacher": 0.8333333333333334
+        "Consultant": 0.5,
+        "Engineer": 0.125,
+        "HR": 0.3125,
+        "Sales": 0.0625
       },
       "age_bucket_distribution": {
-        "60+": 1.0
+        "18-29": 0.375,
+        "30-44": 0.25,
+        "45-59": 0.3125,
+        "60+": 0.0625
       },
       "opinion_distribution": {
-        "oppose": 1.0
+        "concern": 0.375,
+        "conditional": 0.375,
+        "oppose": 0.125,
+        "support": 0.125
       },
       "answer_quality_distribution": {
-        "correct": 0.6666666666666666,
-        "partial": 0.3333333333333333
+        "correct": 0.1875,
+        "incorrect": 0.5,
+        "partial": 0.3125
       },
       "bias_group_distribution": {
-        "senior_oppose_overrepresented": 1.0
+        "country_age_targeted_bias": 0.625,
+        "none": 0.375
       },
-      "nationality_tvd_vs_dataset": 0.39583333333333337,
-      "background_tvd_vs_dataset": 0.39583333333333337,
-      "age_bucket_tvd_vs_dataset": 0.5625,
+      "nationality_tvd_vs_dataset": 0.4125,
+      "background_tvd_vs_dataset": 0.4125,
+      "age_bucket_tvd_vs_dataset": 0.1875,
       "top_terms": [
-        "late-career",
-        "accessibility",
-        "benefits",
-        "flexibility",
-        "health",
-        "60+",
-        "missed",
-        "mentoring"
+        "equality",
+        "the",
+        "gender",
+        "mindset",
+        "more",
+        "and",
+        "younger",
+        "especially"
       ]
     },
     {
       "cluster_id": 2,
-      "records": 2,
-      "share_of_dataset": 0.125,
+      "records": 20,
+      "share_of_dataset": 0.2,
       "anonymous_rate": 0.0,
       "metadata_missing_rate": 0.0,
-      "avg_text_length": 340.0,
-      "avg_age": 45.5,
+      "avg_text_length": 472.65,
+      "avg_age": 46.6,
       "nationality_distribution": {
-        "Romania": 1.0
+        "Albania": 0.25,
+        "Bulgaria": 0.4,
+        "Cyprus": 0.1,
+        "Greece": 0.1,
+        "Romania": 0.15
       },
       "background_distribution": {
-        "Teacher": 1.0
+        "Consultant": 0.25,
+        "Engineer": 0.1,
+        "HR": 0.1,
+        "Sales": 0.4,
+        "Teacher": 0.15
       },
       "age_bucket_distribution": {
-        "18-29": 0.5,
-        "60+": 0.5
+        "18-29": 0.3,
+        "30-44": 0.15,
+        "45-59": 0.2,
+        "60+": 0.35
       },
       "opinion_distribution": {
-        "concern": 1.0
+        "concern": 0.15,
+        "oppose": 0.45,
+        "support": 0.4
       },
       "answer_quality_distribution": {
-        "correct": 0.5,
-        "partial": 0.5
+        "correct": 0.7,
+        "incorrect": 0.2,
+        "partial": 0.1
       },
       "bias_group_distribution": {
-        "none": 0.5,
-        "senior_oppose_overrepresented": 0.5
+        "country_age_targeted_bias": 0.35,
+        "none": 0.65
       },
-      "nationality_tvd_vs_dataset": 0.5625,
-      "background_tvd_vs_dataset": 0.5625,
-      "age_bucket_tvd_vs_dataset": 0.0625,
+      "nationality_tvd_vs_dataset": 0.25,
+      "background_tvd_vs_dataset": 0.25,
+      "age_bucket_tvd_vs_dataset": 0.14999999999999997,
       "top_terms": [
-        "belonging",
-        "organization",
-        "knowledge",
-        "does",
-        "have",
-        "work-life",
-        "romania",
-        "boundaries"
+        "equality",
+        "and",
+        "the",
+        "gender",
+        "mindset",
+        "european",
+        "union",
+        "policies"
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "records": 15,
+      "share_of_dataset": 0.15,
+      "anonymous_rate": 0.0,
+      "metadata_missing_rate": 0.0,
+      "avg_text_length": 505.93333333333334,
+      "avg_age": 49.733333333333334,
+      "nationality_distribution": {
+        "Albania": 0.2,
+        "Cyprus": 0.13333333333333333,
+        "Greece": 0.06666666666666667,
+        "Romania": 0.6
+      },
+      "background_distribution": {
+        "Consultant": 0.2,
+        "Engineer": 0.06666666666666667,
+        "HR": 0.13333333333333333,
+        "Teacher": 0.6
+      },
+      "age_bucket_distribution": {
+        "18-29": 0.13333333333333333,
+        "30-44": 0.26666666666666666,
+        "45-59": 0.2,
+        "60+": 0.4
+      },
+      "opinion_distribution": {
+        "concern": 0.06666666666666667,
+        "conditional": 0.26666666666666666,
+        "oppose": 0.26666666666666666,
+        "support": 0.4
+      },
+      "answer_quality_distribution": {
+        "correct": 1.0
+      },
+      "bias_group_distribution": {
+        "country_age_targeted_bias": 0.26666666666666666,
+        "none": 0.7333333333333333
+      },
+      "nationality_tvd_vs_dataset": 0.4,
+      "background_tvd_vs_dataset": 0.4,
+      "age_bucket_tvd_vs_dataset": 0.16666666666666669,
+      "top_terms": [
+        "equality",
+        "the",
+        "gender",
+        "and",
+        "european",
+        "union",
+        "mindset",
+        "believe"
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "records": 19,
+      "share_of_dataset": 0.19,
+      "anonymous_rate": 0.0,
+      "metadata_missing_rate": 0.0,
+      "avg_text_length": 502.8421052631579,
+      "avg_age": 42.10526315789474,
+      "nationality_distribution": {
+        "Albania": 0.10526315789473684,
+        "Bulgaria": 0.10526315789473684,
+        "Cyprus": 0.21052631578947367,
+        "Greece": 0.3157894736842105,
+        "Romania": 0.2631578947368421
+      },
+      "background_distribution": {
+        "Consultant": 0.10526315789473684,
+        "Engineer": 0.3157894736842105,
+        "HR": 0.21052631578947367,
+        "Sales": 0.10526315789473684,
+        "Teacher": 0.2631578947368421
+      },
+      "age_bucket_distribution": {
+        "18-29": 0.21052631578947367,
+        "30-44": 0.42105263157894735,
+        "45-59": 0.2631578947368421,
+        "60+": 0.10526315789473684
+      },
+      "opinion_distribution": {
+        "concern": 0.42105263157894735,
+        "conditional": 0.10526315789473684,
+        "oppose": 0.3157894736842105,
+        "support": 0.15789473684210525
+      },
+      "answer_quality_distribution": {
+        "correct": 0.6842105263157895,
+        "partial": 0.3157894736842105
+      },
+      "bias_group_distribution": {
+        "country_age_targeted_bias": 0.42105263157894735,
+        "none": 0.5789473684210527
+      },
+      "nationality_tvd_vs_dataset": 0.1894736842105263,
+      "background_tvd_vs_dataset": 0.1894736842105263,
+      "age_bucket_tvd_vs_dataset": 0.18421052631578946,
+      "top_terms": [
+        "equality",
+        "and",
+        "the",
+        "gender",
+        "believe",
+        "mindset",
+        "equal",
+        "progress"
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "records": 14,
+      "share_of_dataset": 0.14,
+      "anonymous_rate": 0.0,
+      "metadata_missing_rate": 0.0,
+      "avg_text_length": 500.5,
+      "avg_age": 43.642857142857146,
+      "nationality_distribution": {
+        "Albania": 0.07142857142857142,
+        "Bulgaria": 0.14285714285714285,
+        "Cyprus": 0.14285714285714285,
+        "Greece": 0.42857142857142855,
+        "Romania": 0.21428571428571427
+      },
+      "background_distribution": {
+        "Consultant": 0.07142857142857142,
+        "Engineer": 0.42857142857142855,
+        "HR": 0.14285714285714285,
+        "Sales": 0.14285714285714285,
+        "Teacher": 0.21428571428571427
+      },
+      "age_bucket_distribution": {
+        "18-29": 0.35714285714285715,
+        "30-44": 0.14285714285714285,
+        "45-59": 0.2857142857142857,
+        "60+": 0.21428571428571427
+      },
+      "opinion_distribution": {
+        "conditional": 0.5,
+        "support": 0.5
+      },
+      "answer_quality_distribution": {
+        "correct": 0.7142857142857143,
+        "partial": 0.2857142857142857
+      },
+      "bias_group_distribution": {
+        "country_age_targeted_bias": 0.5,
+        "none": 0.5
+      },
+      "nationality_tvd_vs_dataset": 0.24285714285714285,
+      "background_tvd_vs_dataset": 0.24285714285714285,
+      "age_bucket_tvd_vs_dataset": 0.14285714285714285,
+      "top_terms": [
+        "equality",
+        "and",
+        "the",
+        "gender",
+        "younger",
+        "mindset",
+        "equal",
+        "generations"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "records": 100,
+  "records": 120,
   "cluster_count": 6,
   "anonymous_rate": 0.0,
   "metadata_missing_rate": 0.0,
@@ -12,50 +12,49 @@
   },
   "representation": {
     "nationality_distribution": {
-      "Albania": 0.16,
-      "Bulgaria": 0.2,
-      "Cyprus": 0.16,
-      "Greece": 0.24,
-      "Romania": 0.24
+      "Albania": 0.16666666666666666,
+      "Bulgaria": 0.20833333333333334,
+      "Cyprus": 0.175,
+      "Greece": 0.23333333333333334,
+      "Romania": 0.21666666666666667
     },
     "background_distribution": {
-      "Consultant": 0.16,
-      "Engineer": 0.24,
-      "HR": 0.16,
-      "Sales": 0.2,
-      "Teacher": 0.24
+      "Consultant": 0.16666666666666666,
+      "Engineer": 0.23333333333333334,
+      "HR": 0.175,
+      "Sales": 0.20833333333333334,
+      "Teacher": 0.21666666666666667
     },
     "age_bucket_distribution": {
-      "18-29": 0.26,
-      "30-44": 0.26,
-      "45-59": 0.24,
-      "60+": 0.24
+      "18-29": 0.2916666666666667,
+      "30-44": 0.15,
+      "45-59": 0.2833333333333333,
+      "60+": 0.275
     },
     "opinion_distribution": {
-      "concern": 0.22,
-      "conditional": 0.24,
-      "oppose": 0.27,
-      "support": 0.27
+      "concern": 0.058333333333333334,
+      "conditional": 0.15833333333333333,
+      "oppose": 0.5,
+      "support": 0.2833333333333333
     },
     "answer_quality_distribution": {
-      "correct": 0.63,
-      "incorrect": 0.17,
-      "partial": 0.2
+      "correct": 0.4,
+      "incorrect": 0.31666666666666665,
+      "partial": 0.2833333333333333
     },
     "bias_group_distribution": {
-      "country_age_targeted_bias": 0.04,
-      "general_underrepresented": 0.14,
-      "midcareer_conditional_present": 0.09,
-      "none": 0.48,
-      "senior_oppose_overrepresented": 0.16,
-      "young_support_overrepresented": 0.09
+      "country_age_targeted_bias": 0.03333333333333333,
+      "midcareer_conditional_present": 0.125,
+      "none": 0.06666666666666667,
+      "senior_oppose_overrepresented": 0.5083333333333333,
+      "young_support_overrepresented": 0.26666666666666666
     }
   },
   "cluster_bias_signals": {
-    "weighted_nationality_tvd": 0.26999999999999996,
-    "weighted_background_tvd": 0.26999999999999996,
-    "weighted_age_bucket_tvd": 0.1868,
-    "largest_cluster_share": 0.21,
+    "weighted_nationality_tvd": 0.16847222222222222,
+    "weighted_background_tvd": 0.16847222222222222,
+    "weighted_age_bucket_tvd": 0.18993055555555555,
+    "largest_cluster_share": 0.25,
     "silhouette_score": null
   }
 }

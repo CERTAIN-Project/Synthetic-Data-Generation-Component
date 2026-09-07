@@ -4,295 +4,330 @@
   "clusters": [
     {
       "cluster_id": 0,
-      "records": 9,
-      "share_of_dataset": 0.225,
+      "records": 28,
+      "share_of_dataset": 0.23333333333333334,
       "anonymous_rate": 0.0,
       "metadata_missing_rate": 0.0,
-      "avg_text_length": 464.77777777777777,
-      "avg_age": 45.77777777777778,
+      "avg_text_length": 516.7857142857143,
+      "avg_age": 46.107142857142854,
       "nationality_distribution": {
-        "Bulgaria": 0.1111111111111111,
-        "Cyprus": 0.2222222222222222,
-        "Greece": 0.5555555555555556,
-        "Romania": 0.1111111111111111
+        "Albania": 0.14285714285714285,
+        "Bulgaria": 0.2857142857142857,
+        "Cyprus": 0.21428571428571427,
+        "Greece": 0.14285714285714285,
+        "Romania": 0.21428571428571427
       },
       "background_distribution": {
-        "Engineer": 0.5555555555555556,
-        "HR": 0.2222222222222222,
-        "Sales": 0.1111111111111111,
-        "Teacher": 0.1111111111111111
+        "Consultant": 0.14285714285714285,
+        "Engineer": 0.14285714285714285,
+        "HR": 0.21428571428571427,
+        "Sales": 0.2857142857142857,
+        "Teacher": 0.21428571428571427
       },
       "age_bucket_distribution": {
-        "18-29": 0.2222222222222222,
-        "30-44": 0.3333333333333333,
-        "45-59": 0.1111111111111111,
-        "60+": 0.3333333333333333
+        "18-29": 0.25,
+        "30-44": 0.25,
+        "45-59": 0.17857142857142858,
+        "60+": 0.32142857142857145
       },
       "opinion_distribution": {
-        "concern": 0.2222222222222222,
-        "conditional": 0.2222222222222222,
-        "oppose": 0.5555555555555556
-      },
-      "answer_quality_distribution": {
-        "correct": 0.5555555555555556,
-        "partial": 0.4444444444444444
-      },
-      "bias_group_distribution": {
-        "country_age_targeted_bias": 0.5555555555555556,
-        "none": 0.4444444444444444
-      },
-      "nationality_tvd_vs_dataset": 0.37777777777777777,
-      "background_tvd_vs_dataset": 0.37777777777777777,
-      "age_bucket_tvd_vs_dataset": 0.16666666666666666,
-      "top_terms": [
-        "strong",
-        "has",
-        "panathinaikos",
-        "other",
-        "euroleague",
-        "the",
-        "best",
-        "and"
-      ]
-    },
-    {
-      "cluster_id": 1,
-      "records": 2,
-      "share_of_dataset": 0.05,
-      "anonymous_rate": 0.0,
-      "metadata_missing_rate": 0.0,
-      "avg_text_length": 451.5,
-      "avg_age": 58.0,
-      "nationality_distribution": {
-        "Albania": 0.5,
-        "Greece": 0.5
-      },
-      "background_distribution": {
-        "Consultant": 0.5,
-        "Engineer": 0.5
-      },
-      "age_bucket_distribution": {
-        "45-59": 0.5,
-        "60+": 0.5
-      },
-      "opinion_distribution": {
-        "support": 1.0
-      },
-      "answer_quality_distribution": {
-        "partial": 1.0
-      },
-      "bias_group_distribution": {
-        "country_age_targeted_bias": 1.0
-      },
-      "nationality_tvd_vs_dataset": 0.6,
-      "background_tvd_vs_dataset": 0.6,
-      "age_bucket_tvd_vs_dataset": 0.5,
-      "top_terms": [
-        "legacy",
-        "top",
-        "performance",
-        "multiple",
-        "championships",
-        "still",
-        "also",
-        "panathinaikos"
-      ]
-    },
-    {
-      "cluster_id": 2,
-      "records": 11,
-      "share_of_dataset": 0.275,
-      "anonymous_rate": 0.0,
-      "metadata_missing_rate": 0.0,
-      "avg_text_length": 470.09090909090907,
-      "avg_age": 47.0,
-      "nationality_distribution": {
-        "Albania": 0.18181818181818182,
-        "Bulgaria": 0.2727272727272727,
-        "Cyprus": 0.18181818181818182,
-        "Greece": 0.09090909090909091,
-        "Romania": 0.2727272727272727
-      },
-      "background_distribution": {
-        "Consultant": 0.18181818181818182,
-        "Engineer": 0.09090909090909091,
-        "HR": 0.18181818181818182,
-        "Sales": 0.2727272727272727,
-        "Teacher": 0.2727272727272727
-      },
-      "age_bucket_distribution": {
-        "18-29": 0.09090909090909091,
-        "30-44": 0.2727272727272727,
-        "45-59": 0.5454545454545454,
-        "60+": 0.09090909090909091
-      },
-      "opinion_distribution": {
-        "concern": 0.18181818181818182,
-        "conditional": 0.7272727272727273,
-        "support": 0.09090909090909091
-      },
-      "answer_quality_distribution": {
-        "correct": 0.6363636363636364,
-        "partial": 0.36363636363636365
-      },
-      "bias_group_distribution": {
-        "country_age_targeted_bias": 0.2727272727272727,
-        "none": 0.7272727272727273
-      },
-      "nationality_tvd_vs_dataset": 0.14545454545454545,
-      "background_tvd_vs_dataset": 0.14545454545454545,
-      "age_bucket_tvd_vs_dataset": 0.3181818181818181,
-      "top_terms": [
-        "clubs",
-        "however",
-        "strong",
-        "panathinaikos",
-        "euroleague",
-        "the",
-        "best",
-        "one"
-      ]
-    },
-    {
-      "cluster_id": 3,
-      "records": 6,
-      "share_of_dataset": 0.15,
-      "anonymous_rate": 0.0,
-      "metadata_missing_rate": 0.0,
-      "avg_text_length": 465.5,
-      "avg_age": 36.833333333333336,
-      "nationality_distribution": {
-        "Albania": 0.6666666666666666,
-        "Cyprus": 0.16666666666666666,
-        "Greece": 0.16666666666666666
-      },
-      "background_distribution": {
-        "Consultant": 0.6666666666666666,
-        "Engineer": 0.16666666666666666,
-        "HR": 0.16666666666666666
-      },
-      "age_bucket_distribution": {
-        "18-29": 0.5,
-        "30-44": 0.3333333333333333,
-        "60+": 0.16666666666666666
-      },
-      "opinion_distribution": {
-        "conditional": 0.3333333333333333,
-        "support": 0.6666666666666666
-      },
-      "answer_quality_distribution": {
-        "correct": 0.5,
-        "incorrect": 0.16666666666666666,
-        "partial": 0.3333333333333333
-      },
-      "bias_group_distribution": {
-        "country_age_targeted_bias": 0.8333333333333334,
-        "none": 0.16666666666666666
-      },
-      "nationality_tvd_vs_dataset": 0.4666666666666667,
-      "background_tvd_vs_dataset": 0.4666666666666667,
-      "age_bucket_tvd_vs_dataset": 0.3333333333333333,
-      "top_terms": [
-        "clubs",
-        "strong",
-        "also",
-        "panathinaikos",
-        "other",
-        "euroleague",
-        "the",
-        "best"
-      ]
-    },
-    {
-      "cluster_id": 4,
-      "records": 2,
-      "share_of_dataset": 0.05,
-      "anonymous_rate": 0.0,
-      "metadata_missing_rate": 0.0,
-      "avg_text_length": 463.0,
-      "avg_age": 39.5,
-      "nationality_distribution": {
-        "Albania": 0.5,
-        "Romania": 0.5
-      },
-      "background_distribution": {
-        "Consultant": 0.5,
-        "Teacher": 0.5
-      },
-      "age_bucket_distribution": {
-        "18-29": 0.5,
-        "45-59": 0.5
-      },
-      "opinion_distribution": {
-        "support": 1.0
+        "concern": 0.25,
+        "conditional": 0.4642857142857143,
+        "oppose": 0.03571428571428571,
+        "support": 0.25
       },
       "answer_quality_distribution": {
         "correct": 1.0
       },
       "bias_group_distribution": {
-        "country_age_targeted_bias": 0.5,
-        "none": 0.5
+        "none": 1.0
       },
-      "nationality_tvd_vs_dataset": 0.6,
-      "background_tvd_vs_dataset": 0.6,
-      "age_bucket_tvd_vs_dataset": 0.5,
+      "nationality_tvd_vs_dataset": 0.11428571428571427,
+      "background_tvd_vs_dataset": 0.11428571428571427,
+      "age_bucket_tvd_vs_dataset": 0.07142857142857144,
       "top_terms": [
-        "apart",
-        "set",
-        "consistent",
-        "clubs",
-        "performance",
-        "however",
-        "championships",
-        "important"
+        "disrupt",
+        "war",
+        "energy",
+        "and",
+        "global",
+        "east",
+        "the",
+        "oil"
       ]
     },
     {
-      "cluster_id": 5,
-      "records": 10,
-      "share_of_dataset": 0.25,
+      "cluster_id": 1,
+      "records": 23,
+      "share_of_dataset": 0.19166666666666668,
       "anonymous_rate": 0.0,
       "metadata_missing_rate": 0.0,
-      "avg_text_length": 471.5,
-      "avg_age": 46.5,
+      "avg_text_length": 516.9130434782609,
+      "avg_age": 47.21739130434783,
       "nationality_distribution": {
-        "Bulgaria": 0.4,
-        "Cyprus": 0.3,
-        "Romania": 0.3
+        "Albania": 0.21739130434782608,
+        "Bulgaria": 0.21739130434782608,
+        "Cyprus": 0.21739130434782608,
+        "Greece": 0.2608695652173913,
+        "Romania": 0.08695652173913043
       },
       "background_distribution": {
-        "HR": 0.3,
-        "Sales": 0.4,
-        "Teacher": 0.3
+        "Consultant": 0.21739130434782608,
+        "Engineer": 0.2608695652173913,
+        "HR": 0.21739130434782608,
+        "Sales": 0.21739130434782608,
+        "Teacher": 0.08695652173913043
       },
       "age_bucket_distribution": {
-        "18-29": 0.3,
-        "30-44": 0.2,
-        "45-59": 0.1,
-        "60+": 0.4
+        "18-29": 0.17391304347826086,
+        "30-44": 0.21739130434782608,
+        "45-59": 0.391304347826087,
+        "60+": 0.21739130434782608
       },
       "opinion_distribution": {
-        "oppose": 1.0
+        "concern": 0.21739130434782608,
+        "conditional": 0.13043478260869565,
+        "oppose": 0.4782608695652174,
+        "support": 0.17391304347826086
       },
       "answer_quality_distribution": {
-        "correct": 0.7,
-        "partial": 0.3
+        "correct": 1.0
       },
       "bias_group_distribution": {
         "none": 1.0
       },
-      "nationality_tvd_vs_dataset": 0.4,
-      "background_tvd_vs_dataset": 0.4,
-      "age_bucket_tvd_vs_dataset": 0.2,
+      "nationality_tvd_vs_dataset": 0.11304347826086954,
+      "background_tvd_vs_dataset": 0.11304347826086954,
+      "age_bucket_tvd_vs_dataset": 0.14130434782608697,
       "top_terms": [
-        "real",
-        "madrid",
-        "have",
-        "moscow",
-        "like",
-        "club",
-        "panathinaikos",
-        "cska"
+        "war",
+        "energy",
+        "and",
+        "global",
+        "east",
+        "the",
+        "oil",
+        "hormuz"
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "records": 11,
+      "share_of_dataset": 0.09166666666666666,
+      "anonymous_rate": 0.0,
+      "metadata_missing_rate": 0.0,
+      "avg_text_length": 460.54545454545456,
+      "avg_age": 43.72727272727273,
+      "nationality_distribution": {
+        "Albania": 0.18181818181818182,
+        "Bulgaria": 0.09090909090909091,
+        "Cyprus": 0.2727272727272727,
+        "Greece": 0.09090909090909091,
+        "Romania": 0.36363636363636365
+      },
+      "background_distribution": {
+        "Consultant": 0.18181818181818182,
+        "Engineer": 0.09090909090909091,
+        "HR": 0.2727272727272727,
+        "Sales": 0.09090909090909091,
+        "Teacher": 0.36363636363636365
+      },
+      "age_bucket_distribution": {
+        "18-29": 0.45454545454545453,
+        "30-44": 0.09090909090909091,
+        "45-59": 0.09090909090909091,
+        "60+": 0.36363636363636365
+      },
+      "opinion_distribution": {
+        "concern": 0.09090909090909091,
+        "conditional": 0.2727272727272727,
+        "oppose": 0.36363636363636365,
+        "support": 0.2727272727272727
+      },
+      "answer_quality_distribution": {
+        "incorrect": 0.6363636363636364,
+        "partial": 0.36363636363636365
+      },
+      "bias_group_distribution": {
+        "none": 1.0
+      },
+      "nationality_tvd_vs_dataset": 0.23636363636363636,
+      "background_tvd_vs_dataset": 0.23636363636363636,
+      "age_bucket_tvd_vs_dataset": 0.3181818181818182,
+      "top_terms": [
+        "war",
+        "countries",
+        "global",
+        "east",
+        "the",
+        "hormuz",
+        "strait",
+        "middle"
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "records": 15,
+      "share_of_dataset": 0.125,
+      "anonymous_rate": 0.0,
+      "metadata_missing_rate": 0.0,
+      "avg_text_length": 498.2,
+      "avg_age": 42.13333333333333,
+      "nationality_distribution": {
+        "Albania": 0.06666666666666667,
+        "Bulgaria": 0.26666666666666666,
+        "Cyprus": 0.26666666666666666,
+        "Greece": 0.06666666666666667,
+        "Romania": 0.3333333333333333
+      },
+      "background_distribution": {
+        "Consultant": 0.06666666666666667,
+        "Engineer": 0.06666666666666667,
+        "HR": 0.26666666666666666,
+        "Sales": 0.26666666666666666,
+        "Teacher": 0.3333333333333333
+      },
+      "age_bucket_distribution": {
+        "18-29": 0.26666666666666666,
+        "30-44": 0.4,
+        "45-59": 0.13333333333333333,
+        "60+": 0.2
+      },
+      "opinion_distribution": {
+        "concern": 0.26666666666666666,
+        "conditional": 0.13333333333333333,
+        "oppose": 0.4666666666666667,
+        "support": 0.13333333333333333
+      },
+      "answer_quality_distribution": {
+        "correct": 0.6666666666666666,
+        "incorrect": 0.06666666666666667,
+        "partial": 0.26666666666666666
+      },
+      "bias_group_distribution": {
+        "none": 1.0
+      },
+      "nationality_tvd_vs_dataset": 0.26666666666666666,
+      "background_tvd_vs_dataset": 0.26666666666666666,
+      "age_bucket_tvd_vs_dataset": 0.16666666666666669,
+      "top_terms": [
+        "war",
+        "east",
+        "the",
+        "oil",
+        "hormuz",
+        "strait",
+        "middle",
+        "and"
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "records": 22,
+      "share_of_dataset": 0.18333333333333332,
+      "anonymous_rate": 0.0,
+      "metadata_missing_rate": 0.0,
+      "avg_text_length": 502.22727272727275,
+      "avg_age": 43.0,
+      "nationality_distribution": {
+        "Albania": 0.2727272727272727,
+        "Bulgaria": 0.18181818181818182,
+        "Cyprus": 0.22727272727272727,
+        "Greece": 0.13636363636363635,
+        "Romania": 0.18181818181818182
+      },
+      "background_distribution": {
+        "Consultant": 0.2727272727272727,
+        "Engineer": 0.13636363636363635,
+        "HR": 0.22727272727272727,
+        "Sales": 0.18181818181818182,
+        "Teacher": 0.18181818181818182
+      },
+      "age_bucket_distribution": {
+        "18-29": 0.2727272727272727,
+        "30-44": 0.2727272727272727,
+        "45-59": 0.3181818181818182,
+        "60+": 0.13636363636363635
+      },
+      "opinion_distribution": {
+        "concern": 0.36363636363636365,
+        "conditional": 0.22727272727272727,
+        "oppose": 0.2727272727272727,
+        "support": 0.13636363636363635
+      },
+      "answer_quality_distribution": {
+        "correct": 0.3181818181818182,
+        "partial": 0.6818181818181818
+      },
+      "bias_group_distribution": {
+        "none": 1.0
+      },
+      "nationality_tvd_vs_dataset": 0.09999999999999999,
+      "background_tvd_vs_dataset": 0.09999999999999999,
+      "age_bucket_tvd_vs_dataset": 0.11363636363636362,
+      "top_terms": [
+        "war",
+        "countries",
+        "and",
+        "global",
+        "east",
+        "the",
+        "oil",
+        "hormuz"
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "records": 21,
+      "share_of_dataset": 0.175,
+      "anonymous_rate": 0.0,
+      "metadata_missing_rate": 0.0,
+      "avg_text_length": 527.8571428571429,
+      "avg_age": 47.333333333333336,
+      "nationality_distribution": {
+        "Albania": 0.2857142857142857,
+        "Bulgaria": 0.09523809523809523,
+        "Cyprus": 0.047619047619047616,
+        "Greece": 0.42857142857142855,
+        "Romania": 0.14285714285714285
+      },
+      "background_distribution": {
+        "Consultant": 0.2857142857142857,
+        "Engineer": 0.42857142857142855,
+        "HR": 0.047619047619047616,
+        "Sales": 0.09523809523809523,
+        "Teacher": 0.14285714285714285
+      },
+      "age_bucket_distribution": {
+        "18-29": 0.19047619047619047,
+        "30-44": 0.23809523809523808,
+        "45-59": 0.2857142857142857,
+        "60+": 0.2857142857142857
+      },
+      "opinion_distribution": {
+        "concern": 0.23809523809523808,
+        "conditional": 0.09523809523809523,
+        "oppose": 0.23809523809523808,
+        "support": 0.42857142857142855
+      },
+      "answer_quality_distribution": {
+        "correct": 1.0
+      },
+      "bias_group_distribution": {
+        "none": 1.0
+      },
+      "nationality_tvd_vs_dataset": 0.3142857142857143,
+      "background_tvd_vs_dataset": 0.3142857142857143,
+      "age_bucket_tvd_vs_dataset": 0.07142857142857142,
+      "top_terms": [
+        "war",
+        "and",
+        "global",
+        "east",
+        "the",
+        "oil",
+        "hormuz",
+        "strait"
       ]
     }
   ]
