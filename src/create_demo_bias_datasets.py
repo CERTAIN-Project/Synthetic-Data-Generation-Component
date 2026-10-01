@@ -14,9 +14,30 @@ This script creates:
 
 from __future__ import annotations
 
+import argparse
 import json
+import os
+import sys
 from pathlib import Path
 from typing import Any
+
+# In the Docker image, certain_library is copied to /app/certain_library while
+# this script runs from /app/Synthetic-Data-Generation-Component/src. Outside
+# Docker, certain_library lives in the sibling Semantic_MLOps_engine repo.
+CERTAIN_REPO_CANDIDATES = [
+    Path("/app"),
+    Path(__file__).resolve().parents[2] / "Semantic_MLOps_engine",
+]
+
+for candidate_root in CERTAIN_REPO_CANDIDATES:
+    if (candidate_root / "certain_library" / "tracking" / "tracker.py").exists():
+        sys.path.insert(0, str(candidate_root))
+        break
+
+from certain_library.tracking.tracker import tracker  # type: ignore[reportMissingImports] 
+from certain_library.log_basic.log_params import log_params  # type: ignore[reportMissingImports]
+from certain_library.train_monitor.log_metrics import log_metrics  # type: ignore[reportMissingImports]
+from certain_library.data_analysis.log_dataset import log_dataset  # type: ignore[reportMissingImports]
 
 
 SESSION_DIR = Path("session")
@@ -481,12 +502,21 @@ def _targeted_biased_records(batch: int) -> list[dict[str, Any]]:
     return records
 
 
-def _write_batch(batch: int, clean_records: list[dict[str, Any]], dirty_records: list[dict[str, Any]]) -> None:
-    SESSION_DIR.mkdir(parents=True, exist_ok=True)
+def _write_batch(
+    batch: int,
+    clean_records: list[dict[str, Any]],
+    dirty_records: list[dict[str, Any]],
+    output_dir: Path | None = None,
+) -> None:
+    session_dir = (output_dir or SESSION_DIR).resolve()
+    session_dir.mkdir(parents=True, exist_ok=True)
+    clean_output_path = session_dir / f"simulation_output_clean_{batch}.json"
+    dirty_output_path = session_dir / f"simulation_output_dirty_{batch}.json"
+    annotations_path = session_dir / f"scenario_annotations_batch_{batch}.json"
     files = {
-        SESSION_DIR / f"simulation_output_clean_{batch}.json": _public_payload(clean_records),
-        SESSION_DIR / f"simulation_output_dirty_{batch}.json": _public_payload(dirty_records),
-        SESSION_DIR / f"scenario_annotations_batch_{batch}.json": {
+        clean_output_path: _public_payload(clean_records),
+        dirty_output_path: _public_payload(dirty_records),
+        annotations_path: {
             "TopicTitle": TOPIC_TITLE,
             "TopicSummary": TOPIC_SUMMARY,
             "Clean": [_annotation(record) for record in clean_records],
@@ -496,20 +526,95 @@ def _write_batch(batch: int, clean_records: list[dict[str, Any]], dirty_records:
     for path, payload in files.items():
         path.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
 
+        # Prepare a tabular object for log_dataset. `log_dataset` expects
+        # a DataFrame / list-of-dicts / numpy array / dict-of-columns. The
+        # payloads here are dictionaries that contain a "Dataset" key for
+        # the clean/dirty JSONs or separate "Clean"/"Dirty" lists for the
+        # annotations file. Extract the list-of-dicts shape so pandas
+        # conversion does not fail with uneven-length columns.
+        if isinstance(payload, dict):
+            if "Dataset" in payload and isinstance(payload["Dataset"], list):
+                data_to_log = payload["Dataset"]
+            elif ("Clean" in payload or "Dirty" in payload) and (
+                isinstance(payload.get("Clean", []), list)
+                or isinstance(payload.get("Dirty", []), list)
+            ):
+                combined = []
+                for rec in payload.get("Clean", []):
+                    r = rec.copy() if isinstance(rec, dict) else {"value": rec}
+                    r["_split"] = "clean"
+                    combined.append(r)
+                for rec in payload.get("Dirty", []):
+                    r = rec.copy() if isinstance(rec, dict) else {"value": rec}
+                    r["_split"] = "dirty"
+                    combined.append(r)
+                data_to_log = combined
+            else:
+                data_to_log = payload
+        else:
+            data_to_log = payload
+
+        try:
+            log_dataset(data_to_log, name=path.name, output_dir="data_creation")
+        except Exception as exc:  # pragma: no cover - best-effort logging
+            # Avoid failing dataset generation on non-critical logging errors.
+            log_params({f"log_dataset_error_{path.name}": str(exc)})
+
+    log_params(
+        {
+            f"batch_{batch}_clean_records": float(len(clean_records)),
+            f"batch_{batch}_dirty_records": float(len(dirty_records)),
+        }
+    )
+
+
+def _parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description="Generate deterministic clean/dirty demo datasets offline."
+    )
+    parser.add_argument(
+        "--batch",
+        type=int,
+        choices=(6, 7),
+        help="Generate only one demo batch. Defaults to generating both batches.",
+    )
+    parser.add_argument(
+        "--output-dir",
+        type=Path,
+        default=SESSION_DIR,
+        help="Directory where session JSON files will be written.",
+    )
+    return parser.parse_args()
+
 
 def main() -> None:
-    _write_batch(
-        batch=6,
-        clean_records=_balanced_records(batch=6, dataset_type="clean"),
-        dirty_records=_balanced_records(batch=6, dataset_type="dirty"),
-    )
-    _write_batch(
-        batch=7,
-        clean_records=_balanced_records(batch=7, dataset_type="clean"),
-        dirty_records=_targeted_biased_records(batch=7),
-    )
-    print("Created demo datasets: batch 6 non-biased, batch 7 targeted biased")
+    args = _parse_args()
+    batches = [args.batch] if args.batch is not None else [6, 7]
+
+    for batch in batches:
+        if batch == 6:
+            _write_batch(
+                batch=6,
+                clean_records=_balanced_records(batch=6, dataset_type="clean"),
+                dirty_records=_balanced_records(batch=6, dataset_type="dirty"),
+                output_dir=args.output_dir,
+            )
+        else:
+            _write_batch(
+                batch=7,
+                clean_records=_balanced_records(batch=7, dataset_type="clean"),
+                dirty_records=_targeted_biased_records(batch=7),
+                output_dir=args.output_dir,
+            )
+
+    selected = ", ".join(str(batch) for batch in batches)
+    print(f"Created demo datasets for batch(s): {selected} in {args.output_dir.resolve()}")
 
 
 if __name__ == "__main__":
-    main()
+    run_id = os.environ["MLFLOW_RUN_ID"]
+
+    with tracker.start_run(run_id=run_id):
+        log_params({'run the demo bias dataset creation': True})
+        main()
+ 
